@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="css/tei.css"?> 
+<?xml-model href="../schema/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ru"> 
+<teiHeader> 
+</teiHeader> 
+<text> 
+<body><lb/>
+
+<fw type="title">Дополнения и исправления к выпускам 11, 14, 21<lb/>и 23 &quot;Словаря русского языка <date>XI–XVІІ вв.</date>”</fw><fw type="title">К выпуску 11</fw>
+
+  <entry xml:lang="orv" xml:id="Невѣстный" type="mainEntry"> 
+    <form type="lemma"><orth>Невѣстный</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <cit type="example"><quote>Дѣвичьскую же и невѣстьную одежю ти достоино одьржащи<lb/><gloss lang="grc" class="ex">(νυμφικήν)</gloss>.</quote> <bibl><title class="source">Мин.авг.<hi rend="sup">1</hi></title>, <biblScope unit="page">185</biblScope>. <date notAfter="1200" notBefore="1100">XII в.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Невистный" type="mainEntry"> 
+    <form type="lemma"><orth>Невистный</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <cit type="example"><quote>Невистьныимъ видѣти и хромыимъ доброе течение даровалъ есть<lb/><gloss lang="grc" class="ex">(ἀβλεπτοῦσι τὸ βλέπειν)</gloss>.</quote> <bibl><title class="source">Мин.июль</title>, <biblScope unit="page">25</biblScope>. <date notAfter="1200" notBefore="1100">XII в.</date></bibl></cit> 
+      <cit type="example"><quote>Невистьнѣи очи просвѣтилъ еси<lb/><gloss lang="grc" class="ex">(ἀβλεπτούσας)</gloss>.</quote> <bibl><title class="source">Там же</title>, <biblScope unit="page">26</biblScope>.</bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Независтный" type="mainEntry"> 
+    <form type="lemma"><orth>Независтный</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <cit type="example"><quote>Независтьну бл҃гдть <gloss lang="grc" class="ex">(τὴν ἄφθονον χάριν)</gloss>.</quote> <bibl><title class="source">Мин.ноябрь</title>, <biblScope unit="page">440</biblScope>.<lb/><date when="1097">1097 г.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Неистовство" type="mainEntry"> 
+    <form type="lemma"><orth>Неистовство</orth></form><gramGrp><gram type="pos" value="NOUN"/></gramGrp>. 
+      <def><note rend="plain">К знач. 1</note>:</def> 
+      <cit type="example"><quote>Оставльшемъ тьму идольскааго неистовьства <gloss lang="grc" class="ex">(σκότος εἰ¬<lb/>δολομανίας)</gloss>.</quote> <bibl><title class="source">Мин.ноябрь</title>, <biblScope unit="page">297</biblScope>. <date when="1097">1097 г.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="НЕИСТЬРЖЕНЫЙ" type="mainEntry"> 
+    <form type="lemma"><orth>НЕИСТЬРЖЕНЫЙ</orth></form>, <gramGrp><gram type="pos" value="ADJ">прил.</gram></gramGrp> 
+    <sense n="1">1. 
+      <def>Безраздельный <note rend="plain">(?)</note>.</def> 
+      <cit type="example"><quote>Градъ твои дьржаву неистьр¬<lb/>жену имать <gloss lang="grc" class="ex">(τὸ κράτος ἀδιάσπαστον)</gloss>.</quote> <bibl><title class="source">Мин.авг.<hi rend="sup">1</hi></title>, <biblScope unit="page">181 об.</biblScope> <date notAfter="1200" notBefore="1100">XII в.</date></bibl></cit> 
+    </sense><lb/>
+    <sense n="2">2. 
+      <def>Неразрывный.</def> 
+      <cit type="example"><quote>Съвузу неистьржену того на брани простирая <gloss lang="grc" class="ex">(δεσμὸν<lb/>ἀδιάσπαστον)</gloss>.</quote> <bibl><title class="source">Мин.авг.<hi rend="sup">1</hi></title>, <biblScope unit="page">183</biblScope>. <date notAfter="1200" notBefore="1100">XII в.</date></bibl></cit> 
+    </sense> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="НЕИСЧЕРЕПЛЕМЫЙ" type="mainEntry"> 
+    <form type="lemma"><orth>НЕИСЧЕРЕПЛЕМЫЙ</orth></form> (<form type="variant"><orth>НЕИЧЕРЕП-</orth></form>)<gramGrp><gram type="pos" value="ADJ"/></gramGrp>. <note>Словарная статья, помещенная на<lb/>стр. 148 с заголовочным словом <ref type="lemma" rend="italic">неичереплемый</ref> должна быть помещена на алфа¬<lb/>витном месте <ref target="#неисчереплемый" type="entry" lang="orv">неисчереплемый</ref></note>.
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="НЕИСЧРѢПЛЕМЫЙ" type="mainEntry"> 
+    <form type="lemma"><orth>НЕИСЧРѢПЛЕМЫЙ</orth></form> (<form type="variant"><orth>НЕИЧРѢП-</orth></form>, <form type="variant"><orth>НЕИЩРѢП-</orth></form>), <gramGrp><gram type="pos" value="ADJ">прил.</gram></gramGrp> 
+      <def>Неисчерпаемый.</def><lb/>
+      <cit type="example"><quote>Ицѣление же вѣрьныимъ неищрѣплемая пучина яви ся <gloss lang="grc" class="ex">(ἀνεξάντλητον πέλαγος)</gloss>.</quote><lb/><bibl><title class="source">Мин.авг.<hi rend="sup">1</hi></title>, <biblScope unit="page">34</biblScope>. <date notAfter="1200" notBefore="1100">XII в.</date></bibl></cit> <note>[сюда же – материал из статьи вып. 11 <ref target="#неичрѣплемый" type="entry" lang="orv">неичрѣплемый</ref>]</note>. 
+    <xr type="related">— <lbl type="cf">Ср.</lbl><lb/><ref target="#неисчереплемый" type="entry" lang="orv">неисчереплемый</ref>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Нелѣпый" type="mainEntry"> 
+    <form type="lemma"><orth>Нелѣпый</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <def><note rend="plain">К знач. 1</note>:</def> 
+      <cit type="example"><quote>Нелѣпа одѣния и ветъхаго съвлѣче ся умръщвения Адамъ<lb/><gloss lang="grc" class="ex">(τοὺς ἀμόρφους χιτῶνας)</gloss>.</quote> <bibl><title class="source">Мин.авг.</title>, <biblScope unit="page">15</biblScope>. <date>XІ–XII вв.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Немолчно" type="mainEntry"> 
+    <form type="lemma"><orth>Немолчно</orth></form><gramGrp><gram type="pos" value="ADV"/></gramGrp>. 
+      <cit type="example"><quote>Прославляемъ немълъчьно <gloss lang="grc" class="ex">(ἀσιγήτως)</gloss>.</quote> <bibl><title class="source">Мин.сент.</title>, <biblScope unit="page">0139</biblScope>. <date when="1096">1096 г.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Непостояние" type="mainEntry"> 
+    <form type="lemma"><orth>Непостояние</orth></form><gramGrp><gram type="pos" value="NOUN"/></gramGrp>. 
+      <cit type="example"><quote>Обличивъ идольское непостояние <gloss lang="grc" class="ex">(τὸ ἄθεον)</gloss>.</quote> <bibl><title class="source">Мин.сент.</title>, <biblScope unit="page">033</biblScope>.<lb/><date when="1096">1096 г.</date></bibl></cit> <note>Процитировано под знач. 1 ‘непостоянство, нетвердость, шаткость’; долж¬<lb/>но быть: ‘несостоятельность’ (собств. ‘безбожие’)</note>.
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="НЕСМИРИТЕЛЬНЫЙ" type="mainEntry"> 
+    <form type="lemma"><orth>НЕСМИРИТЕЛЬНЫЙ</orth></form>, <gramGrp><gram type="pos" value="ADJ">прил.</gram></gramGrp> 
+      <def>Непримиримый.</def> 
+      <cit type="example"><quote>Писал еси... о имущих вражду не¬<lb/>смирителну, и како бы ихъ вражда утолити.</quote> <bibl><title class="source">Сл.мт.Дан.</title>, <biblScope unit="page">61</biblScope>. <date notAfter="1600" notBefore="1500">XVI в.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#несмиреный" type="entry" lang="orv">несмире¬<lb/>ный</ref> (в статье <ref target="#несмѣренный" type="entry" lang="orv">несмѣренный</ref> и <ref target="#несмиренный" type="entry" lang="orv">несмиренный</ref>).</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="НЕУСТРАШНЫЙ" type="mainEntry"> 
+    <form type="lemma"><orth>НЕУСТРАШНЫЙ</orth></form>, <gramGrp><gram type="pos" value="ADJ">прил.</gram></gramGrp> 
+      <def>Неустрашимый.</def> 
+      <cit type="example"><quote>Самохоть на подвигы отлучи ся <hi rend="italic">не¬<lb/>устрашьнымь</hi> <note>[<lbl type="alt" rend="italic">вар.</lbl> <date>XIІ–XIІІ вв.</date>]</note> съмыслъмь <gloss lang="grc" class="ex">(ἀπτοήτῳ)</gloss>.</quote> <bibl><title class="source">Мин.сент.</title>, <biblScope unit="page">018</biblScope>. <date when="1096">1096 г.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl><lb/><ref target="#неустрашеный" type="entry" lang="orv">неустрашеный</ref>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="ПРУД1" type="mainEntry"> 
+    <form type="lemma"><orth>ПРУД<hi rend="sup">1</hi></orth></form><gramGrp><gram type="pos" value="NOUN"/></gramGrp>. 
+      <def>Поток <etym lang="ukr"><hi rend="plain">(</hi><lbl type="cf">ср.</lbl> укр. диал. ‘быстрое течение воды; белор. диал. 'ручей'<hi rend="plain">)</hi></etym>.</def><lb/>
+      <cit type="example"><quote>Противу пруду воды текущие.</quote> <bibl><title class="source">Назиратель</title>, <biblScope unit="page">225</biblScope>. <date notAfter="1600" notBefore="1500">XVI в.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#прудокъ" type="entry" lang="orv">прудокъ</ref>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Равный" type="mainEntry"> 
+    <form type="lemma"><orth>Равный</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <def>Средний по имущественному или социальному положению.</def> 
+      <cit type="example"><quote>Пианьство<lb/>кн҃зь... землю пусту створяет, а людей добрых и равных, и мастеровъ в работѣ счи¬<lb/>няеть.</quote> <bibl><title class="text">(Сл. о хмеле)</title> <title class="source">Сб.Кир.-Б.м.</title>, <biblScope unit="page">65</biblScope>. <date notAfter="1500" notBefore="1400">XV в.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#равный" type="entry" lang="orv">равный</ref> <hi rend="plain">(<hi rend="italic">в знач.</hi> 10)</hi>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Разбой" type="mainEntry"> 
+    <form type="lemma"><orth>Разбой</orth></form><gramGrp><gram type="pos" value="NOUN"/></gramGrp>. 
+      <def>Повреждение судна бурей.</def> 
+      <cit type="example"><quote>Писалъ... я, холопъ вашъ, о морскомъ ходу<lb/>съ князь Васильемъ и съ князь Алексѣемъ Голицыными, как морѣ розносило, по¬<lb/>годами било... и что онъ князь Василей, и капитанъ, и стрельцы, и работные люди<lb/>про тотъ морской ходъ и отъ погоды разбой мнѣ, холопу вашему, сказали.</quote> <bibl><title class="source">Д.Ша¬<lb/>кловит.</title> <biblScope unit="volume">III</biblScope>, <biblScope unit="page">1345</biblScope>. <date when="1692">1692 г.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="РАЗВОДА" type="mainEntry"> 
+    <form type="lemma"><orth>РАЗВОДА</orth></form>, <gramGrp><gram type="gender">ж.</gram></gramGrp> 
+      <def>Размежевание.</def> 
+      <cit type="example"><quote>И обѣимъ др҃нямъ ево излюбленного сторожыла<lb/>розводе вѣрить и ничем не порочыт&lt;ь&gt;.</quote> <bibl><title class="source">Волог.письм.</title>, <biblScope unit="page">21</biblScope>. <date when="1693">1693 г.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#разводъ" type="entry" lang="orv">разводъ</ref>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="РАЗВРАЩЕВАТИ" type="mainEntry"> 
+    <form type="lemma"><orth>РАЗВРАЩЕВАТИ</orth></form><gramGrp><gram type="pos" value="VERB"/></gramGrp>. 
+      <def>Возмущать, подстрекать.</def> 
+      <cit type="example"><quote>Прислахъ добронравию твоему<lb/>мужа, иже не покориться повелѣнию кесареву и развращеваетъ многу чадъ, якоже<lb/>не жрети богомъ.</quote> <bibl><title class="text">(Муч.Мамонта)</title> <title class="source">ВМЧ</title>, <biblScope unit="volume">Сент. 1–13</biblScope>,<biblScope unit="page">129</biblScope>. <date notAfter="1600" notBefore="1500">XVI в.</date></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#развращати" type="entry" lang="orv">развращати</ref>.</xr>
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Разводити" type="mainEntry"> 
+    <form type="lemma"><orth>Разводити</orth></form><gramGrp><gram type="pos" value="VERB"/></gramGrp>. 
+      <def><note rend="plain">К знач. 6</note>: Отделять одно от другого.</def> <note>После цитаты должна следо¬<lb/>вать н.-нем. параллель: <ref type="lemma" lang="ger" rend="plain">van anderscheiden</ref></note>.
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Раждение" type="mainEntry"> 
+    <form type="lemma"><orth>Раждение</orth></form><gramGrp><gram type="pos" value="NOUN"/></gramGrp>. 
+      <cit type="example"><quote>Не подобаеть убо надѣяти ся о коеи любо вещи ч҃лвцѣ, проклято бо<lb/>есть, нъ присно пекущимъ ся нами Ги҃, яко тому раждение есть о насъ <gloss lang="grc" class="ex">(ἐπὶ τὸν ἀεὶ<lb/>μεριμνῶντα... κύριον)</gloss>.</quote> <bibl><title class="source">Панд.Ант.<hi rend="sup">1</hi></title>, <biblScope unit="page">145</biblScope>. <date notAfter="1100" notBefore="1000">XI в.</date></bibl></cit> 
+  </entry> 
+
+  <entry xml:lang="orv" xml:id="Раздный" type="mainEntry"> 
+    <form type="lemma"><orth>Раздный</orth></form><gramGrp><gram type="pos" value="ADJ"/></gramGrp>. 
+      <def>Худой, дырявый.</def> 
+      <cit type="example"><quote>В плесницахъ раздныихъ, яко многашды примерзаху<lb/>нозѣ его къ камени.</quote> <bibl><title class="source">Патерик Печ.</title>, <biblScope unit="page">130</biblScope>. <date notAfter="1500" notBefore="1400">XV в.</date> <origDate notAfter="" notBefore="">~ XІII в.</origDate></bibl></cit> 
+    <xr type="related">— <lbl type="cf">Ср.</lbl> <ref target="#розный" type="entry" lang="orv">розный</ref>.</xr>
+  </entry> 
+</body> 
+</text> 
+</TEI> 
