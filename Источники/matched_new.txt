@@ -1,0 +1,4125 @@
+? молитве С. Н. Б.	no match	probability was too low
+?.	no match	probability was too low
+?. отреч.	no match	probability was too low
+?ин. окт.	no match	probability was too low
+?п.	no match	probability was too low
+?покал.	no match	probability was too low
+?р. Наз.	no match	probability was too low
+?салт. Чуд.1	no match	probability was too low
+?фр. корм.	no match	probability was too low
+?фр. Сир.	no match	probability was too low
+?ЮБ	no match	probability was too low
+(1 Кор. XIV, 35)	no match	probability was too low
+(Ак.)	no match	probability was too low
+(Амф.)	no match	probability was too low
+(Апост. XIV в.)	no match	probability was too low
+(БАН2)	no match	probability was too low
+(В. I, 363)	no match	probability was too low
+(В. II, 39)	no match	probability was too low
+(В. II. 131)	no match	probability was too low
+(В.)	no match	probability was too low
+(В.).	no match	probability was too low
+(Варс. крм.)	no match	probability was too low
+(Варc. крм.)	no match	probability was too low
+(Волог. сб. Ак. н. XV в.)	no match	probability was too low
+(Др. Рос. гос. II, 107)	no match	probability was too low
+(Евг.)	no match	probability was too low
+(Златостр. XII в.)	no match	probability was too low
+(Изв. Арх. т. II. 109)	no match	probability was too low
+(Изв. т. VIII, 76)	no match	probability was too low
+(Ист. гос. Рос., т. VI, пр. 310)	no match	probability was too low
+(Ист. чт. II. 153)	no match	probability was too low
+(Исх. XXII, 13)	no match	probability was too low
+(Калайд. 198)	no match	probability was too low
+(Кар. И. Г. Р. т. IX. пр. 648)	no match	probability was too low
+(Кар. И. Г. Р. т. VII, пр. 103)	no match	probability was too low
+(Кар. И. Г. Р. т. X. пр. 426)	no match	probability was too low
+(Кар. И. Г. Р. X. 324 пр.)	no match	probability was too low
+(Кар. И. Г. Р., т. IX, пр. 648)	no match	probability was too low
+(Кар. И.Г.Р. VI пр. 103)	no match	probability was too low
+(Карамз. ИГР IX, прим. 348)	no match	probability was too low
+(Кол. II, 8)	no match	probability was too low
+(Конст. 1—2 кан. 6)	no match	probability was too low
+(Кор. 1. И. 1)	no match	probability was too low
+(Лев. XXIII. 34)	no match	probability was too low
+(Лих.)	no match	probability was too low
+(М.)	no match	probability was too low
+(Мат. 21)	no match	probability was too low
+(Мат. 48)	no match	probability was too low
+(Мат. Бусл. 55)	no match	probability was too low
+(Мин. июн. д. 1200 г.)	no match	probability was too low
+(Н.-Кес. 4)	no match	probability was too low
+(Новг.)	no match	probability was too low
+(Нор. 143)	no match	probability was too low
+(Нор. 2)	no match	probability was too low
+(Нор. 6)	no match	probability was too low
+(Нор., 141)	no match	probability was too low
+(Обол. 25)	no match	probability was too low
+(Оп. II. 2. 114)	no match	probability was too low
+(Острож.)	no match	probability was too low
+(Пар. 1370)	no match	probability was too low
+(Парем. 1270 г.)	no match	probability was too low
+(Пат. Печ. XIІ-XIІІ вв.)	no match	probability was too low
+(Пат. Печ.)	no match	probability was too low
+(по Варс. крм.)	no match	probability was too low
+(по Син. сп.)	no match	probability was too low
+(Прем. V. 22).	no match	probability was too low
+(Приб. Тв. св. о., 248)	no match	probability was too low
+(Приб. тв. св. от. 2.252)	no match	probability was too low
+(Приб. тв. св. от. II, 293)	no match	probability was too low
+(Рум. 173)	no match	probability was too low
+(Рум. 454)	no match	probability was too low
+(Сбор. 1414 г., 28)	no match	probability was too low
+(Сл. Ио. Злат.)	no match	probability was too low
+(Срз. III, 68)	no match	probability was too low
+(Тимоф. и Мавр.)	no match	probability was too low
+(толк. Упыр. 167)	no match	probability was too low
+(толк. Упыр. 205)	no match	probability was too low
+(толк. Упыр. 28)	no match	probability was too low
+(толк. Упыр. л. 228)	no match	probability was too low
+(толк. Упыр.)	no match	probability was too low
+(Толст.)	no match	probability was too low
+(Трул. 61)	no match	probability was too low
+(Упыр. 100).	no match	probability was too low
+(Упыр. 104)	no match	probability was too low
+(Упыр. 106)	no match	probability was too low
+(Упыр. 108)	no match	probability was too low
+(Упыр. 204)	no match	probability was too low
+(Упыр. 226)	no match	probability was too low
+(Упыр. 229)	no match	probability was too low
+(Упыр. 230 толк.)	no match	probability was too low
+(Упыр. 234)	no match	probability was too low
+(Упыр. 242)	no match	probability was too low
+(Упыр. 251)	no match	probability was too low
+(Упыр. 259)	no match	probability was too low
+(Упыр. 277)	no match	probability was too low
+(Упыр. 29)	no match	probability was too low
+(Упыр. 40)	no match	probability was too low
+(Упыр. 43)	no match	probability was too low
+(Упыр. 45)	no match	probability was too low
+(Упыр. 47)	no match	probability was too low
+(Упыр. 50)	no match	probability was too low
+(Упыр. 59)	no match	probability was too low
+(Упыр. 62)	no match	probability was too low
+(Упыр. 66)	no match	probability was too low
+(Упыр. 67)	no match	probability was too low
+(Упыр. 70)	no match	probability was too low
+(Упыр. 83)	no match	probability was too low
+(Упыр. 86)	no match	probability was too low
+(Упыр. 90)	no match	probability was too low
+(Упыр. 92)	no match	probability was too low
+(Упыр.)	no match	probability was too low
+(Упыр.).	no match	probability was too low
+(Упыр)	no match	probability was too low
+(Упыр).	no match	probability was too low
+(Упырь)	no match	probability was too low
+(Устав св. горы)	no match	probability was too low
+(Уч. Зап. IV. 201)	no match	probability was too low
+(Феод.Сик)	no match	probability was too low
+(Хроногр. XIV в.)	no match	probability was too low
+(Чуд. сбор. XIV в., 131)	no match	probability was too low
+(Чуд. сп. 138)	no match	probability was too low
+(Чуд. сп. 197)	no match	probability was too low
+(Чуд.)	no match	probability was too low
+(Чуд.).	no match	probability was too low
+(Io. Dam. Dial., PG, t. 94. col. 624)	no match	probability was too low
+(SJS 34, 614)	no match	probability was too low
+1 Кор. II, 4	no match	probability was too low
+1 Тим. V, 11	no match	probability was too low
+2 Мак.	no match	probability was too low
+3 Цар. 11, 28	no match	probability was too low
+3 Цар. V, 11	no match	probability was too low
+6.	no match	probability was too low
+А мелкоту товарыщей их казнить. Булав. восст.	no match	probability was too low
+А. Белоз. съезж. избы, карт.	no match	probability was too low
+А. Ворон. нриказн. избы	no match	probability was too low
+А. Ворон. съезж. избы, кор.	no match	probability was too low
+А. гр. распр. I	no match	probability was too low
+А. гражд. расп.	no match	probability was too low
+А. Дедил. воев. избы	no match	probability was too low
+А. закл. II.	no match	probability was too low
+А. и гр.Каз.	no match	probability was too low
+А. Ивер. м. (Грамотка старца Тита)	no match	probability was too low
+А. Ивер. м. Досмотр.	no match	probability was too low
+А. Ивер. м. Отп.	no match	probability was too low
+А. Ивер. м. Отп. Петра Апраксина	no match	probability was too low
+А. Ивер. м. Отп. служки X. Кирилова архим. Филофею	no match	probability was too low
+А. Ивер. м. Отп. старца печура Селивестра	no match	probability was too low
+А. Ивер. м. Приемн. росп. г. Ольшанска	no match	probability was too low
+А. Ивер. м. Роспись	no match	probability was too low
+А. Ивер. м. Чел.	no match	probability was too low
+А. Ивер. м. Чел. Аарону	no match	probability was too low
+А. Ивер. м. Челобитная	no match	probability was too low
+А. Ивер. м. Челобитная.	no match	probability was too low
+А. Ивер. м., Гр. старца архимандриту	no match	probability was too low
+А. Ка даш. сл.	no match	probability was too low
+А. кунгр.	no match	probability was too low
+А. Лих. (Деловая)	no match	probability was too low
+А. Лих. Чел. Белавинского	no match	probability was too low
+А. Моск. печ. двор.	no match	probability was too low
+А. Перт. м., № 48 (1).	no match	probability was too low
+А. сб. Мих.	no match	probability was too low
+А. Сир. м.	no match	probability was too low
+А. Соловьева	no match	probability was too low
+А. Соловьева.	no match	probability was too low
+А. Тр.-Сер. м.	no match	probability was too low
+А. Уст.1	no match	probability was too low
+А. черед.	no match	probability was too low
+А. Юж.	no match	probability was too low
+А. южн. и зап. Рос.	no match	probability was too low
+А.граж.распр.	А.гр.распр.Фед.-Чех.
+А.гражд.распр.І	А.гражд.распр. II
+А.Дедил.воев. избы	no match	probability was too low
+А.Дедил.воев.избы	no match	probability was too low
+А.Зап.Рос.II	no match	probability was too low
+А.Ивер.м.1	no match	probability was too low
+А.Иверск.м.	no match	probability was too low
+А.К.	no match	probability was too low
+А.Кадом.приказн.избы	no match	probability was too low
+А.Каш.	А.Кашин. II
+А.Моск.сукон.дв.	no match	probability was too low
+А.О.	no match	probability was too low
+А.С.Л.	no match	probability was too low
+А.соликам. II	no match	probability was too low
+А.соликам.I	no match	probability was too low
+А.Соловьева	no match	probability was too low
+А.Тр.-Серг.м. I	no match	probability was too low
+А.тяг.	А.тяг. II
+А.углич.	no match	probability was too low
+А.Углич.канц. I	no match	probability was too low
+А.Углич.канц. II	no match	probability was too low
+А.Уст.	А.Уст. II
+А.феод.землевл. II	no match	probability was too low
+А.феод.землевл. III	no match	probability was too low
+А.Хол. и Уст.	no match	probability was too low
+А.Юж.	А.юж. и зап.Рос. II
+А.Юж.	А.юж. и зап.Рос. III
+А.юр.	no match	probability was too low
+ААЭ	ААЭ II
+ААЭ	ААЭ IV
+Ав.Ж. (кратч.)	no match	probability was too low
+Ав.Зап.	Ав.Зап. Х
+Ав.Зап.	Ав.Зап. XI
+Ав.Зап.	Ав.Зап. XII
+Ав.Зап.	Ав.Зап. XIII
+Ав.Зап.	Ав.Зап. XV
+Ав.Поуч.	no match	probability was too low
+Авв.Ж.	no match	probability was too low
+Авв.Зап.IX	no match	probability was too low
+Авв.Зап.X	no match	probability was too low
+Авв.Зап.XI	no match	probability was too low
+Авв.Зап.XII	no match	probability was too low
+Авв.Зап.XIII	no match	probability was too low
+Авв.Зап.XV	no match	probability was too low
+Авв.Кн.бес.(Прил.)	no match	probability was too low
+Авв.Кн.толк.	no match	probability was too low
+Авв.О богор.	no match	probability was too low
+Авв.Пис.	no match	probability was too low
+Авв.Посл.	no match	probability was too low
+Авв.Поуч.	no match	probability was too low
+Авв.Чел.	no match	probability was too low
+Авд. 1. 14	no match	probability was too low
+Авр.Рст.	no match	probability was too low
+Авр.См.	no match	probability was too low
+Авр.Ч.	no match	probability was too low
+Автоб.	Автоб.Суворова
+Ад. и Е.	no match	probability was too low
+Адам и Е.1	no match	probability was too low
+Адр.П.	no match	probability was too low
+Аз. нов. (особ.)	no match	probability was too low
+Аз. нов. (сказ.) 2	no match	probability was too low
+Аз. нов. (сказ.)1	no match	probability was too low
+Аз.П.	no match	probability was too low
+Аз.п.	no match	probability was too low
+Аз.пов. (оказ.)1	no match	probability was too low
+Азб. знам.2	no match	probability was too low
+Азб. знам.3	no match	probability was too low
+Азб. II	no match	probability was too low
+Азб. IV	no match	probability was too low
+Азб. V	no match	probability was too low
+Азб. VI	no match	probability was too low
+Азб.I	no match	probability was too low
+АЗУ	no match	probability was too low
+АИ	АИ 12
+АИ	АИ I
+АИ	АИ II
+АИ	АИ III
+Ак.	no match	probability was too low
+Ак. н.	no match	probability was too low
+Акинд.	no match	probability was too low
+Акт.Уст.	no match	probability was too low
+Акт.X.У.	no match	probability was too low
+Акты Кадаш.сл.	no match	probability was too low
+Акты Кир.мон.собр.ак.Ник.	no match	probability was too low
+Акты о служк.Тр.-Серг.мон.	no match	probability was too low
+Акты тяг.	no match	probability was too low
+Акты юр.	no match	probability was too low
+Ал-др рос.двор.	no match	probability was too low
+Ал. Петр.	no match	probability was too low
+Ал.М.	no match	probability was too low
+Ал.Нв.	no match	probability was too low
+Ал.Невск.	no match	probability was too low
+Ал.Ош.	no match	probability was too low
+Ал.П.	no match	probability was too low
+Алб.	no match	probability was too low
+Александр (Кв.Курц.)	no match	probability was too low
+Александрия серб.	no match	probability was too low
+Алф..А	Алф.33.4.7
+Алф..А	Алф.33.9.1
+Алф1	no match	probability was too low
+Алф1.	no match	probability was too low
+Алф3	no match	probability was too low
+Алфав.446	no match	probability was too low
+Алфав.474	no match	probability was too low
+Альб.2	no match	probability was too low
+Ам.	no match	probability was too low
+АМГ	АМГ I
+АМГ	АМГ II
+АМГ	АМГ III
+Амос.	no match	probability was too low
+Амос. VIII, 10	no match	probability was too low
+АМР	no match	probability was too low
+АМТ	no match	probability was too low
+Амф.	Амф. I
+Амф.	Амф. II
+Амф.	Амф. III
+Амф.	Амф. IV
+Амф.1	no match	probability was too low
+АН	no match	probability was too low
+Анаст. Син. Сл.	no match	probability was too low
+Анаст. Син. треб.	no match	probability was too low
+Анекдоты пошех.	no match	probability was too low
+Анин.	no match	probability was too low
+Анк.	no match	probability was too low
+Анон.Новг.	no match	probability was too low
+Ант.	no match	probability was too low
+Ант. Поуч.	no match	probability was too low
+Ант.С.	no match	probability was too low
+Ант.Ц.	no match	probability was too low
+Антим.	no match	probability was too low
+Ап?кал.	no match	probability was too low
+Ап.Тир.	no match	probability was too low
+Апл. 29	no match	probability was too low
+Апо кал.	Апокал.2
+Аполлодор	no match	probability was too low
+Апост	no match	probability was too low
+Апост.	Апост. (Воскр.) II
+Апост.	Апост. (Воскр.) III
+Апост.	Апост. (Погод.)
+Апост. 1307 г.	no match	probability was too low
+Апост. д.	no match	probability was too low
+Апост. посл.	no match	probability was too low
+Апост. Христу	no match	probability was too low
+Апост. чт.	no match	probability was too low
+Апост. Xрист.	no match	probability was too low
+Апост. XIV в.	no match	probability was too low
+Апост.толк.1	no match	probability was too low
+Апост.толк.2	no match	probability was too low
+Апост.толков.	no match	probability was too low
+Апост.Христ. (М.)	no match	probability was too low
+Апост.Христ.1	no match	probability was too low
+Апостол. посл.	no match	probability was too low
+Апостола	no match	probability was too low
+Апофеосис	no match	probability was too low
+Апофтегм.	no match	probability was too low
+Ариф. Магниц.	no match	probability was too low
+Арифм.1	no match	probability was too low
+Арифм.2	no match	probability was too low
+Арифмос	no match	probability was too low
+Арс. Селун.	no match	probability was too low
+Арс. Сух. Преп.	Арс.Сух.
+Арс.Прн.	no match	probability was too low
+Арс.Тв.	no match	probability was too low
+Арт.Врк.	no match	probability was too low
+Артаке, действо	no match	probability was too low
+Артаке. действо	no match	probability was too low
+Артем.Вр.	no match	probability was too low
+Артик.Воин.	no match	probability was too low
+Артил.	no match	probability was too low
+Арх.	no match	probability was too low
+Арх. а.	no match	probability was too low
+Арх. Ант.- Сийск.	no match	probability was too low
+Арх. Ант.- Сийск. м.	no match	probability was too low
+Арх. Ант.-Сийск.	no match	probability was too low
+Арх. Ант.-Сийск. м.	no match	probability was too low
+Арх. бум. Петр	no match	probability was too low
+Арх. ев.	no match	probability was too low
+Арх. Красно- Холм. м.	no match	probability was too low
+Арх. Красно-Холм. м.	no match	probability was too low
+Арх. Красно-Холмск. м.	no match	probability was too low
+Арх. Куракина	no match	probability was too low
+Арх. М. Ж. м. № 3/80. Сделочная роспись .	no match	probability was too low
+Арх. Мих.-Арх. м., Дух. П. Созонова.	no match	probability was too low
+Арх. Мих.-Арх. м., оп.	no match	probability was too low
+Арх. Ник.- Кор. м.	no match	probability was too low
+Арх. Ник.-Кор. м.	no match	probability was too low
+Арх. Ник.-Кор.м. (Кн. веревн.)	no match	probability was too low
+Арх. Перм.	no match	probability was too low
+Арх. Перт. м. Сказ.	no match	probability was too low
+Арх. Солотч. м., оп.	no match	probability was too low
+Арх. Стр. Г	no match	probability was too low
+Арх. Стр.1	no match	probability was too low
+Арх. Строева	no match	probability was too low
+Арх. Тол стого	no match	probability was too low
+Арх. Cтр.	no match	probability was too low
+Арх. I сп.	no match	probability was too low
+Арх.Ант.-Сийск.м.	no match	probability was too low
+Арх.блн.	no match	probability was too low
+Арх.бум.Петра, II	no match	probability was too low
+Арх.бум.Птр.	no match	probability was too low
+Арх.ев.	no match	probability was too low
+Арх.К.	no match	probability was too low
+Арх.Курак. II	no match	probability was too low
+Арх.Курак. III	no match	probability was too low
+Арх.Курак. IV	no match	probability was too low
+Арх.Курак. IX	no match	probability was too low
+Арх.Курак. V	no match	probability was too low
+Арх.Курак. VI	no match	probability was too low
+Арх.Курак. VII	no match	probability was too low
+Арх.Курак. VIII	no match	probability was too low
+Арх.Курак. X	no match	probability was too low
+Арх.мат. II	no match	probability was too low
+Арх.Меньшик.	no match	probability was too low
+Арх.обл.слов. Подв.	no match	probability was too low
+Арх.Он. (Арханг.)	no match	probability was too low
+Арх.Онеж.Кр.м-ря	no match	probability was too low
+Арх.сб.	no match	probability was too low
+Арх.Солов.м. (Арханг.)	no match	probability was too low
+Арх.Сп.-Евф.м.	no match	probability was too low
+Арх.Стр.II	no match	probability was too low
+Арханг.был.	no match	probability was too low
+Арханг.обл.слов.Подв.	no match	probability was too low
+Архив Иверск. м-ря	no match	probability was too low
+Архилабон	no match	probability was too low
+Архит.Бароц.	no match	probability was too low
+Арциховский, Древнерус. миниатюры	no match	probability was too low
+Арc. Сух. Проскинитарий	no match	probability was too low
+АСВР	АСВР I
+АСВР	АСВР II
+Астр.а.	no match	probability was too low
+Астрах. д.	no match	probability was too low
+Астрах.восст.	no match	probability was too low
+Астрax. а.	no match	probability was too low
+АСЭИ I–III	no match	probability was too low
+Аф.Ник.Хожд. за три моря	no match	probability was too low
+Афан. Алекс. Мин. чет. июн.	no match	probability was too low
+АФЗХ	no match	probability was too low
+АХУ	АХУ I
+АХУ	АХУ II
+АХУ	АХУ III
+АЮБ	АЮБ II
+АЮБ	АЮБ III
+Б.	no match	probability was too low
+Б.Чрж.	no match	probability was too low
+Баг.Бгр.	no match	probability was too low
+Баг.М.	no match	probability was too low
+Балаш.	no match	probability was too low
+Баранщиков	no match	probability was too low
+Бароций.Архит.	no match	probability was too low
+Барс.	no match	probability was too low
+Басс. Патр.1	no match	probability was too low
+Баязет и Т.	no match	probability was too low
+Баязет1	no match	probability was too low
+Бел. дв.)	no match	probability was too low
+Бел.сп.Моск.лет.св.	no match	probability was too low
+Беландра	no match	probability was too low
+Белокур. II	no match	probability was too low
+Бер.	no match	probability was too low
+Берест.гр. III	no match	probability was too low
+Берест.гр. IV	no match	probability was too low
+Берест.гр. IX	no match	probability was too low
+Берест.гр. VI	no match	probability was too low
+Берест.гр. VIII	no match	probability was too low
+Берест.гр.II	no match	probability was too low
+Берест.гр.V	no match	probability was too low
+Берест.гр.VII	no match	probability was too low
+Бес. Вал.	no match	probability was too low
+Бес.Гр.Двоесл.	no match	probability was too low
+Беседа	Беседа Иерус.
+Библ. (Рум.)1	no match	probability was too low
+Библ. Генн.2	no match	probability was too low
+Библ. по сп. XV в.	no match	probability was too low
+Библ. Ренн.	no match	probability was too low
+Библ.Генн.1499 г. Глоссы	no match	probability was too low
+Библ.кн.3	no match	probability was too low
+Бл.С.	no match	probability was too low
+Блк. Быт. Синод. р.	no match	probability was too low
+Блкр.	no match	probability was too low
+Блондель	no match	probability was too low
+Блх.	no match	probability was too low
+Бова1	no match	probability was too low
+Бог.1	Бог.сл.
+Боголюбець же притужаше блаженному.	no match	probability was too low
+Болд.м.	no match	probability was too low
+Болон. псалт.	no match	probability was too low
+Болот.Зап.	no match	probability was too low
+Болот.Пам.кн.	no match	probability was too low
+Болот.С.ж.	no match	probability was too low
+Бринк. Опис. артил.	no match	probability was too low
+Брс.сл.	no match	probability was too low
+Брун.	no match	probability was too low
+Букварь1	no match	probability was too low
+Бум.каб.мин. I	no match	probability was too low
+Бум.каб.мин. II	no match	probability was too low
+Бум.каб.мин. III	no match	probability was too low
+Бум.каб.мин. IV	no match	probability was too low
+Бум.каб.мин. V	no match	probability was too low
+Бум.каб.мин. VI	no match	probability was too low
+Бум.Шерем.	no match	probability was too low
+Бурнашев	no match	probability was too low
+Бусл.	no match	probability was too low
+Бусл. Хрест.	no match	probability was too low
+Бухнер.Артил.	no match	probability was too low
+Бхн.	no match	probability was too low
+Был.М.	no match	probability was too low
+Был.Т.	no match	probability was too low
+Быт.	no match	probability was too low
+Быт. I, 29	no match	probability was too low
+Быт. II, 5	no match	probability was too low
+Быт. XL, 11	no match	probability was too low
+Быт. XLI, 6	no match	probability was too low
+Быт. XLI, 8	no match	probability was too low
+Быт. XLIV, 5	no match	probability was too low
+Быт. XXI, 12	no match	probability was too low
+Быт. XXIX, 17	no match	probability was too low
+Быт. XXX, 15	no match	probability was too low
+Быт. XXXII. 31	no match	probability was too low
+В 21 день. Были въ мошкар?. Пох. журн.	no match	probability was too low
+В.-Уст.сб.	no match	probability was too low
+В.А.Б.Палех	no match	probability was too low
+В.арх.Б.Палех	no match	probability was too low
+В.Гаг.	no match	probability was too low
+В.Хр.М.	no match	probability was too low
+Вав.С.	no match	probability was too low
+Вав.у.	no match	probability was too low
+Вав.ц.	no match	probability was too low
+Важ.ден.отп.	no match	probability was too low
+Важ.сотн.гр.	no match	probability was too low
+Вал.П.	no match	probability was too low
+Валаамск. Беседа	no match	probability was too low
+Вальд.	no match	probability was too low
+Ванька Каин	no match	probability was too low
+Вар. по сп.	no match	probability was too low
+Варах.	no match	probability was too low
+Варл.К.	no match	probability was too low
+Варлаам	no match	probability was too low
+Варс.	no match	probability was too low
+Вас. Вел. кан.	no match	probability was too low
+Вас. Вел. Толк. Пс.	no match	probability was too low
+Вас. Вел. толк. пс.	no match	probability was too low
+Вас. к Лит.	no match	probability was too low
+Вас. Шуйск.	no match	probability was too low
+Вас.Гаг.	no match	probability was too low
+Вас.Злат.	no match	probability was too low
+Вас.Конст.	no match	probability was too low
+Васс.П.	no match	probability was too low
+Васс.Патр.Собр. некоего старца	no match	probability was too low
+Вдовицамъ же велить второму браку причитатися.	no match	probability was too low
+Вдск.П.	no match	probability was too low
+Вдск.Пр.	no match	probability was too low
+Вед. о дьяках ряз.	no match	probability was too low
+Ведом. о Кит.зем.	no match	probability was too low
+Ведом.Ман.Христофорова	no match	probability was too low
+Вейде	no match	probability was too low
+Вел. Зерц1	no match	probability was too low
+Вел. Зерц1.	no match	probability was too low
+Вел.зерц.2	no match	probability was too low
+Вер.кн.	Вер.кн. II
+Верх. кн.	Верх.т.сов. I
+Верх. кн.	Верх.т.сов. II
+Верх. кн.	Верх.т.сов. III
+Верх. кн.	Верх.т.сов. IV
+Верх. кн.	Верх.т.сов. V
+Верх. кн.	Верх.т.сов. VI
+Верх. кн.	Верх.т.сов. VII
+Верх. кн.	Верх.т.сов. VIII
+Верхот.гр.	no match	probability was too low
+Верхот.п.кн.	no match	probability was too low
+Вес.Мел.	no match	probability was too low
+Вид.Исаии	no match	probability was too low
+Виск.	no match	probability was too low
+Виск. (прил.)	no match	probability was too low
+Вкл.кн.Моск.Ново-спасск.мон.	no match	probability was too low
+Вкл.Преобр.	no match	probability was too low
+Влад.лет.	no match	probability was too low
+Влд.Пх.	no match	probability was too low
+ВМЧ	ВМЧ, Дек. 18–23
+ВМЧ	ВМЧ, Дек. 25–31
+ВМЧ	ВМЧ, Июль
+ВМЧ	ВМЧ, Июнь
+ВМЧ	ВМЧ, Май 1–8
+ВМЧ	ВМЧ, Май 24–31
+ВМЧ	ВМЧ, Май 9–23
+ВМЧ	ВМЧ, Март1–11
+ВМЧ	ВМЧ, Март12–25
+ВМЧ	ВМЧ, Март26–31
+ВМЧ	ВМЧ, Ноябрь 1–12
+ВМЧ	ВМЧ, Ноябрь 16–17
+ВМЧ	ВМЧ, Ноябрь 16–22
+ВМЧ	ВМЧ, Ноябрь 23–25
+ВМЧ	ВМЧ, Сент. 25–30
+ВМЧ	ВМЧ, Янв. 1–6
+ВМЧ	ВМЧ, Янв. 6–17
+ВМЧ, Октябрь 1931	no match	probability was too low
+ВМЧ, Сентябрь 1-13	no match	probability was too low
+ВМЧ, Anp. 22—30	no match	probability was too low
+ВМЧ.	no match	probability was too low
+ВНП	no match	probability was too low
+Вобан.Укр.гор.	no match	probability was too low
+Водохожд.рек	no match	probability was too low
+Водск.П.	no match	probability was too low
+Водск.Пр.	no match	probability was too low
+Воет.	no match	probability was too low
+Воинск. кн.	no match	probability was too low
+Вол.Пат.(ос.гр.р.)	no match	probability was too low
+Вол.Пат.3	no match	probability was too low
+Восг.	no match	probability was too low
+Воскр. триод. цвет.	no match	probability was too low
+Воскр. триод. цветн.	no match	probability was too low
+Воссоед. Укр. с Росс.	Воссоед.Укр. с Рос. II
+Воссоед. Укр. с Росс.	Воссоед.Укр. с Рос. III
+Вост.	Вост. I
+Воcт.	no match	probability was too low
+Вр.И.Т.	no match	probability was too low
+Врл.П.	no match	probability was too low
+Врн.М.	no match	probability was too low
+Врн.П.	no match	probability was too low
+Врун. Толк. Псалт.	no match	probability was too low
+Вс.Кн.	no match	probability was too low
+Всвл.	no match	probability was too low
+Всвл.Ч.	no match	probability was too low
+вского)	no match	probability was too low
+Всполохъ! Поставьте людей въ ополчение. Баязет	no match	probability was too low
+Втз. XI, 14	no match	probability was too low
+Втз. XI. 14	no match	probability was too low
+Втз. XIV, 12	no match	probability was too low
+Втз. XIV, 15	no match	probability was too low
+Втз. XVI, 5	no match	probability was too low
+Втз. XXI, 11	no match	probability was too low
+Втз. XXIV, 20	no match	probability was too low
+Втз. XXVI, 4	no match	probability was too low
+Втз. XXVIII, 19	no match	probability was too low
+Втз. XXXII, 51	no match	probability was too low
+Втз. XXXII, 52	no match	probability was too low
+Вульгате	no match	probability was too low
+ВХК	no match	probability was too low
+Въ трехъ бочкахъ квасу. Д. патр. Никона	no match	probability was too low
+Выг. об.	no match	probability was too low
+Вып.Лаз.	no match	probability was too low
+Вып.п.Ряз.	no match	probability was too low
+Г. Амарт.	no match	probability was too low
+Г. Сиб. Милл	no match	probability was too low
+Г.Арх.	no match	probability was too low
+Г.Вас.	no match	probability was too low
+Г.Вас.Кор.	no match	probability was too low
+Г.З.	no match	probability was too low
+Г.Злч.	no match	probability was too low
+Г.сигналы фл. 1710	no match	probability was too low
+Г.сигналы фл. 1714	no match	probability was too low
+Г.сигналы фл. 1716	no match	probability was too low
+Г.сигналы фл. 1716 (б)	no match	probability was too low
+Г.сигналы флота1	no match	probability was too low
+Г.сигналы флота2	no match	probability was too low
+Г.сигналы флота3	no match	probability was too low
+Г.сигналы флота4	no match	probability was too low
+Гал. Ев.1	Гал.ев. (А.)
+Гал. Ев.2	Гал.ев. (Т.)
+Галицк. ев.	no match	probability was too low
+Гам же	no match	probability was too low
+ГБ XIV в.	no match	probability was too low
+Гб.	no match	probability was too low
+Где ходилъ еси? .. Не был есмь нигд?. Речь тонкосл. греч.	no match	probability was too low
+Гебдон	no match	probability was too low
+Ген.регламент	no match	probability was too low
+Геннадий.Посл.Иоас.	no match	probability was too low
+Геогр. Ам. (Увар.)	Геогр.1710
+Георг. Ам.	no match	probability was too low
+Георг. Ам. (Моск.)	no match	probability was too low
+Георг. Ам. (Увар.)	no match	probability was too low
+Георг. Ам. 104	no match	probability was too low
+Георг.Ам. (Увар.)	no match	probability was too low
+Георг.Амарт. (Увар.)	no match	probability was too low
+Георг.митр.	no match	probability was too low
+Герс.Б.	no match	probability was too low
+Гимногр.	Гимногр.(+частн.назв.пам.)
+Гист. о Долт.	no match	probability was too low
+Гист.доф. о тур.пр.Зизим.	no match	probability was too low
+Гист.дофинская	no match	probability was too low
+Гист.евр.Пуф.	no match	probability was too low
+Гист.Франц.и Ренц.	no match	probability was too low
+Гл.	no match	probability was too low
+Гл.1	no match	probability was too low
+Гл.подвиж.	no match	probability was too low
+Глава	no match	probability was too low
+Глеб.	no match	probability was too low
+Глосс.	Глосс. Биргегорд Улла.
+Гнезд. надп.	no match	probability was too low
+Голубцов, Назаров. Акты	no match	probability was too low
+Гос.Нар.	no match	probability was too low
+Гр. Баз.	no match	probability was too low
+Гр. берест. (пск.)	no match	probability was too low
+Гр. Генн. Гонзова	no match	probability was too low
+Гр. Д.	no match	probability was too low
+Гр. Дв. (дон.)	no match	probability was too low
+Гр. К. Э. II. Прил.	no match	probability was too low
+Гр. Каз.	no match	probability was too low
+Гр. Наз. с толк. Ник. Ир.	no match	probability was too low
+Гр. Нис.	no match	probability was too low
+Гр. Нис. Мин. февр.	no match	probability was too low
+Гр. пап.	no match	probability was too low
+Гр. Сиб. Мил.	no match	probability was too low
+Гр. Сиб. Милл.І	no match	probability was too low
+Гр. Сибр. Милл.	no match	probability was too low
+Гр. Тохтамыша к Ягеллу	no match	probability was too low
+Гр.1506	no match	probability was too low
+Гр.Ант.Римл.	no match	probability was too low
+Гр.Б.	no match	probability was too low
+Гр.Белокур.	no match	probability was too low
+Гр.берест. (вит.)	no match	probability was too low
+Гр.берест. (звен.)	no match	probability was too low
+Гр.берест. (моск.)	no match	probability was too low
+Гр.берест. (мст.)	no match	probability was too low
+Гр.берест. (новг., ст.-р.)	no match	probability was too low
+Гр.берест. (новг.)	no match	probability was too low
+Гр.берест. (новг.)1	no match	probability was too low
+Гр.берест. (новг.)2	no match	probability was too low
+Гр.берест. (смол.)	no match	probability was too low
+Гр.берест. (ст.-р.)	no match	probability was too low
+Гр.берест. (твер.)	no match	probability was too low
+Гр.берест. (торж.)	no match	probability was too low
+Гр.Блгр.	no match	probability was too low
+Гр.Блкр.	no match	probability was too low
+Гр.Важ.1	no match	probability was too low
+Гр.Вел. (Увар.)	no match	probability was too low
+Гр.Вел. I–II	no match	probability was too low
+Гр.Дв. (Шахм.)	no match	probability was too low
+Гр.Дв. II	no match	probability was too low
+Гр.К.Э.	Гр.К.Э.(Обз.) II
+Гр.К.Э.	Гр.К.Э.(Обз.) III
+Гр.К.Э.	Гр.К.Э.(Обз.) IV
+Гр.Кр.	no match	probability was too low
+Гр.лит.Ив.Вас.	no match	probability was too low
+Гр.мт.Макария	no match	probability was too low
+Гр.Наз.2	no match	probability was too low
+Гр.Наз.3	no match	probability was too low
+Гр.Наз.4	no match	probability was too low
+Гр.Нв.Тв.	no match	probability was too low
+Гр.новг.1	no match	probability was too low
+Гр.новг.2	no match	probability was too low
+Гр.псков.кн.Ив.Ал.	no match	probability was too low
+Гр.Ряз.	no match	probability was too low
+Гр.Сиб.Мил.	Гр.Сиб.Милл. II
+Гр.ук. о кр.	no match	probability was too low
+Гр.Ушакова	no match	probability was too low
+Гражд.	no match	probability was too low
+Грам. Белоз. кн. Мих. Андр.	no match	probability was too low
+Грам. Вас. Ив. Переясл. Ряз.	no match	probability was too low
+Грам. Влад. Вас. Вол.	no match	probability was too low
+Грам. дел. о гран. Кирил. мон.	no match	probability was too low
+Грам. иг. Ант. д.	no match	probability was too low
+Грам. кн. Всевол.	no match	probability was too low
+Грам. м. Кипр. Новг. еп.	no match	probability was too low
+Грам. митр. Фот. п.	no match	probability was too low
+Грам. Оты	no match	probability was too low
+Грам. патр. Ант.	no match	probability was too low
+Грам. Сигизм.	no match	probability was too low
+Грам. слав.	no match	probability was too low
+Грам.Бор.Год.	no match	probability was too low
+Грам.Геннадия Гонзова	no match	probability was too low
+Грам.Двин.у.(СГКЭ I)	no match	probability was too low
+Грам.Ив.Гр.	no match	probability was too low
+Грам.м.Ионы	no match	probability was too low
+Грам.сб.	no match	probability was too low
+Грамоты	no match	probability was too low
+Греков	no match	probability was too low
+Греч.д.	no match	probability was too low
+Гриб. Ист.	no match	probability was too low
+Гриб.Ист.	Гриб.Ист. Федора
+Григ. Наз.1	no match	probability was too low
+Григ. Пап.	no match	probability was too low
+Григ. пап.	no match	probability was too low
+Григ. Цамбл.	no match	probability was too low
+Григ.сл.	no match	probability was too low
+Грот.Тех.	no match	probability was too low
+Гюенс	no match	probability was too low
+Д. губн. стар.	no match	probability was too low
+Д. ИІакловит.	no match	probability was too low
+Д. Моск. пр. о мятежахъ	no match	probability was too low
+Д. моcк. пом. пр.	no match	probability was too low
+Д. моcк. театра	no match	probability was too low
+Д. Николы	no match	probability was too low
+Д. о Петр.З.К.	no match	probability was too low
+Д. об Есф.	no match	probability was too low
+Д. Пос. Колом.	no match	probability was too low
+Д. сторож. служ.	no match	probability was too low
+Д.Ареопаг.	no match	probability was too low
+Д.Ареопаг.1	no match	probability was too low
+Д.Ареопаг.О таинств.бог.	no match	probability was too low
+Д.Ареопаг.Онебес.иер.	no match	probability was too low
+Д.Моск.пр. о мятежах, I	no match	probability was too low
+Д.Моск.пр. о мятежах, II	no match	probability was too low
+Д.патр.Ник.	Д.патр.Никона (Гиб.) II
+Д.Фл.	no match	probability was too low
+Д.Шакловит. II	no match	probability was too low
+Д.Шакловит. III	no match	probability was too low
+Д.Шиллинга	no match	probability was too low
+ДА И	no match	probability was too low
+Давид	no match	probability was too low
+ДАИ	ДАИ I
+ДАИ	ДАИ II
+ДАИ	ДАИ III
+ДАИ	ДАИ IV
+ДАИ	ДАИ IX
+ДАИ	ДАИ VI
+ДАИ	ДАИ VIII
+ДАИ	ДАИ XI
+ДАИ.	no match	probability was too low
+Дал. Макс. Гр.	no match	probability was too low
+Даль	no match	probability was too low
+Даль,	no match	probability was too low
+Даль2	no match	probability was too low
+Даля	no match	probability was too low
+ДАМ	no match	probability was too low
+Дам.Ст.	no match	probability was too low
+Дамаскин.Афон.гора и Солов.мон.	no match	probability was too low
+ДАН	no match	probability was too low
+Дан.	no match	probability was too low
+Дан. (Жм.)	no match	probability was too low
+Дан. IX. 23 (Упырь)	no match	probability was too low
+Дан. VI, 22	no match	probability was too low
+Дан.Зат.	no match	probability was too low
+Дан.иг. (Нор. 80)	no match	probability was too low
+Дан.иг. (Пал.)	no match	probability was too low
+Дан.Пр.	no match	probability was too low
+Дан.Ч.	no match	probability was too low
+ДАЦ	no match	probability was too low
+Дв? кирки каменного д?ла.	no match	probability was too low
+Дв. Ж.	no match	probability was too low
+Дв.П.	no match	probability was too low
+Двин.грам.	no match	probability was too low
+Двор цесаря тур.	no match	probability was too low
+Дворц.зап.	no match	probability was too low
+Дворц.разряды, II	no match	probability was too low
+Дворц.разряды, IV	no match	probability was too low
+Де-Геннин	no match	probability was too low
+Девг. Д. (Тихон.)	no match	probability was too low
+Дел.Польск.	no match	probability was too low
+Дела губн.старост и воевод	no match	probability was too low
+Дела ног.	no match	probability was too low
+Дельная	no match	probability was too low
+Демидов.Автоб.	no match	probability was too low
+Демидов.Пис.	no match	probability was too low
+Демидов.Пис. (с. 550–554)	no match	probability was too low
+Деян. Петр. Пав.	no match	probability was too low
+Деян. Петр. Павл.	no match	probability was too low
+Джемса	no match	probability was too low
+Дил.	no match	probability was too low
+Дион. Ар.	no match	probability was too low
+Дионисия Ареопагита	no match	probability was too low
+Диоптр. Фил.	no match	probability was too low
+Диоптр. Филип.	no match	probability was too low
+Диоптр. Филип. сл.	Диоптра Фил.1
+Диоптр. Филип. сл.	Диоптра Фил.2
+Диоптра Филип.	no match	probability was too low
+Дисц. д.	no match	probability was too low
+Длр.1	no match	probability was too low
+Дм. (К.)	no match	probability was too low
+Дм. (К)	no match	probability was too low
+Дм.П.	no match	probability was too low
+Дм.Пр.	no match	probability was too low
+Дмитр. сотн.	Дмтр.С.
+Дн.зап.ПТД	no match	probability was too low
+Дн.П.Толстого1	no match	probability was too low
+Дн.пор.Васильева	no match	probability was too low
+Днв.	no match	probability was too low
+Днв. ПТД	no match	probability was too low
+Днев.зап.ком.Нов.Ул. IV	no match	probability was too low
+Днев.зап.ком.Нов.Ул. V	no match	probability was too low
+Доб.Суд.	no match	probability was too low
+Добродомов	no match	probability was too low
+Дог. гр.	no match	probability was too low
+Дог. гр. Бор. Ал. с кор. Каз.	no match	probability was too low
+Дог. гр. в. к. Вас. Дм. д.	no match	probability was too low
+Дог. гр. Пол. и Риг.	no match	probability was too low
+Дог.гр.	no match	probability was too low
+Дож. и отреч. кн.	no match	probability was too low
+Док. в Сенате	no match	probability was too low
+Док. новг. (Усп.)	no match	probability was too low
+Док.Дауд.	no match	probability was too low
+Док.Дин.	no match	probability was too low
+Док.рус.-инд.отн.	no match	probability was too low
+Докл. в Сенате, II (2)	no match	probability was too low
+Докл. в Сенате, III	no match	probability was too low
+Докл. в Сенате, IV	no match	probability was too low
+Докл. в Сенате, VI	no match	probability was too low
+Докл.в Сенате, V	no match	probability was too low
+Домостр.	no match	probability was too low
+Дон.а.	no match	probability was too low
+Дон.Воейк.	no match	probability was too low
+Дон.д.	Дон.д. II
+Дон.д.	Дон.д. III
+Дон.д.	Дон.д. V
+Донат	no match	probability was too low
+Донес.Воейк.	no match	probability was too low
+Донос.Воейк.	no match	probability was too low
+Донош.Нест.	no match	probability was too low
+Донош.Филип.	no match	probability was too low
+Донск.дела	no match	probability was too low
+Доп. Суд.	no match	probability was too low
+Доп.А.И.Т. Х	no match	probability was too low
+Доп.акт.ист.1684 г.	no match	probability was too low
+Доп.Суд.	no match	probability was too low
+Доп.Судебн.	no match	probability was too low
+Допр.	no match	probability was too low
+Допрос	no match	probability was too low
+Дороф.	no match	probability was too low
+Дпр.	no match	probability was too low
+ДПТ	no match	probability was too low
+Др. лет.	no match	probability was too low
+Др. муз. рки. (Браж.)	no match	probability was too low
+Др. муз. ркп. (Бражн.)	no match	probability was too low
+Др. нам.1	no match	probability was too low
+Др. пам. V 218.	no match	probability was too low
+Др. пам1	no match	probability was too low
+Др. пам1.	no match	probability was too low
+Др.-рус.надп. (З.)	no match	probability was too low
+Др.пам.юс.пис.	no match	probability was too low
+Древности, II	no match	probability was too low
+Древности, III	no match	probability was too low
+Друж.	no match	probability was too low
+ДТП	ДТП I
+ДТП	ДТП II
+ДТП	ДТП III
+ДТП	ДТП IV
+Дуб. сб. Уст. епит.	no match	probability was too low
+Дух. и д. гр.	no match	probability was too low
+Дух. Ив. Дан.	no match	probability was too low
+Дух.Ив.Калиты	no match	probability was too low
+Дух.регламент	no match	probability was too low
+Дьяк.Акты тяг.	no match	probability was too low
+Дятикн.	no match	probability was too low
+Е.Ч.	no match	probability was too low
+Ев.	no match	probability was too low
+Ев. 1270 г.	no match	probability was too low
+Ев. 1307 г.	no match	probability was too low
+Ев. 1355 г.	no match	probability was too low
+Ев. 1383 г.	no match	probability was too low
+Ев. 1409 г.	no match	probability was too low
+Ев. Акад.	no match	probability was too low
+Ев. Пант.	no match	probability was too low
+Ев. Полоц.	no match	probability was too low
+Ев. Рум.	no match	probability was too low
+Ев. Толк.	no match	probability was too low
+Ев. толк.	no match	probability was too low
+Ев. толк. Феоф. Болг.	no match	probability was too low
+Ев. XII—XIV вв.	no match	probability was too low
+Ев.1382–1383 гг.	no match	probability was too low
+Ев.Ник.	no match	probability was too low
+Ев.Пант.	no match	probability was too low
+Ев.учит.1	no match	probability was too low
+Еванг. Фомы	no match	probability was too low
+Евр.	no match	probability was too low
+Евсев. посл. к Карпиан.	no match	probability was too low
+Евф.	no match	probability was too low
+Евф. о мил.	no match	probability was too low
+Евф.Новг.	no match	probability was too low
+Евф.С.	no match	probability was too low
+Евф.С., с.17–19	no match	probability was too low
+Евфр. От разит. пис.	no match	probability was too low
+Евфр.С.	no match	probability was too low
+Евхологий	no match	probability was too low
+Езекия	no match	probability was too low
+Еп. посл. (по Варс. крм.)	no match	probability was too low
+Епиф.2	no match	probability was too low
+Епиф.Слав.ев.	no match	probability was too low
+Ерм.-Ер.Гл. о увещ.цар.	no match	probability was too low
+Ерм.-Ер.Слово к верн.	no match	probability was too low
+Ерм.З.	no match	probability was too low
+Ес.Лет.	no match	probability was too low
+Есип.лет.1	no match	probability was too low
+Есф.	no match	probability was too low
+Есф. IX, 26	no match	probability was too low
+Еуа?нгл. от Ма?т.	no match	probability was too low
+Еф. Сир.	no match	probability was too low
+Ефес. IV, 13	no match	probability was too low
+Ефр. Крм. Ант.	no match	probability was too low
+Ефр. Крм. Вас.	no match	probability was too low
+Ефр. Норм.	no match	probability was too low
+Ефр. Отразит. пис.	no match	probability was too low
+Ефр.корм. I	no match	probability was too low
+Ефр.корм. II	no match	probability was too low
+Ефр.Н.	no match	probability was too low
+Ефр.Сир. III	no match	probability was too low
+Ефр.Сир. IV	no match	probability was too low
+Ефр.Сир.2	no match	probability was too low
+Ефр.Сир.I	no match	probability was too low
+Ефр.Сир.II	no match	probability was too low
+Ж.	no match	probability was too low
+Ж. Авкс. 66.	no match	probability was too low
+Ж. Андр. Юр.	no match	probability was too low
+Ж. Ант. Новг.	no match	probability was too low
+Ж. Арт. Верк.	no match	probability was too low
+Ж. Бор. Глеб (вар.)	no match	probability was too low
+Ж. Бор. Глеб. (вар.)	no match	probability was too low
+Ж. Варл. Иоас.	no match	probability was too low
+Ж. Варл. Иос.	no match	probability was too low
+Ж. Вас. Новг.	no match	probability was too low
+Ж. Епиф. Кипрск.	no match	probability was too low
+Ж. и хоженье Дан.иг.	no match	probability was too low
+Ж. и Ч. Николы	no match	probability was too low
+Ж. и ч. Николы	no match	probability was too low
+Ж. Иак. Боровицк.	no match	probability was too low
+Ж. Иос. Вол., 391.	no match	probability was too low
+Ж. Иос. Вол1.	no match	probability was too low
+Ж. Никит. Пер2	no match	probability was too low
+Ж. Никол. воин.	no match	probability was too low
+Ж. Нифонт.	no match	probability was too low
+Ж. Пр. Уст1	no match	probability was too low
+Ж. Сав. св.	no match	probability was too low
+Ж. Савы Осв.	no match	probability was too low
+Ж. Серг. Р. Аз.	no match	probability was too low
+Ж. Серг. Р. Епиф.3	no match	probability was too low
+Ж. Серп Р. Епиф.2	no match	probability was too low
+Ж. Сим. Ст.	no match	probability was too low
+Ж. Сим. Столп.	no match	probability was too low
+Ж. Стеф. Пер. Епиф.	no match	probability was too low
+Ж. ти Ант. С. ц.	no match	probability was too low
+Ж. Феодос. Едес.	no match	probability was too low
+Ж. Фот. Волоколам.	no match	probability was too low
+Ж. ц. Дм. (Чуд.)	no match	probability was too low
+Ж. Cepг. Р. Епиф.1	no match	probability was too low
+Ж.Авраам.Смол.	no match	probability was too low
+Ж.Ал.Кушт.	no match	probability was too low
+Ж.Ал.М.	no match	probability was too low
+Ж.Ал.Нев. (отр.)	no match	probability was too low
+Ж.Ал.Свир.	no match	probability was too low
+Ж.Алекс.Невск.	no match	probability was too low
+Ж.Алексия Пах.Логоф.	no match	probability was too low
+Ж.Ант.С.ц.1	no match	probability was too low
+Ж.Ант.Ц.	no match	probability was too low
+Ж.Аркадия Новг.	no match	probability was too low
+Ж.Арт.Верк.	no match	probability was too low
+Ж.Бор.Глеб.	no match	probability was too low
+Ж.Вас.Нов.1	no match	probability was too low
+Ж.Вас.Нов.2	no match	probability was too low
+Ж.Влад.	no match	probability was too low
+Ж.Вяч.	no match	probability was too low
+Ж.Герас.Б.1	no match	probability was too low
+Ж.Герас.В.	no match	probability was too low
+Ж.Евф.Новг.	no match	probability was too low
+Ж.Епиф.1	no match	probability was too low
+Ж.Иак.Боровиц.	no match	probability was too low
+Ж.Игн.В.1	no match	probability was too low
+Ж.Игн.Л.	no match	probability was too low
+Ж.Иоас.Кам.	no match	probability was too low
+Ж.Иос.Вол.3	no match	probability was too low
+Ж.Иос.Н.	no match	probability was too low
+Ж.Кас.Угл.	no match	probability was too low
+Ж.Кир.Б.1	no match	probability was too low
+Ж.Кир.Б.2	no match	probability was too low
+Ж.Кир.Б.3	no match	probability was too low
+Ж.Кондр.1	no match	probability was too low
+Ж.Корн.Ком.1	no match	probability was too low
+Ж.Кр.Бз.	no match	probability was too low
+Ж.Крн.Км.	no match	probability was too low
+Ж.Мк.К.	no match	probability was too low
+Ж.Мх.Кл.	no match	probability was too low
+Ж.Ндр.Кр.	no match	probability was too low
+Ж.Ник.Мирл.	no match	probability was too low
+Ж.Ник.Р.	no match	probability was too low
+Ж.Николы	no match	probability was too low
+Ж.Нила Ст.	no match	probability was too low
+Ж.Нк.Р.	no match	probability was too low
+Ж.Нкд.К.	no match	probability was too low
+Ж.Нкт.П. и Пр.	no match	probability was too low
+Ж.Ольг.П.	no match	probability was too low
+Ж.Ольги Псков.	no match	probability was too low
+Ж.Онуфр.	no match	probability was too low
+Ж.Павла Обн.3	no match	probability was too low
+Ж.Пв.Обн.	no match	probability was too low
+Ж.Ср.Рд.	no match	probability was too low
+Ж.Срп.Н.	no match	probability was too low
+Ж.Стеф.Ком.	no match	probability was too low
+Ж.Ф.Едес.	no match	probability was too low
+Ж.Феодос.Нест.1	no match	probability was too low
+Ж.Фил.мт.	no match	probability was too low
+Жал. гр. в. к. Вас. Вас. Ив. Пет.	no match	probability was too low
+Жал. несуд. гр. Конев. м.	no match	probability was too low
+Жал.гр. на две слоб.	no match	probability was too low
+Жал.гр.Кельдяеву	no match	probability was too low
+Жал.гр.Строг.	no match	probability was too low
+Жал.гр.Тв.в.к.Бор.Ал.	no match	probability was too low
+Жалов.гр. (Врем.16)	no match	probability was too low
+Жиг. Феод. ст.	no match	probability was too low
+Жит. Авкс. 28.	no match	probability was too low
+Жит. Авксент. 16.	no match	probability was too low
+Жит. Ал. ч. Бож. (Златостр. XII в.)	no match	probability was too low
+Жит. Алдр.	no match	probability was too low
+Жит. Алекс. Мак.	no match	probability was too low
+Жит. Андр. Юр.	no match	probability was too low
+Жит. Анны Евфим.	no match	probability was too low
+Жит. Афан. Мин. чет. апр. 11. в.	no match	probability was too low
+Жит. Варл. и Иос.	no match	probability was too low
+Жит. Варл. и Иосаф.	no match	probability was too low
+Жит. Варл. Иосаф.	no match	probability was too low
+Жит. Висар. Мин. чет. июн.	no match	probability was too low
+Жит. Влас. 2.	no match	probability was too low
+Жит. Гр. Арм.	no match	probability was too low
+Жит. Григ. Акраг.	no match	probability was too low
+Жит. Григ. Арм.	no match	probability was too low
+Жит. Екат.	no match	probability was too low
+Жит. Еутх.	no match	probability was too low
+Жит. Ио. Злат.	no match	probability was too low
+Жит. Ио. Пост.	no match	probability was too low
+Жит. Ио. черн.	no match	probability was too low
+Жит. Кириак.	no match	probability was too low
+Жит. Коз. Дам. чуд.	no match	probability was too low
+Жит. Козм. Дам. Чуд.	no match	probability was too low
+Жит. Конст. Фил.	no match	probability was too low
+Жит. Макд. Мин.	no match	probability was too low
+Жит. Мар. Ег	no match	probability was too low
+Жит. Меф.	no match	probability was too low
+Жит. Ниф.	no match	probability was too low
+Жит. Онуфр. Мин. Чет. июн.	no match	probability was too low
+Жит. Онуфр. Мин. чет. июн.	no match	probability was too low
+Жит. Паис.	no match	probability was too low
+Жит. Памф.	no match	probability was too low
+Жит. Петр. Аф. Мин. чет. июн.	no match	probability was too low
+Жит. Петр. Афон. Мин. чет. июн.	no match	probability was too low
+Жит. Петр. Берк. Мин. чет. июн.	no match	probability was too low
+Жит. Пион.	no match	probability was too low
+Жит. Порф. 28.	no match	probability was too low
+Жит. пр. Елис. Мин. чет. июн.	no match	probability was too low
+Жит. прор. Елис.	no match	probability was too low
+Жит. Сав. осв.	no match	probability was too low
+Жит. Св.	no match	probability was too low
+Жит. св.	no match	probability was too low
+Жит. св. Григ. Акраг.	no match	probability was too low
+Жит. Сим. Ст.	no match	probability was too low
+Жит. Сим. Урод.	no match	probability was too low
+Жит. Стеф. Перм.	no match	probability was too low
+Жит. Стеф. Сурож.	no match	probability was too low
+Жит. Страт.	no match	probability was too low
+Жит. Триф.	no match	probability was too low
+Жит. Февр. Мин. Чет. июн.	no match	probability was too low
+Жит. Фед. Сик.	no match	probability was too low
+Жит. Фед. Сик. Мин. чет. апр.	no match	probability was too low
+Жит. Фед. Ст.	no match	probability was too low
+Жит. Фед. Стр.	no match	probability was too low
+Жит. Фед. Студ.	no match	probability was too low
+Жит. Фекл.	no match	probability was too low
+Жит. Феод. Сик.	no match	probability was too low
+Жит. Феод. Ст.	no match	probability was too low
+Жит. Феод. Студ.	no match	probability was too low
+Жит. Фом. Дерф. Мин. чет. июн.	no match	probability was too low
+Жит. Харит.	no match	probability was too low
+Жит.Григ.Арм.	no match	probability was too low
+Жит.Онуфр.Мин.чет. июн.	no match	probability was too low
+Жит.Паис.	no match	probability was too low
+Жит.папы Григория	no match	probability was too low
+Жит.св.	no match	probability was too low
+Жит.Фотия Волок.	no match	probability was too low
+Жития св.	no match	probability was too low
+Журн.Верх.т.с. 1726	no match	probability was too low
+Журн.Каб.Анны Ив.	no match	probability was too low
+Журн.Петра, II	no match	probability was too low
+Журн.Петра1	no match	probability was too low
+Журн.Птр.	no match	probability was too low
+З?ло злочестно есть. Гражд. об. дет.	no match	probability was too low
+З.	no match	probability was too low
+Заб. Maт.	Заб.Б.
+Заб. Maт.	Заб.Дом.быт, II
+Заб. Maт.	Заб.Ист.Моск.
+Заб. Maт.	Заб.Мат. II
+Заб. Maт.	Заб.Рзр.
+Забчиц 2	no match	probability was too low
+Забчиц.2	no match	probability was too low
+Зав. Вен.	no match	probability was too low
+Заговоры	no match	probability was too low
+Задон. (Срз.)	no match	probability was too low
+Заздравная Ив.Гр.	no match	probability was too low
+Заздравная Ивану IV	no match	probability was too low
+Зак. Греч.	no match	probability was too low
+Зак.земл.	no match	probability was too low
+Зак.Птр.	no match	probability was too low
+Зак.суд.люд.2	no match	probability was too low
+Зак.суд.люд.3	no match	probability was too low
+Закл.	no match	probability was too low
+Зап. в Октоихе	no match	probability was too low
+Зап. в Стихираре	no match	probability was too low
+Зап. к Луцк.псалт.	no match	probability was too low
+Зап. о разрис. Сп.-Пр. цер.	no match	probability was too low
+Зап. о стрел.бунте	no match	probability was too low
+Зап. при кн. Упыр.	no match	probability was too low
+Зап.Авр. (В.)	no match	probability was too low
+Зап.Авр. (П.)	no match	probability was too low
+Зап.Б.Мороз.	no match	probability was too low
+Зап.Болот.	no match	probability was too low
+Зап.Г.Черныш.	no match	probability was too low
+Зап.кн.Оп.Грек. No 25	no match	probability was too low
+Зап.Лаз.	no match	probability was too low
+Зап.Нащок.	no match	probability was too low
+Зап.Непл.	no match	probability was too low
+Зап.новг.книжн.	no match	probability was too low
+Зап.Отд.рус. и слав.археол.Археологич.общ. II, с. 44–125	no match	probability was too low
+Зап.Порошина	no match	probability was too low
+Зап.приказн.людей	no match	probability was too low
+Зап.прих.людей.	no match	probability was too low
+Зап.С.Медведева	no match	probability was too low
+Зап.св.отец	no match	probability was too low
+Зап.Храповиц.	no match	probability was too low
+Зап.Черныш.	no match	probability was too low
+Зап.Шаховского	no match	probability was too low
+Запись	no match	probability was too low
+Запч.	no match	probability was too low
+Зах. II. 1	no match	probability was too low
+Зах. VI. 2	no match	probability was too low
+Зах. XI. 17	no match	probability was too low
+Зем. пр.	no match	probability was too low
+Зерц.	no match	probability was too low
+Зерцал.	no match	probability was too low
+Зерцалов.Матер. для ист.Симб.	no match	probability was too low
+Зин.Отен.Нов.произв.	no match	probability was too low
+Зин.Отен.Посл. Шишк.	no match	probability was too low
+Зл. цеп. д.	no match	probability was too low
+Зл. цепь	no match	probability was too low
+Зластостр.3	no match	probability was too low
+Злат. цеп.	no match	probability was too low
+Злат. цеп. д.	no match	probability was too low
+Златостр. Ак. н.	no match	probability was too low
+Златостр. сл.	no match	probability was too low
+Златостр. XII в.	no match	probability was too low
+Златостр.3 (Г.)	no match	probability was too low
+Златоструй	no match	probability was too low
+Златоструй.	no match	probability was too low
+Златоструй3	no match	probability was too low
+Златоуст	no match	probability was too low
+Зн. на писц.кн.	no match	probability was too low
+Зос.С.	no match	probability was too low
+Зос.Св.	no match	probability was too low
+Зос.Ч.	no match	probability was too low
+Зос.Чч.	no match	probability was too low
+ЗСЛ	ЗСЛ (пр.)
+И б? ей нев?рно веление. Палея ист.	no match	probability was too low
+И всего за Иваномъ... пять пустошей. Моск. припр. кн.	no match	probability was too low
+И кто сей есть истенный бог. Пов. Петре Орд.1	no match	probability was too low
+И недодано ему въ окладъ 269 чети съ осминою. Д. Моск. пом. пр.	no match	probability was too low
+И о. екз. Бог.	no match	probability was too low
+И останокъ дасть мужеви испити. Требник	no match	probability was too low
+И прозваша Олга вещии. Радзив. лет.	no match	probability was too low
+И сниде ничимъ же вредимь. Патерик Печ.	no match	probability was too low
+И т?мъ назмомъ землю назмятъ. Косм. Арс.	no match	probability was too low
+И то будетъ ... начало лживыхъ пророкъ. Беседа Вал.1	no match	probability was too low
+И. Сир.	no match	probability was too low
+И. Тим.	no match	probability was too low
+И.Гр.к.К.посл.	no match	probability was too low
+И.Дам.	no match	probability was too low
+Иак. Бор. Гл.	no match	probability was too low
+Иак. Ист.	no match	probability was too low
+Иак. ист.	no match	probability was too low
+Иак. Паз.	no match	probability was too low
+Иак. посл. Дм. п.	no match	probability was too low
+Иак. III, 9—10	no match	probability was too low
+Ибо мы за младоумство еще нев?жди суще. Азб.	no match	probability was too low
+Ив.Гр.Посл. II	no match	probability was too low
+Ив.Гр.Посл. IV	no match	probability was too low
+Ив.Гр.Посл.III	no match	probability was too low
+Ив.Кр.	no match	probability was too low
+Ив.Пересветов.Сказ. о Петре Волос.	no match	probability was too low
+Ив.Пересветов.Соч.	no match	probability was too low
+Ив.Пересветов.Чел.	no match	probability was too low
+Игн. Бог. посл.	no match	probability was too low
+Игн.В.	no match	probability was too low
+Игн.См.	no match	probability was too low
+Ие. екз. Бог.	no match	probability was too low
+Иез.	no match	probability was too low
+Иез. I. 13	no match	probability was too low
+Иер.	no match	probability was too low
+Иер. LI, 53	no match	probability was too low
+Иер. XXXII. 2	no match	probability was too low
+Иер. XXXIV, 8	no match	probability was too low
+Иер. XXXVI, 22	no match	probability was too low
+Иерус. огл.	no match	probability was too low
+Из.Св. 1073 г.	no match	probability was too low
+Изб.	no match	probability was too low
+Изб. в. 1073 г.	no match	probability was too low
+Изб. д.	no match	probability was too low
+Изб. Сб. 1073 г.	no match	probability was too low
+Изб. Св.	no match	probability was too low
+Изб. Св. .	no match	probability was too low
+Изб. Св.2	no match	probability was too low
+Изб. Cб. 1073 г.	no match	probability was too low
+Изб. XIII	no match	probability was too low
+Изб.Св.	no match	probability was too low
+Изб.Св.1073 г.3	no match	probability was too low
+Изб.Св.1076 г.1	no match	probability was too low
+Изв. Св. 1073 г.	no match	probability was too low
+Изд.Тот.	no match	probability was too low
+Изд.Хл.	no match	probability was too low
+Изм.1	no match	probability was too low
+Измар.	no match	probability was too low
+Изъявл.Салт.	no match	probability was too low
+Иис. Нав.	no match	probability was too low
+Иис. Нав. VII. 9	no match	probability was too low
+Иис. Нав. X. 6	no match	probability was too low
+Ил. Новг. Поуч.	no match	probability was too low
+Ил.кн.	no match	probability was too low
+Илар. Зак. Благ.	no match	probability was too low
+Илар. Исп. вер.	no match	probability was too low
+Илар. Посл.	no match	probability was too low
+Илар.Мол.	no match	probability was too low
+Ильдежерта	no match	probability was too low
+Ильи	no match	probability was too low
+Им.Ив.Гр.	no match	probability was too low
+Им.Кр.	no match	probability was too low
+Им.Н.Ром.	no match	probability was too low
+Им.Тат.	no match	probability was too low
+Ин.ск.	no match	probability was too low
+Инстр. и артик.флоту	no match	probability was too low
+Инстр. и артикулы	no match	probability was too low
+Инстр.Бисмарку	no match	probability was too low
+Инстр.дворецк.Ив. Немчинову	no match	probability was too low
+Интермедии	no match	probability was too low
+Ио. Дам. диал. пер. Ио. екз.	no match	probability was too low
+Ио. Дам. пер. Ио. екз.	no match	probability was too low
+Ио. Дом. перев. Ио. екз.	no match	probability was too low
+Ио. екз. Бог1	no match	probability was too low
+Ио. екз. Бог1.	no match	probability was too low
+Ио. екз. Бoг.1	no match	probability was too low
+Ио. екз. Шест	no match	probability was too low
+Ио. екз. Шест.	no match	probability was too low
+Ио. екз. Шест.1	no match	probability was too low
+Ио. Злат. Ант.	no match	probability was too low
+Ио. Злат. въ Сбор. Троиц.	no match	probability was too low
+Ио. Злат. Сл. въ св. пят.	no match	probability was too low
+Ио. Злат. Сл. о Ио. Пр. Мин. чет. июн.	no match	probability was too low
+Ио. Злат. Сл. о Ио. пр. Мин. чет. июн.	no match	probability was too low
+Ио. Л?ст.	no match	probability was too low
+Ио. Лест.	no match	probability was too low
+Ио. Митр. поcл. Клим.	no match	probability was too low
+Ио. JIeCTB.1	no match	probability was too low
+Ио. X, 1	no match	probability was too low
+Ио.екз.Бог.1, II	no match	probability was too low
+Ио.екз.Бог.1, III	no match	probability was too low
+Ио.екз.Бог.1, IV	no match	probability was too low
+Ио.Леств.2	no match	probability was too low
+Ио.Леств.3	no match	probability was too low
+Ио.Леств.4	no match	probability was too low
+Ио.Леств.5	no match	probability was too low
+Ио.Леств.6	no match	probability was too low
+Ио.Млн.	no match	probability was too low
+Ио.Новг.	no match	probability was too low
+Ио.У.	no match	probability was too low
+Иоан.	no match	probability was too low
+Иоас. корм.	no match	probability was too low
+Иоас. сб.	no match	probability was too low
+Иоас.К.	no match	probability was too low
+Иоас.корм.	no match	probability was too low
+Иоасаф. лет.	no match	probability was too low
+Иоасаф.лет.	no match	probability was too low
+Иов.	no match	probability was too low
+Иов. Ап. Тир.	no match	probability was too low
+Иов. И. и Февронии1	no match	probability was too low
+Иов. Кат.-Ростовского	no match	probability was too low
+Иов. Ульян. Осор.	no match	probability was too low
+Иов., XIII, 12	no match	probability was too low
+Иова	no match	probability was too low
+Иок. екз. Шест.	no match	probability was too low
+Ион.мт.	no match	probability was too low
+Ион.Новг.	no match	probability was too low
+Ион.Новг.ч.	no match	probability was too low
+Ионы мт. ч.	Ионы мт.ч. Чудеса мт.
+Иос.	no match	probability was too low
+Иос. Корм.	no match	probability was too low
+Иос.Вол.	no match	probability was too low
+Иос.Вол. к Тр.	no match	probability was too low
+Иос.Дс.	no match	probability was too low
+Иос.Дух.гр.	no match	probability was too low
+Иос.Н.	no match	probability was too low
+Иос.Об.	no match	probability was too low
+Иос.оп.	no match	probability was too low
+Иос.Св.	no match	probability was too low
+Иос.Флав. О полон.Иерусал.	no match	probability was too low
+Иосиф1	no match	probability was too low
+Ип.Мон.	no match	probability was too low
+Ипол. Дан.	no match	probability was too low
+Иппол. Дан.	no match	probability was too low
+Ирм.	no match	probability was too low
+Ирм. (Алф.)	no match	probability was too low
+Ирм. о.	no match	probability was too low
+Ирм. ок.	no match	probability was too low
+Ирм. ок. 1250 г.	no match	probability was too low
+Ирм. ок. 1250 г.?	no match	probability was too low
+Ирм. Boскр.	no match	probability was too low
+Ирм.(Алф.)	no match	probability was too low
+Ис.	no match	probability was too low
+Ис. I, 18	no match	probability was too low
+Ис. I, 31	no match	probability was too low
+Ис. LII. 15	no match	probability was too low
+Ис. LVIII, 12	no match	probability was too low
+Ис. LVIII, 6	no match	probability was too low
+Ис. LVIII. 5	no match	probability was too low
+Ис. VI, 1	no match	probability was too low
+Ис. XLIV, 28 (Упыр)	no match	probability was too low
+Ис. XX, 5	no match	probability was too low
+Ис. XXI, 16	no match	probability was too low
+Ис.И. и Врн.Н.	no match	probability was too low
+Ис.Сир. о тр.обр.раз.	no match	probability was too low
+Ис.Тв.	no match	probability was too low
+Ис.Ю.	no match	probability was too low
+ИСЗ	no match	probability was too low
+Исих. пресв.	no match	probability was too low
+Исих. пресв. к Феодул.	no match	probability was too low
+Исих. Пресвит.	no match	probability was too low
+Ист.	Ист. о п.И.
+Ист. песня Смол.	no match	probability was too low
+Ист. рус. флота. Период Азовский. Приложения, ч. I	no match	probability was too low
+Ист. семи мудрецов	no match	probability was too low
+Ист. Троп.1	no match	probability was too low
+Ист.Букв.	no match	probability was too low
+Ист.Восьм. (8) соб.	no match	probability was too low
+Ист.Гр.	no match	probability was too low
+Ист.Град.	no match	probability was too low
+Ист.Евр.Пуф.	no match	probability was too low
+Ист.Ед.	no match	probability was too low
+Ист.Екклес.	no match	probability was too low
+Ист.К.2	no match	probability was too low
+Ист.Лиц. букварь	Ист.Лиц.Букв.
+Ист.Мавроурбина	no match	probability was too low
+Ист.нар.разг.яз.	no match	probability was too low
+Ист.осм.соб.	no match	probability was too low
+Ист.рос.иер. II	no match	probability was too low
+Ист.рос.иер. III	no match	probability was too low
+Ист.рос.иер. IV	no match	probability was too low
+Ист.рос.иер. V	no match	probability was too low
+Ист.рос.иер. VI	no match	probability was too low
+Ист.Татарии	no match	probability was too low
+Истом. Букварь (Предисл.)	no match	probability was too low
+Истом. Град ц.	no match	probability was too low
+Истом. Едем	no match	probability was too low
+Истом. Лиц. букв.	no match	probability was too low
+Истом.Град ц.	no match	probability was too low
+Истом.Град.ц.	no match	probability was too low
+Истом.Едем Карион	no match	probability was too low
+Истом.Лиц.букварь1	no match	probability was too low
+Истом.Соч.	no match	probability was too low
+Истор.пов. о взятии Азова	no match	probability was too low
+Источн.разг.	no match	probability was too low
+Исх.	no match	probability was too low
+Исх. I. 11	no match	probability was too low
+Исх. VIII, 3	no match	probability was too low
+Исх. XII, 45	no match	probability was too low
+Исх. XXII. 2	no match	probability was too low
+Исх. XXVII. 4	no match	probability was too low
+Исх. XXXV, 21	no match	probability was too low
+ІІ	no match	probability was too low
+ІІІестоднев Ио. екз.1	no match	probability was too low
+К.Дан.	no match	probability was too low
+К.З.Двор.	no match	probability was too low
+К.С.	no match	probability was too low
+Каз. пр.	no match	probability was too low
+Каз.док.	no match	probability was too low
+Каз.ист.2	no match	probability was too low
+Казан.ист.	no match	probability was too low
+Казн.п.Ник.	no match	probability was too low
+Калайдович	no match	probability was too low
+Калеандр	no match	probability was too low
+Календ.1725 г.	no match	probability was too low
+Календ.Брюса	no match	probability was too low
+Калуж.акт.	no match	probability was too low
+Камер-фур.журн.	no match	probability was too low
+Кан. на св. Пасху по Соф. рукоп.	no match	probability was too low
+Канон.	no match	probability was too low
+Канон. Новг.	no match	probability was too low
+Канон. Салт.	no match	probability was too low
+Каноник. Салт.	no match	probability was too low
+Каноник. Салт. Исп. инок.	no match	probability was too low
+Каноник. Салт. Мол. покаян.	no match	probability was too low
+Кар. И. Г. Р.	no match	probability was too low
+Кар. ИГР	no match	probability was too low
+Карпов	no match	probability was too low
+Картуш	no match	probability was too low
+Кас. Авн.	no match	probability was too low
+Кас.Авн.	no match	probability was too low
+Кат.-Рост.	no match	probability was too low
+Кб.	no match	probability was too low
+Кв.Курц.Александр Вел.	no match	probability was too low
+Кел.обих.	no match	probability was too low
+Кипр. м. посл. иг. Аф.	no match	probability was too low
+Кипр.П.М.Ж.	no match	probability was too low
+Киприана Ж. мт. Петра	no match	probability was too low
+Киприана ж. мт. Петра	no match	probability was too low
+Кир. арх.	no match	probability was too low
+Кир. Иер. Огл.	no match	probability was too low
+Кир. Конст. сл. на Срет.	no match	probability was too low
+Кир. Тур. (Ер.)	no match	probability was too low
+Кир. Тур. Притч. о чел. душ.	no match	probability was too low
+Кир.Б.	no match	probability was too low
+Кир.Иерус.Поуч.огл.2	no match	probability was too low
+Кир.Тур. XIII	no match	probability was too low
+Кирил. Иерус.	no match	probability was too low
+Кирил. Иерус. Огл.	no match	probability was too low
+Кирил. Иерус. огл.	no match	probability was too low
+Кирил. Иерус. Огл. (В.)	no match	probability was too low
+Кирил. Иерус. Огл. (М).	no match	probability was too low
+Кирил.Иерус. Поуч.огл.	no match	probability was too low
+Клайд.	no match	probability was too low
+Клеандр	no match	probability was too low
+Клим. Болг. поуч. в Сбор. Троиц.	no match	probability was too low
+Кн. 12 прор.	no match	probability was too low
+Кн. Б. Чертежа	no match	probability was too low
+Кн. денежн. жалов. Тюмен.	no match	probability was too low
+Кн. и. Углич. (доп.)	no match	probability was too low
+Кн. Ивар. м.	no match	probability was too low
+Кн. Моск. печ. др.	no match	probability was too low
+Кн. о эксерциции	no match	probability was too low
+Кн. оброчн. Поречск.	no match	probability was too low
+Кн. Огеп.	no match	probability was too low
+Кн. описи. Бог. м.	no match	probability was too low
+Кн. описи. Кир.-Б. м.	no match	probability was too low
+Кн. описн. Саввино-Сторожевск. м.	no match	probability was too low
+Кн. описн. Холм. собора	no match	probability was too low
+Кн. оцен. Вяз.	no match	probability was too low
+Кн. п. Бежецк. пят.	no match	probability was too low
+Кн. п. Ни жегор.	no match	probability was too low
+Кн. п. Тороп.	no match	probability was too low
+Кн. п. Тот. пр.	no match	probability was too low
+Кн. пер. В о дек. пят.	no match	probability was too low
+Кн. пер. Ведск. пят.	no match	probability was too low
+Кн. пер. И пат. м.	no match	probability was too low
+Кн. пер. Каш. зав.	no match	probability was too low
+Кн. пер. Пил. Столб.	no match	probability was too low
+Кн. пер. Плат. м.	no match	probability was too low
+Кн. пер. Пск. Печ. м.	no match	probability was too low
+Кн. переп. Мураш.	no match	probability was too low
+Кн. посев. Кир. м., ОXLIІІ	no match	probability was too low
+Кн. при.-расх. Бог. м.	no match	probability was too low
+Кн. прих. -расхВолокол. м.	no match	probability was too low
+Кн. прих. золотым делам	no match	probability was too low
+Кн. прих. Карел. м.	no match	probability was too low
+Кн. прих. Корел.	no match	probability was too low
+Кн. прих. Корел. м. Кг	no match	probability was too low
+Кн. прих.- расх. Соф. д.	no match	probability was too low
+Кн. прих.-расх. аз. пр.	no match	probability was too low
+Кн. прих.-расх. Воло кол. м.	no match	probability was too low
+Кн. прих.-расх. Волок. м.	no match	probability was too low
+Кн. прих.-расх. Волокон. м.	no match	probability was too low
+Кн. прих.-расх. Волоцол. м.	no match	probability was too low
+Кн. прих.-расх. Колокол, м.	no match	probability was too low
+Кн. прих.-расх. мон. казн.	no match	probability was too low
+Кн. прих.-расх. Приял. ус. Сол.	no match	probability was too low
+Кн. прих.-расх. Пск. Печ. м.	no match	probability was too low
+Кн. прих.-расх. Холм. арх. д.	no match	probability was too low
+Кн. прих.-расх. Холомог. арх. д.	no match	probability was too low
+Кн. прих.-расх.Солов.м. II	no match	probability was too low
+Кн. прих.– расх. мон. казны). Арх. Он.	no match	probability was too low
+Кн. прих.– расх. Холм. арх. д.	no match	probability was too low
+Кн. прихрасх. Каз. пр.	no match	probability was too low
+Кн. приx.-pacx. Волокол. м.	no match	probability was too low
+Кн. прор2	no match	probability was too low
+Кн. пpop.1	no match	probability was too low
+Кн. рас. Холмог. арх. д.	no match	probability was too low
+Кн. расх. Бодд. м.	no match	probability was too low
+Кн. расх. Болд. мон.	no match	probability was too low
+Кн. расх. Карел. м.	no match	probability was too low
+Кн. расх. Корел.	no match	probability was too low
+Кн. расх. Корел.зщ м.	no match	probability was too low
+Кн. расх. кушаньем Адр.	no match	probability was too low
+Кн. расх. Сольвыч. пр.	no match	probability was too low
+Кн. расх. Холм. арх. д.	no match	probability was too low
+Кн. расх. Холомог. арх. д.	no match	probability was too low
+Кн. родосл.1	no match	probability was too low
+Кн. родосл.2	no match	probability was too low
+Кн. Саран. круж. дв.	no match	probability was too low
+Кн. сметн. поташ. пром.	no match	probability was too low
+Кн. сошн. письма	no match	probability was too low
+Кн. XII прор.	no match	probability was too low
+Кн. XII прор. (Упырь)	no match	probability was too low
+Кн.Влд.	no match	probability was too low
+Кн.Волокол.м.	no match	probability was too low
+Кн.денежн.жал.Тюмен. No 18	no match	probability was too low
+Кн.Есфирь1	no match	probability was too low
+Кн.зап.Макар.ярм.	no match	probability was too low
+Кн.зап.МБТ 1694 г. (астр.)	no match	probability was too low
+Кн.зап.Моск.ст. II	no match	probability was too low
+Кн.зап.Моск.ст. III	no match	probability was too low
+Кн.землем.	no match	probability was too low
+Кн.Ивер.м. II	no match	probability was too low
+Кн.Ивер.м. III	no match	probability was too low
+Кн.Ивер.м. IV	no match	probability was too low
+Кн.Келарск.Кир.Белоз.мон.	no match	probability was too low
+Кн.Кир.-Б.м.	no match	probability was too low
+Кн.Кир.-Б.м.1	no match	probability was too low
+Кн.коп.Дв.там.избы No 655	no match	probability was too low
+Кн.коп.Иверск.м. No 218	no match	probability was too low
+Кн.корм.Волокол.м.	no match	probability was too low
+Кн.корм.Кир.-Б.м. (вып.)	no match	probability was too low
+Кн.Марс.	no match	probability was too low
+Кн.Матф.Иерус.	no match	probability was too low
+Кн.нетные	no match	probability was too low
+Кн.оброчн.Пореч.	no match	probability was too low
+Кн.описн.Кир.-Б.м. II	no match	probability was too low
+Кн.описн.Княгин.	no match	probability was too low
+Кн.описн.Холмог.собора	no match	probability was too low
+Кн.отводн.Солов.м. I	no match	probability was too low
+Кн.п.Вологды	no match	probability was too low
+Кн.п.Зар.	no match	probability was too low
+Кн.п.Моск. II	no match	probability was too low
+Кн.п.Тороп.	no match	probability was too low
+Кн.п.Усолья Кам. II	no match	probability was too low
+Кн.пер.Бежецк.пят.1	no match	probability was too low
+Кн.пер.Водск.пят. II	no match	probability was too low
+Кн.пер.Водск.пят. III	no match	probability was too low
+Кн.пер.Дерев.пят. II	no match	probability was too low
+Кн.пер.Моск. II	no match	probability was too low
+Кн.пер.Нил.Столб. II	no match	probability was too low
+Кн.пер.Нил.Столб. III	no match	probability was too low
+Кн.пер.Нил.Столб. IV	no match	probability was too low
+Кн.пер.Нил.Столб. V	no match	probability was too low
+Кн.пер.Нил.Столб. VI	no match	probability was too low
+Кн.пер.Нил.Столб. VII	no match	probability was too low
+Кн.пер.Псков.Печ.м. II	no match	probability was too low
+Кн.пер.Псков.Печ.м.I	no match	probability was too low
+Кн.пер.Свир.	no match	probability was too low
+Кн.пер.Свир.м.	Кн.пер.Свир.м. No 169
+Кн.пер.Свир.м.	Кн.пер.Свир.м. No 191
+Кн.пер.Свир.м.	Кн.пер.Свир.м. No 37
+Кн.пер.Шелон.пят. II	no match	probability was too low
+Кн.переп.Мур.	no match	probability was too low
+Кн.писц.Новг. XVI в.	no match	probability was too low
+Кн.писц.Новг.Вел.	no match	probability was too low
+Кн.плат.Ант.м. No 2	no match	probability was too low
+Кн.плат.Ант.м. No 75	no match	probability was too low
+Кн.покор.Кит.	no match	probability was too low
+Кн.пол.м.	no match	probability was too low
+Кн.полев.	no match	probability was too low
+Кн.пом. и ясаку Томск.	no match	probability was too low
+Кн.посев.Изм.	no match	probability was too low
+Кн.посев.Кир.м.	no match	probability was too low
+Кн.поташ.пром. No 377	no match	probability was too low
+Кн.припр.Ряз. I	no match	probability was too low
+Кн.прих.-расх. Волокол.м. I	no match	probability was too low
+Кн.прих.-расх. Волокол.м. No 1031	no match	probability was too low
+Кн.прих.-расх. Волокол.м. No 2	no match	probability was too low
+Кн.прих.-расх. Волокол.м. No 6	no match	probability was too low
+Кн.прих.-расх. Солов.м. I	no match	probability was too low
+Кн.прих.-расх. Сторож.м.	no match	probability was too low
+Кн.прих.-расх. Холмог.арх.д. No 102	no match	probability was too low
+Кн.прих.-расх. Холмог.арх.д. No 103	no match	probability was too low
+Кн.прих.-расх.Ант.м. No 3	no match	probability was too low
+Кн.прих.-расх.Арз. и Барм.будн.ст.	no match	probability was too low
+Кн.прих.-расх.архиеп.Ряз.	no match	probability was too low
+Кн.прих.-расх.Волокол.м. II	no match	probability was too low
+Кн.прих.-расх.Волокол.м. No 1031	no match	probability was too low
+Кн.прих.-расх.Волокол.м. No 4	no match	probability was too low
+Кн.прих.-расх.Волокол.м. No 7	no match	probability was too low
+Кн.прих.-расх.Ивер.м. No 20	no match	probability was too low
+Кн.прих.-расх.Иверск.м. No 53	no match	probability was too low
+Кн.прих.-расх.Каз.пр.I	no match	probability was too low
+Кн.прих.-расх.Кир.м.1	no match	probability was too low
+Кн.прих.-расх.Моск. I	no match	probability was too low
+Кн.прих.-расх.Пореч.	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 10	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 13	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 23	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 30	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 45	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 80	no match	probability was too low
+Кн.прих.-расх.Прил.м. No 88	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 175	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 176 (и 174)	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 179	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 186	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 21	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 22	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 25	no match	probability was too low
+Кн.прих.-расх.Свир.м. No 32	no match	probability was too low
+Кн.прих.-расх.Солотч.м.	no match	probability was too low
+Кн.прих.-расх.Тихв.м. No 2	no match	probability was too low
+Кн.прих.-расх.Тихв.м. No6	no match	probability was too low
+Кн.прих.-расх.Тот.пр.	no match	probability was too low
+Кн.прих.Болд.м. No 141	no match	probability was too low
+Кн.прих.Болд.м. No 145	no match	probability was too low
+Кн.прих.Болд.м. No 155	no match	probability was too low
+Кн.прих.Болд.м. No 836	no match	probability was too low
+Кн.прих.Дорогоб.м.	no match	probability was too low
+Кн.прих.Иверск.м.	no match	probability was too low
+Кн.прих.Каз.дв. No 20	no match	probability was too low
+Кн.прих.Корел.м.	Кн.прих.Корел.м. No 939
+Кн.прих.Корел.м.	Кн.прих.Корел.м. No 941
+Кн.прих.Корел.м.	Кн.прих.Корел.м. No 942
+Кн.прих.Корел.м.	Кн.прих.Корел.м. No 944
+Кн.прих.Корел.м.	Кн.прих.Корел.м. No 945
+Кн.прих.Нижегор. II	no match	probability was too low
+Кн.прих.Свир.м. No 159	no match	probability was too low
+Кн.прих.Тот. No 6	no match	probability was too low
+Кн.приход.Дорог.м.	no match	probability was too low
+Кн.прор.5	no match	probability was too low
+Кн.Разр.1617 г.	no match	probability was too low
+Кн.разряд. 1475–1605 гг., I–IV	no match	probability was too low
+Кн.разряд. I	no match	probability was too low
+Кн.разряд. II	no match	probability was too low
+Кн.разряд. IV	no match	probability was too low
+Кн.разряд.V	no match	probability was too low
+Кн.расх.Болд.м. No 139	no match	probability was too low
+Кн.расх.Дорог.м.	no match	probability was too low
+Кн.расх.Ивер.м.	Кн.расх.Ивер.м. No 43
+Кн.расх.Ивер.м.	Кн.расх.Иверск.м. No 20
+Кн.расх.Ивер.м.	Кн.расх.Иверск.м. No 24
+Кн.расх.Ивер.м.	Кн.расх.Иверск.м. No 53
+Кн.расх.Кир.м. No 2	no match	probability was too low
+Кн.расх.Кир.м. No 381	no match	probability was too low
+Кн.расх.Корел.	no match	probability was too low
+Кн.расх.Корел.м.	Кн.расх.Корел.м. No 936
+Кн.расх.Корел.м.	Кн.расх.Корел.м. No 937
+Кн.расх.Корел.м.	Кн.расх.Корел.м. No 939
+Кн.расх.Корел.м.	Кн.расх.Корел.м. No 943
+Кн.расх.Красно-холмск.м.	no match	probability was too low
+Кн.расх.Свир.м. No 160, 187, 214	no match	probability was too low
+Кн.расх.Свир.м. No 33	no match	probability was too low
+Кн.расх.Свир.м. No 60	no match	probability was too low
+Кн.расх.Хлын. I	no match	probability was too low
+Кн.расх.Хлын. II	no match	probability was too low
+Кн.расх.Холмог.арх.д. No 107	no match	probability was too low
+Кн.расх.Холмог.арх.д. No 108	no match	probability was too low
+Кн.расх.Холомог.арх.д.	no match	probability was too low
+Кн.родосл. II	no match	probability was too low
+Кн.родосл. III	no match	probability was too low
+Кн.сбор. и расх.Дорогобуж.I	no match	probability was too low
+Кн.сол.продаж	no match	probability was too low
+Кн.Соликам.	no match	probability was too low
+Кн.солян.пром. No 22	no match	probability was too low
+Кн.сошн.пис.	no match	probability was too low
+Кн.ст.Каргоп.	no match	probability was too low
+Кн.Стр.	no match	probability was too low
+Кн.там.посадск. No 17	no match	probability was too low
+Кн.там.пошл. No 1	no match	probability was too low
+Кн.там.Свир.м. No 184, 188, 198, 207	no match	probability was too low
+Кн.там.Свир.м. No 34	no match	probability was too low
+Кн.там.Свир.м. No 44	no match	probability was too low
+Кн.там.Свир.м. No 53	no match	probability was too low
+Кн.там.Тур.остр. No 286	no match	probability was too low
+Кн.там.Штильн. No 20	no match	probability was too low
+Кн.ужин. и умолотн.Волокол.м. I	no match	probability was too low
+Кн.ужин. и умолотн.Волокол.м.1	no match	probability was too low
+Кнгр.М.	no match	probability was too low
+Кнгр.П.	no match	probability was too low
+Книж. о покор.Кит.	no match	probability was too low
+Княж. уст.	no match	probability was too low
+Кодм.	no match	probability was too low
+Коем.	no match	probability was too low
+Козм. (Врем.16)	no match	probability was too low
+Козм. Инд	no match	probability was too low
+Козм. Инд.	no match	probability was too low
+Козм. Инд.2	no match	probability was too low
+Козм. Пресв. о ерес.	no match	probability was too low
+Козм. пресв. о ерес.	no match	probability was too low
+Козм. Халк. о жене	no match	probability was too low
+Козм. I	no match	probability was too low
+Козм. II	no match	probability was too low
+Козм. IV	no match	probability was too low
+Козм. XVII в.	no match	probability was too low
+Козм., 90.	no match	probability was too low
+Козм.н.XVIII в.	no match	probability was too low
+Козм.проз.	no match	probability was too low
+Козм.Унд. No 704	no match	probability was too low
+Козм.Унд. No 705	no match	probability was too low
+Козм.Унд.1185	no match	probability was too low
+Козм.III	no match	probability was too low
+Козма Пресв.2	no match	probability was too low
+Козма прозв.	no match	probability was too low
+Козмгр.	no match	probability was too low
+кокигъ — Хроногр. 1512 г.	no match	probability was too low
+Кол.Д.	no match	probability was too low
+Колл. Бередникова. Чел. А. Коротнева	no match	probability was too low
+Колл.Н.Г.У.А.К.	no match	probability was too low
+Колок.	no match	probability was too low
+Кон.зав.1	no match	probability was too low
+Конд.	Конд.Тр.
+Конд.	Конд.I
+Конд.	Конд.II
+Конд.	Конд.III
+Конд.	Конд.IV
+Конд.	Конд.V
+Конд.	Конд.VI
+Конд.	Конд.VII
+Конск. приб. Бор. Год.	no match	probability was too low
+Конск. приб. Бор. Фед. Год.	no match	probability was too low
+Конст. Болг. Поуч.	no match	probability was too low
+Конст. Болг. поуч.	no match	probability was too low
+Конст. ев.	no match	probability was too low
+Конст. ев. 1383 г.	no match	probability was too low
+Конст.ев.	no match	probability was too low
+Конст.Мур.	no match	probability was too low
+Конч.ц.Мих.	no match	probability was too low
+Копенг. сбор.	no match	probability was too low
+Кор.	no match	probability was too low
+Кор. 2. I. 8. Апост. посл.	no match	probability was too low
+Корм.	Корм. (Рум.)1
+Корм.	Корм. (Син.)
+Корм. Ба лаш.	no match	probability was too low
+Корм. Баланс.	no match	probability was too low
+Корм. Балапг.	no match	probability was too low
+Корм. Балат.	no match	probability was too low
+Корм. Балащ.	no match	probability was too low
+Корм. Валаш.	no match	probability was too low
+Корм. Кир.	no match	probability was too low
+Корм. Крф.	no match	probability was too low
+Корм. Моск. Дух. Ак.	no match	probability was too low
+Корм. Моск. дух. ак.	no match	probability was too low
+Корм. моск. дух. ак.	no match	probability was too low
+Корм. Моск. Дух. Ак. Тимоф. Алекс. отв.	no match	probability was too low
+Корм. Моск. Дух. Ак. Трул.	no match	probability was too low
+Корм. Моск. Дух. Ак. Халк.	no match	probability was too low
+Корм. Моск. Дух. Акад.	no match	probability was too low
+Корм. Моск. Дух. акад.	no match	probability was too low
+Корм. Моск. дух. акад.	no match	probability was too low
+Корм. Моск. Дух. Акад. Ио. Пост.	no match	probability was too low
+Корм. Моск. Дух. Акад. Nov. Just.	no match	probability was too low
+Корм., гл.	no match	probability was too low
+Корм.Иоасаф.	no match	probability was too low
+Кормч.	no match	probability was too low
+Корн.	no match	probability was too low
+Коробокъ чемерицы. Д. патр. Никона	no match	probability was too low
+Косм.	no match	probability was too low
+Косм.1670	no match	probability was too low
+Кот.	no match	probability was too low
+Котеш.	no match	probability was too low
+Котош., 110.	no match	probability was too low
+Котош., 46.	no match	probability was too low
+Котош.О Рос.	no match	probability was too low
+Кп. пер. Дерев. пят.	no match	probability was too low
+Кр.	no match	probability was too low
+Кр. прих.- расх. Прил. м.	no match	probability was too low
+Кр.Бз.	no match	probability was too low
+Кр.Зач.П. I	no match	probability was too low
+Кратк.изв. о хинск.служ.	no match	probability was too low
+Кратк.отв.Курб.	no match	probability was too low
+Крг.С.	no match	probability was too low
+Креп.мануф. III	no match	probability was too low
+Крм.	Крм.Д.
+Крн.Км.	no match	probability was too low
+Крым д.	no match	probability was too low
+Крым. д. И	no match	probability was too low
+Крым.д.	no match	probability was too low
+Кс.Авн.	no match	probability was too low
+Кс.М.	no match	probability was too low
+Кс.Ш.	no match	probability was too low
+Кт.	no match	probability was too low
+Ктш.	no match	probability was too low
+Куанты2	no match	probability was too low
+Куб. Пис.	no match	probability was too low
+Кука жел?зная ветчана. А. Моск. печ. дв.	no match	probability was too low
+Куликъ молвит: а я бьюся об одномъ гн?зд?.	no match	probability was too low
+Кунг.акты	no match	probability was too low
+Кунгур. суд.-адм. учр.	no match	probability was too low
+Куп.1450	no match	probability was too low
+Куп.Иоанн.	no match	probability was too low
+Куплена къ шатерному д?лу. Кн. прих.-расх. Каз. пр.	no match	probability was too low
+Купч.	Купчая
+Курак.	no match	probability was too low
+Куранты6	no match	probability was too low
+Куранты7	no match	probability was too low
+Куранты8	no match	probability was too low
+Курацты2	no match	probability was too low
+Курб. Писм.	no match	probability was too low
+Курб. Ппс.	no match	probability was too low
+Курб.Отв. II	no match	probability was too low
+Курб.Отв.I	no match	probability was too low
+Кург.Письм.	no match	probability was too low
+Курганов	no match	probability was too low
+Курганов, I	no match	probability was too low
+Курганов, II	no match	probability was too low
+Куфб. Отв.	no match	probability was too low
+Кя. прих.- расх. Волокол. м.	no match	probability was too low
+Кя. Степ.	no match	probability was too low
+Лав. лет.	no match	probability was too low
+Лавр. л. запись	no match	probability was too low
+Лавр.лет.3 изд.	no match	probability was too low
+Лаод. поcл.	no match	probability was too low
+Лаод.посл.	no match	probability was too low
+Лаппо-Данилевский	no match	probability was too low
+Лв.Фл.	no match	probability was too low
+Лев.	no match	probability was too low
+Лев. II, 14	no match	probability was too low
+Лев. VIII. 23	no match	probability was too low
+Лев. XIII, 24	no match	probability was too low
+Лев. XVIII, 28	no match	probability was too low
+Лев. XXII, 22	no match	probability was too low
+Лев. XXIII, 40	no match	probability was too low
+Лев. XXIV, 2	no match	probability was too low
+Леи.	no match	probability was too low
+Лек. от задумч.	no match	probability was too low
+Леке, треяз.	no match	probability was too low
+Леке. Берынды	no match	probability was too low
+Лекс. (Пог.)	no match	probability was too low
+Лекс. полоно-слов.	no match	probability was too low
+Лекс. славяно-лат.	no match	probability was too low
+Лекс. словено-лат.	no match	probability was too low
+Лекс.в.н.	no match	probability was too low
+Лексикон	no match	probability was too low
+Лекc. вокаб. нов.	no match	probability was too low
+Лекc. полоно-словен.	no match	probability was too low
+Леонид.Свед. II	no match	probability was too low
+Лепехин	no match	probability was too low
+Леств.	no match	probability was too low
+Леств.умн.перст.	no match	probability was too low
+Лет. Новг. по церк.	no match	probability was too low
+Лет. о мн.мятежах	no match	probability was too low
+Лет.Арх.	no match	probability was too low
+Лет.Арх.Кон.	no match	probability was too low
+Лет.свод 1493 г.	no match	probability was too low
+Лет.свод 1495 г.	no match	probability was too low
+Летоп. 1700 г.	no match	probability was too low
+Летоп. Львов.	no match	probability was too low
+Летоп.Авр.	no match	probability was too low
+Летоп.Нормантского	no match	probability was too low
+Летописец рус.	no match	probability was too low
+Летописец I	no match	probability was too low
+Леч	no match	probability was too low
+Леч.	Леч. I
+Леч.	Леч. IV
+Леч.	Леч. IX
+Леч.	Леч. No 1
+Леч.	Леч. No 2
+Леч.	Леч. No 3
+Леч.	Леч. VII
+Леч.	Леч. VIII
+Леч.	Леч.VI
+Леч. ІІІ	no match	probability was too low
+Леч. II, гл.	no match	probability was too low
+Леч.7	no match	probability was too low
+Лечебн.	no match	probability was too low
+Лея.	no match	probability was too low
+ЛИ	no match	probability was too low
+Лингв. источ.	no match	probability was too low
+Лир.песни Ив.Лукьяновича	no match	probability was too low
+Лит. пан.	no match	probability was too low
+Лих.сб.ак.	no match	probability was too low
+Лов. Скоп.-Шуйском	no match	probability was too low
+Лов. Ульян. Осор.	no match	probability was too low
+Лов. Хворостинина	no match	probability was too low
+Лог.Авиас.	no match	probability was too low
+Логика	no match	probability was too low
+Лож. иотреч. кн.	no match	probability was too low
+ЛОИИ.Рознь	no match	probability was too low
+Ломоносов. Кр.рос.лет.	no match	probability was too low
+Ломоносов. Происхожд.света	no match	probability was too low
+Ломоносов. Рожд.металлов	no match	probability was too low
+Лощилъ на ризы. Кн. прих.-расх. Каз. пр.	no match	probability was too low
+Лу цид.	no match	probability was too low
+Лук.	no match	probability was too low
+Лук. Жид.	no match	probability was too low
+Лукин, I	no match	probability was too low
+Лукин, II	no match	probability was too low
+Луковика. Яросл. п. кн.	no match	probability was too low
+Лукьяновых детей. Д. опричн.	no match	probability was too low
+Лунащийся. Лекс. полоно-словен.	no match	probability was too low
+Луц.	no match	probability was too low
+Льбов. лет.	Львов.лет.II
+М Гр.	no match	probability was too low
+М?ди желтой, тертой пилою, лотъ. Составы	no match	probability was too low
+М. Арх. Красно-Холм. м.	no match	probability was too low
+М. Гр.1	no match	probability was too low
+М. Грек	no match	probability was too low
+М. Грек. Отв. соб.	no match	probability was too low
+М.Гр.	М.Гр. II
+М.Гр.	М.Гр.Грам. II
+М.Гр.	М.Гр.Неизд. II
+М.Гр.	М.Гр.Неизд. III
+М.Гр.	М.Гр.Неизд. IV
+М.Гр.	М.Гр.Неизд. V
+М.Гр.	М.Гр.Перев.
+М.Гр.	М.Гр.Посл.
+М.Гр.	М.Гр.Сл.
+М.Гр.	М.Гр.Соч. (C.)
+М.Гр.	М.Гр.III
+М.Д.	no match	probability was too low
+М.Д.2	no match	probability was too low
+М.К.	no match	probability was too low
+М.Комар.Милорд	no match	probability was too low
+М.Косм.Арс.	no match	probability was too low
+М.Мед.	no match	probability was too low
+М.Пр.кн.	no match	probability was too low
+Магниц.	no match	probability was too low
+Мак.Ж.	no match	probability was too low
+Макар. Мин. Чет. авг.	no match	probability was too low
+Макарий.ИРЦ V	no match	probability was too low
+Максим Грек.В.Жмакин	no match	probability was too low
+Максим Грек.Каз.дух.ак. No 310 (495)	no match	probability was too low
+Максим Грек.Лопарев, с.215–219	no match	probability was too low
+Максим Грек.Москвитянин, 1842 г. No 11, с.84–91	no match	probability was too low
+Максим Грек.Москвитянин, 1842 г. No 11, с.91–96	no match	probability was too low
+Максим Грек.Публ.библ.F. XVII No 13	no match	probability was too low
+Максим Грек.Публ.библ.Q.I, No 219	no match	probability was too low
+Максим Грек.Рум.Муз. No 264	no match	probability was too low
+Максим Грек.Ягич, с.594–595	no match	probability was too low
+Максим Грек.Ягич, с.598–599	no match	probability was too low
+Максим Грек.Ягич, с.601–605	no match	probability was too low
+Максимов.Грам.	no match	probability was too low
+Малпа дрова лупала. Рим. д.	no match	probability was too low
+Маншиновы ереси. Зин. Отен. Просл. Ник.	no match	probability was too low
+Маргар.	no match	probability was too low
+Мат.	no match	probability was too low
+Мат. арх. сл. І?(2)	no match	probability was too low
+Мат. ме диц.	no match	probability was too low
+Мат. по ист.Вым. и Выг.у.	no match	probability was too low
+Мат.арх.сл. II	no match	probability was too low
+Мат.арх.сл. III	no match	probability was too low
+Мат.арх.сл. IV	no match	probability was too low
+Мат.арх.сл. IX	no match	probability was too low
+Мат.арх.сл. V	no match	probability was too low
+Мат.арх.сл. VIII	no match	probability was too low
+Мат.арх.сл. X	no match	probability was too low
+Мат.Арханг.еп.	no match	probability was too low
+Мат.Заб. и Мат.Икон.	no match	probability was too low
+Мат.ист.АН II	no match	probability was too low
+Мат.ист.АНIII	no match	probability was too low
+Мат.Каз.дв. I	no match	probability was too low
+Мат.Каз.дв. II	no match	probability was too low
+Мат.Каз.дв. III	no match	probability was too low
+Мат.Каз.дв. IV	no match	probability was too low
+Мат.ком.Нов.Ул. I	no match	probability was too low
+Мат.ком.Нов.Ул. III	no match	probability was too low
+Мат.ком.Нов.Ул. VI	no match	probability was too low
+Мат.ком.Нов.Ул. VIII	no match	probability was too low
+Мат.ком.Нов.Ул. XII	no match	probability was too low
+Мат.Ком.Ул. (Дневн.зап.) XIV	no match	probability was too low
+Мат.Ком.Ул. Наказ. (назв.губ.) Ком.ул.	no match	probability was too low
+Мат.Ком.Ул. IV	no match	probability was too low
+Мат.Ком.Ул.43	no match	probability was too low
+Мат.мор.д.	no match	probability was too low
+Матф. ХХIV, 4	no match	probability was too low
+Матф. XIX, 5	no match	probability was too low
+Матф. XIX, 6	no match	probability was too low
+Мед.	no match	probability was too low
+Медведоводитель. Укротитель. Лекс. полоно-словен.	no match	probability was too low
+Меж.	no match	probability was too low
+Меж.вып.	no match	probability was too low
+Мелюзина2	no match	probability was too low
+Мемориал	no match	probability was too low
+Мен.	no match	probability was too low
+Мер. праведн.	no match	probability was too low
+Мерило ??.	Мерило пр.1
+Мерило прав.	no match	probability was too low
+Мести, д.	no match	probability was too low
+Местн.д.	no match	probability was too low
+Мет.пр.Заб.	no match	probability was too low
+Мефодия Патарского	no match	probability was too low
+Миклошич	no match	probability was too low
+Мил.Ж.Дм.	no match	probability was too low
+Милл.Сиб.	no match	probability was too low
+Милорд	no match	probability was too low
+Милят. ев.	no match	probability was too low
+Мин. (Рум.)	no match	probability was too low
+Мин. июл.	no match	probability was too low
+Мин. Леоп.	no match	probability was too low
+Мин. майск.	no match	probability was too low
+Мин. мар.	no match	probability was too low
+Мин. мес.	no match	probability was too low
+Мин. Новг.	no match	probability was too low
+Мин. ноябр.	no match	probability was too low
+Мин. ноябр. Син.	no match	probability was too low
+Мин. Окт. Новг.	no match	probability was too low
+Мин. окт. Новг.	no match	probability was too low
+Мин. октябрь	no match	probability was too low
+Мин. Празд.	no match	probability was too low
+Мин. празд.	no match	probability was too low
+Мин. Празд. авг.	no match	probability was too low
+Мин. сект.	no match	probability was too low
+Мин. сент. Новг.	no match	probability was too low
+Мин. сент. Тип.	no match	probability was too low
+Мин. Чет. апр. 34.	no match	probability was too low
+Мин. Чет. июн.	no match	probability was too low
+Мин. чет. июн.	no match	probability was too low
+Мин. чет. Макар. авг.	no match	probability was too low
+Мин. Чет. Макар. авг. (по Син. сп.)	no match	probability was too low
+Мин. чет. Макар., авг.	no match	probability was too low
+Мин. Чет. фев.	no match	probability was too low
+Мин. XII в.	no match	probability was too low
+Мин.авг.1	no match	probability was too low
+Мин.апр.1	no match	probability was too low
+Мин.апр.2	no match	probability was too low
+Мин.дек.1 I	no match	probability was too low
+Мин.дек.1 II	no match	probability was too low
+Мин.дек.1 III	no match	probability was too low
+Мин.дек.1 IV	no match	probability was too low
+Мин.дек.1 V	no match	probability was too low
+Мин.дек.2	no match	probability was too low
+Мин.дек.3	no match	probability was too low
+Мин.июль1	no match	probability was too low
+Мин.июль3	no match	probability was too low
+Мин.июль4	no match	probability was too low
+Мин.июнь2	no match	probability was too low
+Мин.май1	no match	probability was too low
+Мин.май2	no match	probability was too low
+Мин.ноябрь1	no match	probability was too low
+Мин.окт.1	no match	probability was too low
+Мин.праздн.1	no match	probability was too low
+Мин.праздн.2	no match	probability was too low
+Мин.праздн.3	no match	probability was too low
+Мин.Пут.3	no match	probability was too low
+Мин.сент.-ноябрь	no match	probability was too low
+Мин.сент.-ноябрь1	no match	probability was too low
+Мин.сент.-окт.	no match	probability was too low
+Мин.сент.1	no match	probability was too low
+Мин.сент.2	no match	probability was too low
+Мин.служ.ноябрь	no match	probability was too low
+Мин.служ.сент.	no match	probability was too low
+Мин.февр. I	no match	probability was too low
+Мин.февр. II	no match	probability was too low
+Мин.февр. III	no match	probability was too low
+Мин.февр.1	no match	probability was too low
+Мин.февр.2	no match	probability was too low
+Мин.чет.июль	no match	probability was too low
+Мин.чет.март. II	no match	probability was too low
+Мин.чет.март. III	no match	probability was too low
+Мин.чет.сент.	no match	probability was too low
+Мин.янв.1	no match	probability was too low
+Мин.янв.2	no match	probability was too low
+Мин.янв.3	no match	probability was too low
+Миропродавница. Миропродателница. Лекс. полоно-словен.	no match	probability was too low
+Мих. (Упыр. толк.)	no match	probability was too low
+Мих.Клоп.	no match	probability was too low
+Миц. Пут.	no match	probability was too low
+Мия. ноябрь	no match	probability was too low
+Мк.К.	no match	probability was too low
+Мк.Кз.	no match	probability was too low
+Мк.Кн.	no match	probability was too low
+Мн.Ш.	no match	probability was too low
+Мнен.деп.ком.Нов.Ул. V	no match	probability was too low
+Мнен.деп.ком.Нов.Ул.IV	no match	probability was too low
+Мним.посл.Н.Сорск.	no match	probability was too low
+Многолетье Ивану IV	no match	probability was too low
+Моис.	no match	probability was too low
+Мол. ГІорф.	no match	probability was too low
+Мол. на дьяв.	no match	probability was too low
+Мол. покаян. (древ)	no match	probability was too low
+Мол.Т.	no match	probability was too low
+Монастырекъ серебреной. Д. Шакловит.	no match	probability was too low
+Монг.П.	no match	probability was too low
+Мор.	no match	probability was too low
+Моск.вед. II	no match	probability was too low
+Моск.гр.	no match	probability was too low
+Моск.печ.дв.	no match	probability was too low
+Мошнор?зъ. Лекс. полоно-словен.	no match	probability was too low
+Мр.	no match	probability was too low
+Мрк.См.	no match	probability was too low
+Мрк.См.1	no match	probability was too low
+Мрк.См.2, 3, 4, 5	no match	probability was too low
+Мс?цословъ. М?сячникъ. Календарь. Лекс. полоно-словен.	no match	probability was too low
+Мск.Пр.	no match	probability was too low
+Мск.Рсх.	no match	probability was too low
+Мск.Рх.	no match	probability was too low
+Мск.Ст.1	no match	probability was too low
+Мск.Ст.2	no match	probability was too low
+Мск.Ст.3	no match	probability was too low
+Мск.Чрк.	no match	probability was too low
+Мст. ев. д.	no match	probability was too low
+Мст. ев.; Четвероев.	no match	probability was too low
+Мур.П.	no match	probability was too low
+Мурз.	no match	probability was too low
+Мурик. грам. Дил.	no match	probability was too low
+Мус. грам. Дил.	no match	probability was too low
+Мус.-Пуш. сб.	no match	probability was too low
+Муси к. грам. Дил.	no match	probability was too low
+Мусик. грам. Дил., ИЗ.	no match	probability was too low
+Муч. Акинд.	no match	probability was too low
+Муч. Анаст.	no match	probability was too low
+Муч. Викт.	no match	probability was too low
+Муч. Дим. Сел.	no match	probability was too low
+Муч. Дм. Сол.	no match	probability was too low
+Муч. Еразм. 9 Мин. Чет. июн.	no match	probability was too low
+Муч. Ирины, 113.	no match	probability was too low
+Муч. Мам.	no match	probability was too low
+Муч. Серг. Вакх.	no match	probability was too low
+Муч. Терент. Мин. чет. апр.	no match	probability was too low
+Муч. Харламп.	no match	probability was too low
+Муч.Акинд.	no match	probability was too low
+Мф. Власт.	no match	probability was too low
+Мф. X. 15	no match	probability was too low
+Мф. X. 29	no match	probability was too low
+Мх.Кл.	no match	probability was too low
+Мятеж. Толк. речем5	no match	probability was too low
+Н.П.	no match	probability was too low
+Н.Подл.	no match	probability was too low
+Н.Суд.Гр.	no match	probability was too low
+на Псков2	no match	probability was too low
+Нав. VI, 7	no match	probability was too low
+Надп.кн.	no match	probability was too low
+Надп.Соф.К.	no match	probability was too low
+Надп.хр.	no match	probability was too low
+Наз.	no match	probability was too low
+Нази· ратель	no match	probability was too low
+Нак. Милос.	no match	probability was too low
+Нак.сыщику	no match	probability was too low
+Наказ.	no match	probability was too low
+Наказ. чад., 100.	no match	probability was too low
+Наказ. чад., 110.	no match	probability was too low
+Наказ.Тб.	no match	probability was too low
+Наказы Ком.Улож.	no match	probability was too low
+Нап. на кр. Ефр. Пол.	no match	probability was too low
+Нас?дка. Спис.	no match	probability was too low
+Нас. Авн.	no match	probability was too low
+Наседка. Спие.	no match	probability was too low
+Наседка. Спис., 348.	no match	probability was too low
+Наседка. Спис., ЗЗІ.	no match	probability was too low
+Наум.	no match	probability was too low
+Наум. II.	no match	probability was too low
+Наум. III, 16	no match	probability was too low
+Нв.К.	no match	probability was too low
+Нв.Ка.	no match	probability was too low
+Нв.Кб.	no match	probability was too low
+Нв.Кн.	no match	probability was too low
+Нв.кр.	no match	probability was too low
+Нв.П.	no match	probability was too low
+Нв.Т.	no match	probability was too low
+Нв.У.	no match	probability was too low
+Нв.я.	no match	probability was too low
+Нвг.св.	no match	probability was too low
+Ндр.Кр.	no match	probability was too low
+Невидимка	no match	probability was too low
+Недружеский. Лекс. полоно- словен.	no match	probability was too low
+Недружеский. Лекс. полоно-словен.	no match	probability was too low
+Незн.	no match	probability was too low
+Нект. о Фед. Мин. чет., февр.	no match	probability was too low
+Нект. о Феод. Мин. чет. февр.	no match	probability was too low
+Нектонаву. Александрия	no match	probability was too low
+Нем.-рус.разгов.1	no match	probability was too low
+Несм?ятеленъ. Лекс. полоно-словен.	no match	probability was too low
+Несмеян.	no match	probability was too low
+Нест. Бор. Глеб.	no match	probability was too low
+Нещ.прикл.Баранщ.	no match	probability was too low
+Нж.Пл.	no match	probability was too low
+Нзр.	no match	probability was too low
+Ни кон. Панд.1	no match	probability was too low
+Ни ты судей страшился когда. Сказ. о куре и лисице	no match	probability was too low
+Нижегор. док.	no match	probability was too low
+Нижегор.конд.	no match	probability was too low
+Ник. дет.	Ник.лет. XI
+Ник. дет.	Ник.лет. XII
+Ник. дет.	Ник.лет. XIV
+Ник. дет.	Ник.лет.XIII
+Ник. дет.	no match	probability was too low
+Ник. лёт.	no match	probability was too low
+Ник. лет. XI (прил.)	no match	probability was too low
+Ник. Панд.1	no match	probability was too low
+Ник.Корс.	no match	probability was too low
+Никанор. лет.	no match	probability was too low
+Никиф. м. на Лат.	no match	probability was too low
+Никиф. м. посл.	no match	probability was too low
+Никиф. м. посл. Влад. Мон.	no match	probability was too low
+Никон	no match	probability was too low
+Никон, лет.	no match	probability was too low
+Никон. л.	no match	probability was too low
+Никон. лет.	no match	probability was too low
+Никон. Панд. Вас. Вел.	no match	probability was too low
+Никон. Панд. Ио. Злат.	no match	probability was too low
+Никон. Панд. Огл.	no match	probability was too low
+Никон. Панд. Тарас.	no match	probability was too low
+Никон. Панд. Уст. св. горы	no match	probability was too low
+Никон. Панд2.	no match	probability was too low
+Нил Сор. Мним. посл.	no match	probability was too low
+Нил. Сор. Мним, посл.	no match	probability was too low
+Нил. Сор. Мним. Посл.	no match	probability was too low
+Нил. Сор. Мним. посл.	no match	probability was too low
+Нил.Сор.Соборник I	no match	probability was too low
+Нил.Сор.Соборник II	no match	probability was too low
+Нил.Сор.Соборник III	no match	probability was too low
+Нил.Ср.Ж.	no match	probability was too low
+Нил.Ст.	no match	probability was too low
+Нил.У.	no match	probability was too low
+Нис. Мин. Чет. февр.	no match	probability was too low
+Нк.Р.	no match	probability was too low
+Нкд.Кож.	no match	probability was too low
+Нкт.Н.	no match	probability was too low
+Нкт.П.	no match	probability was too low
+Нкт.Пр.	no match	probability was too low
+Нов. зав. митр. Ал.	no match	probability was too low
+Нов. зап. митр. Ал.	no match	probability was too low
+Нов. каб. кн.	no match	probability was too low
+Нов. Кат.-Ростовского1	no match	probability was too low
+Нов. Кат.-Ростовского2	no match	probability was too low
+Нов. о Сухане	no match	probability was too low
+Нов. прихож. на Псков2	no match	probability was too low
+Нов. Симеона сузд. Флор. соб.1	no match	probability was too low
+Нов. Симеона Сузд. Флор. соб.2	no match	probability was too low
+Нов. Хворостинина	no match	probability was too low
+Новая нов.	no match	probability was too low
+Новг, 1 лет. (Н.)	no match	probability was too low
+Новг. 1 лет. (Н.)	no match	probability was too low
+Новг. 3 лет.	no match	probability was too low
+Новг. І лет.	no match	probability was too low
+Новг. І лет. (Н.)	no match	probability was too low
+Новг. корм. 1282 г.	no match	probability was too low
+Новг. кормч.	no match	probability was too low
+Новг. Крм.	no match	probability was too low
+Новг. крм.	no match	probability was too low
+Новг. купч.	no match	probability was too low
+Новг. лет.	no match	probability was too low
+Новг. лет. (Н.)	no match	probability was too low
+Новг. мин. сент.	no match	probability was too low
+Новг. судн. гр.	no match	probability was too low
+Новг. Триод.	no match	probability was too low
+Новг. триод.	no match	probability was too low
+Новг. Чин.	no match	probability was too low
+Новг. чин.	no match	probability was too low
+Новг. I лет	no match	probability was too low
+Новг. I лет.	no match	probability was too low
+Новг. I лет. (Н.)	no match	probability was too low
+Новг. I лет. (Н)	no match	probability was too low
+Новг. I лет. (прил.)	no match	probability was too low
+Новг. I лет., (Н.)	no match	probability was too low
+Новг. I лет., (прил.)	no match	probability was too low
+Новг. I лет.(Н.)	no match	probability was too low
+Новг. I лет.(Н)	no match	probability was too low
+Новг. I. лет.	no match	probability was too low
+Новг. V лет.	no match	probability was too low
+Новг.дог.гр.	no match	probability was too low
+Новг.зап.кн.	no match	probability was too low
+Новг.І лет.	no match	probability was too low
+Новг.каб.кн. I	no match	probability was too low
+Новг.каб.кн. II	no match	probability was too low
+Новг.каб.кн. III	no match	probability was too low
+Новг.каб.кн. IV	no match	probability was too low
+Новг.каб.кн. V	no match	probability was too low
+Новг.каб.кн. VI	no match	probability was too low
+Новг.лет. (Н.)	no match	probability was too low
+Новг.оккуп.архив	no match	probability was too low
+Новг.п.кн. II	no match	probability was too low
+Новг.писц.кн. I	no match	probability was too low
+Новг.писц.кн. II	no match	probability was too low
+Новг.писц.кн. III	no match	probability was too low
+Новг.писц.кн. IV	no match	probability was too low
+Новг.писц.кн. V	no match	probability was too low
+Новг.писц.кн. VI	no match	probability was too low
+Новг.подл.	no match	probability was too low
+Новг.I лет. (Н.)	no match	probability was too low
+Новг.I лет.(Н.)	no match	probability was too low
+Новгор.Грам.Грозн.Оп.Грек. No 23	no match	probability was too low
+Новоспасск. м.	no match	probability was too low
+Ног.д.	no match	probability was too low
+Нозм.	no match	probability was too low
+Номокан	no match	probability was too low
+НПК	no match	probability was too low
+Нрвг. каб. кн.	no match	probability was too low
+О втором смятении	no match	probability was too low
+О дьяк.поминке	no match	probability was too low
+О зв?рех	О зверех
+О каланд.	no match	probability was too low
+О ласкательстве	no match	probability was too low
+О молитве СНБ	no match	probability was too low
+О пр.винокур.	no match	probability was too low
+О сивиллах1	no match	probability was too low
+О смятении в Торопце	no match	probability was too low
+О Тобол.воев.	no match	probability was too low
+О третьем смятении	no match	probability was too low
+О укр.мн.Вас.Вел.	no match	probability was too low
+О царе Мих.	no match	probability was too low
+Обзор. корм.	no match	probability was too low
+Обих.	Обиход
+Обих. Рум.	no match	probability was too low
+Обих. Церк.	no match	probability was too low
+Обих. церк.	no match	probability was too low
+Обозр. корм., (прил.)	no match	probability was too low
+Обозр. кормч	no match	probability was too low
+Оброчн. пам.	no match	probability was too low
+Обыск. речи	no match	probability was too low
+Одинцов. Самопал	no match	probability was too low
+Окт.	no match	probability was too low
+Октоих(К.)	no match	probability was too low
+Ол. казны Фил.	no match	probability was too low
+Ол. II (2)	no match	probability was too low
+Ол.Царг.	no match	probability was too low
+Олимп.Алекс.толк.кн. Иова	no match	probability was too low
+Олон. а.1	no match	probability was too low
+Олон.зав.	no match	probability was too low
+Ольг.П.	no match	probability was too low
+Он.	no match	probability was too low
+Он. Белоз. рыбн. дв.	no match	probability was too low
+Он. Зол. пол.	no match	probability was too low
+Он. им. Ив. Гр.	no match	probability was too low
+Он. им. кн. Мстисл.	no match	probability was too low
+Он. им. Матв.	no match	probability was too low
+Он. им. Тат.	no match	probability was too low
+Он. им. Тат.»	no match	probability was too low
+Он. Иос. м.	no match	probability was too low
+Он.блн.Глф.	no match	probability was too low
+Он.был.Гильф.	no match	probability was too low
+Он.Пр.БАН	no match	probability was too low
+Онис. Холмог. ц.	no match	probability was too low
+Оп. Белов. рыбн. дв.	no match	probability was too low
+Оп. библ. Солов. м.	no match	probability was too low
+Оп. ветх. Моск. кр.	no match	probability was too low
+Оп. им. Бор. Год.	no match	probability was too low
+Оп. им. Ив. Вас.	no match	probability was too low
+Оп. им. Тзт.	no match	probability was too low
+Оп. им. ц. Ив. Вас.	no match	probability was too low
+Оп. Кир.-Б. м.	no match	probability was too low
+Оп. Кор. Ник. мон.	no match	probability was too low
+Оп. нерг. ркп. БАН	no match	probability was too low
+Оп. Посл. пр.1	no match	probability was too low
+Оп. Свияж. Бог. м.	no match	probability was too low
+Оп. Солов. м. ІІ	Оп.Солов.м. II
+Оп. Флор.	no match	probability was too low
+Оп. I	no match	probability was too low
+Оп.Знам.м.	no match	probability was too low
+Оп.им.Епиф.Слав.	no match	probability was too low
+Оп.им.Самойл.	no match	probability was too low
+Оп.кн.Пр.книг.д.	no match	probability was too low
+Оп.книг мт.Павла	no match	probability was too low
+Оп.новг.Соф.соб.	no match	probability was too low
+Оп.Посол.пр.1	no match	probability was too low
+Оп.ркп. (Вост.)	no match	probability was too low
+Оп.ркп. (Хлуд.)	no match	probability was too low
+Оп.Усп.собора	no match	probability was too low
+Оп.Фил.	no match	probability was too low
+Оп.ц.Знам.Богор.	no match	probability was too low
+Оп.Чуд.	no match	probability was too low
+Оп.III (1)	Оп.III
+Опис. гос. Китай	no match	probability was too low
+Опис. кн. Пр. книг. д.	no match	probability was too low
+Опис. Хзлмог. ц.	no match	probability was too low
+Опис. Холмог. д.	no match	probability was too low
+Опис.д.Синода, II(1)	no match	probability was too low
+Опис.д.Синода, II(2)	no match	probability was too low
+Опис.д.Синода, III	no match	probability was too low
+Опис.д.Синода, IV	no match	probability was too low
+Опис.Конст.	no match	probability was too low
+Опис.Конст. (Б.)	no match	probability was too low
+Опис.Олон.	no match	probability was too low
+Опис.Синод.	no match	probability was too low
+Опис.ур. и сиб.заводов	no match	probability was too low
+Орд-Нащ. Автоб.	no match	probability was too low
+Орд.-Нащ. Автоб.	no match	probability was too low
+Орд.-Нащ.Автоб.	no match	probability was too low
+Ордер во флоте	no match	probability was too low
+Оренбургских губернских ведомостей	no match	probability was too low
+Ос.	no match	probability was too low
+Ос. III, 1	no match	probability was too low
+Ос.П. С.135–140	no match	probability was too low
+Ос.П. С.140–145	no match	probability was too low
+Осия I, 6	no match	probability was too low
+Основ.Царыр.	no match	probability was too low
+Основ.Царьград.	no match	probability was too low
+Острж.	no match	probability was too low
+От. о см.	no match	probability was too low
+Отв.	no match	probability was too low
+Отводн.	no match	probability was too low
+Отец к сыну рече бо: сотворим человека по образу нашему и подобию? Ав. Пис.1	no match	probability was too low
+Отказн. кн. южн.	no match	probability was too low
+Отказной книги	no match	probability was too low
+Откр. Баруха	no match	probability was too low
+Отп.	Отп.воев.
+Отп.	Отп.моск.посла
+Отп.	Отп.Сузд.
+Отп.	Отп.Хонен.
+Отп. из Холмог.	no match	probability was too low
+Отр. стар. он.	no match	probability was too low
+Отр.лет.	no match	probability was too low
+П. о Басарге	no match	probability was too low
+П. о вид.	no match	probability was too low
+П. о вид.н.м.д.	no match	probability was too low
+П. о н.бр.	no match	probability was too low
+П.Ал.Мих.	no match	probability was too low
+П.Б.	no match	probability was too low
+П.Берында	no match	probability was too low
+П.Дм.Г. к М.М.	no match	probability was too low
+П.И.Б.	no match	probability was too low
+П.К.С.Л.	no match	probability was too low
+П.кн.С.Ш.	no match	probability was too low
+П.отреч. II	no match	probability was too low
+П.п.л.р.стар.	no match	probability was too low
+П.Т.Т.	no match	probability was too low
+П.убиен.ц.Дм.	no match	probability was too low
+П.Ур.Зал.	no match	probability was too low
+П.Ф.	no match	probability was too low
+Пав. Вав. ц.1	no match	probability was too low
+Паис. сб. Варф.	no match	probability was too low
+Паис. сб. Сл. христ.	no match	probability was too low
+Паис. сбор.	no match	probability was too low
+Пайс.	no match	probability was too low
+Пайс. вып.	no match	probability was too low
+Пайс. сб.	no match	probability was too low
+Пайс. сб. Ио. Злат.	no match	probability was too low
+Пал.	Палея Толк.1406 г.
+Пал.	Палея Толк.1477 г.
+Пал. Вост.	no match	probability was too low
+Пал. XIV в.	no match	probability was too low
+Палее Толк.1	no match	probability was too low
+Палея ист., 103.	no match	probability was too low
+Палея Толк. 2	no match	probability was too low
+Палея Толк.2	no match	probability was too low
+Палея Толк.3	no match	probability was too low
+Палея Толк2	no match	probability was too low
+Палея Толк2.	no match	probability was too low
+Палея-Толк.2	no match	probability was too low
+Палея. Толк.2	no match	probability was too low
+Палея.Толк.2	no match	probability was too low
+ПалеяТолк.2	no match	probability was too low
+Пам.	no match	probability was too low
+Пам. Модест.	no match	probability was too low
+Пам. приказчику	no match	probability was too low
+Пам. южновеликорус. нареч.	no match	probability was too low
+Пам.дипл.М.Г. (П.-Лит.) III	no match	probability was too low
+Пам.дипл.о.М.Г. с н.орденом	no match	probability was too low
+Пам.дипл.сн.М.Г. с Крым.	no match	probability was too low
+Пам.дипл.снош.М.Г. с Англиею, II	no match	probability was too low
+Пам.др.церк.учит.лит. I, III	no match	probability was too low
+Пам.дух.грам.	no match	probability was too low
+Пам.зап.Храповиц.	no match	probability was too low
+Пам.Иова	no match	probability was too low
+Пам.отреч. I, II	no match	probability was too low
+Пам.п.л.р.стар.	no match	probability was too low
+Пам.сиб.ист. II	no match	probability was too low
+Пам.Скоп.	no match	probability was too low
+Пам.Смол.	no match	probability was too low
+Пам.Смутн.Врем.	no match	probability was too low
+Пам.стар. (Б.)	no match	probability was too low
+Пам.Суз.	no match	probability was too low
+Памф.	no match	probability was too low
+Пангр.Сл.Похв.	no match	probability was too low
+Пангр.Ф.Пр.	no match	probability was too low
+Панд.	Панд.Ант.2
+Панд.	Панд.Ант.3
+Панд. Ант. (Афм.)	no match	probability was too low
+Панд. Ант. ХI в.	no match	probability was too low
+Панд. Ант1	no match	probability was too low
+Панд. Ант1.	no match	probability was too low
+Панд. АнтГ	no match	probability was too low
+Панд. Aнт.1	no match	probability was too low
+Панегир.	no match	probability was too low
+Пант. Ант.	no match	probability was too low
+Пант. Ант.1	no match	probability was too low
+Пант. ев.,	no match	probability was too low
+Пант. Aнт.1	no match	probability was too low
+Пар.	Пар.В.
+Пар.	Пар.Вен.
+Пар. 1271 г.	no match	probability was too low
+Параклитик	no match	probability was too low
+Параманъ. Д. патр. Никона	no match	probability was too low
+Парем. 1271 г.	no match	probability was too low
+Парем. 1370 г.	no match	probability was too low
+Парем.2	no match	probability was too low
+Парен.	no match	probability was too low
+Парен. I–IV	no match	probability was too low
+Парф.Юр.прот.Лют.	no match	probability was too low
+Паст. гр. патр. Ант.	no match	probability was too low
+Пат.	no match	probability was too low
+Пат. Печ.	no match	probability was too low
+Пат. печ.	no match	probability was too low
+Пат. Печ. (Новг.)	no match	probability was too low
+Пат. Печ. Новг.	no match	probability was too low
+Пат. Печ. Полик. Посл.	no match	probability was too low
+Пат. Син.	no match	probability was too low
+Пат.1	no match	probability was too low
+Пат.Печ.Полик. посл.	no match	probability was too low
+Патер.	no match	probability was too low
+Патерик Печ. (Абр.)	no match	probability was too low
+Патерик Печ. (Поликарп. посл.)	no match	probability was too low
+Патерик Печ. по сп.	no match	probability was too low
+Патерик Пин.	no match	probability was too low
+Патерик Рим.	no match	probability was too low
+Патерик Сии.	no match	probability was too low
+Патерик Сил.	no match	probability was too low
+Патерйк Печ.	no match	probability was too low
+Паукъ. Spinne.	no match	probability was too low
+Пафн.Б.	no match	probability was too low
+Пах. Ж. -Моис., ХС.	no match	probability was too low
+Пах. Ж. Алексея	no match	probability was too low
+Пах. Ж. Алексея 1	no match	probability was too low
+Пах. Ж. Алексия1	no match	probability was too low
+Пах. Ж. Евф. Нов.	no match	probability was too low
+Пах. Ш. Евф. Новг.	no match	probability was too low
+Пах.Врл.	no match	probability was too low
+Пах.Ж.Кир.Б.1	no match	probability was too low
+Пах.Знам.	no match	probability was too low
+Пах.Моис.	no match	probability was too low
+Паче же всего губить д?шу и т?ло. О лености	no match	probability was too low
+Пв.Обн.	no match	probability was too low
+Певч.азб.1	no match	probability was too low
+Пекарский	no match	probability was too low
+Пенз.	no match	probability was too low
+Пер.Шиллинг	no match	probability was too low
+Перг.рукоп.БАН	no match	probability was too low
+Перев.Матв.	no match	probability was too low
+Перев.Шиллинга	no match	probability was too low
+Перевод Крестьянинов. Фед. Крест.	no match	probability was too low
+Передел, лет.	no match	probability was too low
+Перен. Хован.	no match	probability was too low
+Переп. Одоевского	no match	probability was too low
+Переп. части, лиц	no match	probability was too low
+Переп. частных лиц	Переп.Ал.Мих.
+Переп. частных лиц	Переп.Вас.Иоан.
+Переп. частных лиц	Переп.Гр.
+Переп. частных лиц	Переп.кн. Нил.Столб.Пуст.
+Переп. частных лиц	Переп.кн.Брейтову
+Переп. частных лиц	Переп.кн.Пск.Печ.м.
+Переп. частных лиц	Переп.кн.Свир.м.
+Переп. частных лиц	Переп.патр.Никона
+Переп. частных лиц	Переписка Т.Васильева
+Пересветов. Б.челобитн.	no match	probability was too low
+Пересветов. Втор.предсказ.филос.	no match	probability was too low
+Пересветов. Мал.челобитн.	no match	probability was too low
+Пересветов.Сказ. о книгах	no match	probability was too low
+Пересветов.Сказ. о царе Конст.	no match	probability was too low
+Переясл.лет.1	no match	probability was too low
+Переяслав. лет.	no match	probability was too low
+Перзп. Безобразова	no match	probability was too low
+Пес.Петр.	no match	probability was too low
+Пес.Рыбн.	no match	probability was too low
+Песн. Песн. И.	no match	probability was too low
+Песни 1619 г.	no match	probability was too low
+Песни Дж.	no match	probability was too low
+Песни Квант.	no match	probability was too low
+Песни Петр.	no match	probability was too low
+Песни.Соболевский	no match	probability was too low
+Песня 1686 г.	no match	probability was too low
+Песня Андр.Мих.Пестова	no match	probability was too low
+Песня о вз.Азова	no match	probability was too low
+Песня о вз.Смол.	no match	probability was too low
+Петерик Печ.	no match	probability was too low
+Петлил	no match	probability was too low
+Петр	no match	probability was too low
+Петр,	Петр, II
+Петр,	Петр, V
+Петр,	Петр, VI
+Петр,	Петр, VII
+Петр.	no match	probability was too low
+Петр.зл.кл.	no match	probability was too low
+Печ. м.	no match	probability was too low
+Печ. пр.	no match	probability was too low
+Печ.был.	no match	probability was too low
+Печ.корм.	no match	probability was too low
+Пешков. лет.	no match	probability was too low
+Пис.	no match	probability was too low
+Пис. Алекс. Мих.	no match	probability was too low
+Пис. в Сав. м.	no match	probability was too low
+Пис. к Безобр., с.52–61	no match	probability was too low
+Пис. к Безобр., с.8–9	no match	probability was too low
+Пис. к Безобразову	no match	probability was too low
+Пис. к Голицину	Пис. к Голицыну, VII
+Пис. к Голицину	Пис. к Голицыну, VIII
+Пис. к Голицину	Пис. к Голицыну, XII
+Пис. к Голицину	Пис. к Голицыну, XIII
+Пис. к Голицыну, УІ	no match	probability was too low
+Пис. к кн.В.Гол.	no match	probability was too low
+Пис. к Мат.	no match	probability was too low
+Пис. к Мат. (грам.)	no match	probability was too low
+Пис. к Мат. (Ник.)	no match	probability was too low
+Пис. к Мат. (Ур.)	no match	probability was too low
+Пис. к Матюшкину, предисл.	no match	probability was too low
+Пис. к Одоевскому	no match	probability was too low
+Пис. к. Безобразову	no match	probability was too low
+Пис. натр. Никона	no match	probability was too low
+Пис. подмети.	no match	probability was too low
+Пис.3-х патр.	no match	probability was too low
+Пис.Авв.К.А.Бол.	no match	probability was too low
+Пис.Авв.цар.Ир.Мих.Ром.	no match	probability was too low
+Пис.атам.Просовецк.	no match	probability was too low
+Пис.Богд.Хитрово	no match	probability was too low
+Пис.Вас.	no match	probability was too low
+Пис.Грязного, II	no match	probability was too low
+Пис.д-ра Постникова	no match	probability was too low
+Пис.Евдокии Стрешневой	no match	probability was too low
+Пис.к Голицыну, X	no match	probability was too low
+Пис.К.Зотова	no match	probability was too low
+Пис.Кирхена	no match	probability was too low
+Пис.митр.Макария	no match	probability was too low
+Пис.Птр.	no match	probability was too low
+Пис.Тр.-Серг.м.	no match	probability was too low
+Пискар.лет.1	no match	probability was too low
+Пискр.лет.	no match	probability was too low
+Писц. д. IІ	no match	probability was too low
+Писц. кн. Изв. Арх.	no match	probability was too low
+Писц.д.	Писц.д. II
+Писц.д.	Писц.д. III
+Писц.кн.Каз.	no match	probability was too low
+Писц.кн.Свир.м.	no match	probability was too low
+Писц.оп.город.	no match	probability was too low
+Письма Курбского	no match	probability was too low
+Письмо В.И.Торокана	no match	probability was too low
+Письмо из заточ.	no match	probability was too low
+Письмо К.Зотова	no match	probability was too low
+Письмо о нел.	no match	probability was too low
+Письмо Т.Васильева	no match	probability was too low
+ПІестоднев Ио. екз.1	no match	probability was too low
+ПКМГ II	no match	probability was too low
+Пл. кратко	no match	probability was too low
+Пл. о пл.	no match	probability was too low
+Пл.Иер. I, 7 (Упырь)	no match	probability was too low
+Плач Юр. Всев.	no match	probability was too low
+Плещеев	no match	probability was too low
+Плинфникъ: Цегелникъ. Лекс. Берынды	no match	probability was too low
+Пмск.	no match	probability was too low
+по сп.	no match	probability was too low
+По. екз. Бог.	no match	probability was too low
+Поб.новг.сузд.	no match	probability was too low
+Пов. Ам., 8	no match	probability was too low
+Пов. Ам., 9	no match	probability was too low
+Пов. бел. кл.	no match	probability was too low
+Пов. врем. лет.	no match	probability was too low
+Пов. исков. ик.	no match	probability was too low
+Пов. како отомсти	no match	probability was too low
+Пов. Кат.- Ростовского	no match	probability was too low
+Пов. Кат.Ростовского	no match	probability was too low
+Пов. Кат.Ростовского 1	no match	probability was too low
+Пов. о Акире	no match	probability was too low
+Пов. о взятии Царьграда1	no match	probability was too low
+Пов. о вид.мн.В.	no match	probability was too low
+Пов. о волхв.	no match	probability was too low
+Пов. о втор. бр. Вас.ІІІ	no match	probability was too low
+Пов. о Дарьграде	no match	probability was too low
+Пов. о Ерш.А.П.Дем.сат.	no match	probability was too low
+Пов. о ж.Варл.К.	no match	probability was too low
+Пов. о зач.Москв.	no match	probability was too low
+Пов. о злат.руне	no match	probability was too low
+Пов. о Иак. сбор.	no match	probability was too low
+Пов. о Козарине	no match	probability was too low
+Пов. о М.Ск.-Ш.	no match	probability was too low
+Пов. о Мам. (лет.)	no match	probability was too low
+Пов. о Мих.Пот.	no match	probability was too low
+Пов. о начале Москвы	no match	probability was too low
+Пов. о Ник.Зар.	no match	probability was too low
+Пов. о Петре цар.орд.	no match	probability was too low
+Пов. о плен.Иерус.	no match	probability was too low
+Пов. о победе	no match	probability was too low
+Пов. о Пск.м.	no match	probability was too low
+Пов. о разор.Ряз.Бат.	no match	probability was too low
+Пов. о сверж. Никит. ц.	no match	probability was too low
+Пов. о скуд. и бог.	no match	probability was too low
+Пов. о созд.Трои	no match	probability was too low
+Пов. о Сол.	no match	probability was too low
+Пов. о Сол.изд.	no match	probability was too low
+Пов. о Сухане	no match	probability was too low
+Пов. о Таре и Тюм.	no match	probability was too low
+Пов. о Тохтам.разор.	no match	probability was too low
+Пов. о Царыраде	Пов. о Царьграде1
+Пов. о Царьград?	no match	probability was too low
+Пов. о Шиле.	Пов. о Щиле2
+Пов. о Шиле.	Пов. о Щиле3
+Пов. об икон.	no match	probability was too low
+Пов. об Иул.Лаз.	no match	probability was too low
+Пов. обАкире	no match	probability was too low
+Пов. П. в Февронии (Скр.)	no match	probability was too low
+Пов. П. и Февр. (Скр.)	no match	probability was too low
+Пов. п. кн.	no match	probability was too low
+Пов. св. о.	no match	probability was too low
+Пов. Тим. Влад1	no match	probability was too low
+Пов. Ульян. О сор.	no match	probability was too low
+Пов. Ульян. Осор1	no match	probability was too low
+Пов.Б.Г.мон.	no match	probability was too low
+Пов.Вав.ц.3	no match	probability was too low
+Пов.И.А.Хв.	no match	probability was too low
+Пов.И.М.Кат.-Рост.	no match	probability was too low
+Пов.како отмстити	no match	probability was too low
+Пов.Мам.побоище II	no match	probability was too low
+Пов.Мерк.Смол. (Б.)	no match	probability was too low
+Пов.Мерк.Смол.1	no match	probability was too low
+Пов.Мерк.Смол.2	no match	probability was too low
+Пов.плен.Иерус.	no match	probability was too low
+Пов.суде Шемяки1	no match	probability was too low
+Пов.Цр.	no match	probability was too low
+Пов.Щ.	no match	probability was too low
+Погр. мон.	no match	probability was too low
+Погреб. мон.	no match	probability was too low
+Подл.грам.	no match	probability was too low
+Подлинник ик.1	no match	probability was too low
+Подлинниу ик.	no match	probability was too low
+Подпись на иконе Корсун. бож. матери	no match	probability was too low
+Подр.зап.	no match	probability was too low
+Подтвер. грам.	no match	probability was too low
+Показ. Неелова	no match	probability was too low
+Покаяние Дениса	no match	probability was too low
+Пол.ман.	no match	probability was too low
+Полик. Посл.	no match	probability was too low
+Полик. Посл. (Пат. печ.	no match	probability was too low
+Полик. Посл., сп.	no match	probability was too low
+Полм?ха рогожного грибовъ. Оп. им. Самойл.	no match	probability was too low
+Полон. гр.	no match	probability was too low
+Полон.Иерус.	no match	probability was too low
+Полоцк. гр.	no match	probability was too low
+Польск.	Польск.д. II
+Польск.	Польск.д. IV
+Польск.	Польск.д. V
+Польск.Д. ІІІ	no match	probability was too low
+Пом. Меф.	no match	probability was too low
+Пом.Меф.	no match	probability was too low
+Помест. д.	no match	probability was too low
+Пон	no match	probability was too low
+Пон.	Пон. I
+Пон.	Пон. III
+Поп?вки перваго гласу... с перехватом грунка. Азбука злам.5	no match	probability was too low
+Пор. зап. Шелон. пят.	no match	probability was too low
+Пор.Бежецк.пят., Водск.пят., Шелонск.пят.	no match	probability was too low
+Пор.зап.Бежецк.пят.	no match	probability was too low
+Порошин.Записки	no match	probability was too low
+Пос. о скуд. и бог.	no match	probability was too low
+Пос.дон.Стеф.Явор.	no match	probability was too low
+Пос.Елч. в Дад.зем.	no match	probability was too low
+Пос.кн.Ног.	no match	probability was too low
+Пос.отеч.поуч. (сыну)	no match	probability was too low
+Посков. лет.	no match	probability was too low
+Посл, о хабува	no match	probability was too low
+Посл. Иер. (Упыр.)	no match	probability was too low
+Посл. Иоас.	no match	probability was too low
+Посл. Карпатова мт. Дан.	no match	probability was too low
+Посл. Карпова мт.Дон.	no match	probability was too low
+Посл. Корнилин	no match	probability was too low
+Посл. Кут.	no match	probability was too low
+Посл. м. Фот. д.	no match	probability was too low
+Посл. Никифора	no match	probability was too low
+Посл. Нифонту	no match	probability was too low
+Посл. о хабува	no match	probability was too low
+Посл. Прох.	no match	probability was too low
+Посл. Стеф.	no match	probability was too low
+Посл. Фялоф.	no match	probability was too low
+Посл.Богданов	no match	probability was too low
+Посл.В.Д.Ерм.	no match	probability was too low
+Посл.Геннадия еп.Нифонту	no match	probability was too low
+Посл.Дм.Г. к М.М.	no match	probability was too low
+Посл.Еп.другу Кир.	no match	probability was too low
+Посл.Епиф. к Кир.	no match	probability was too low
+Посл.И.Вол. к Тр.-Х.	no match	probability was too low
+Посл.И.Гр.	no match	probability was too low
+Посл.И.Сан.архм. Васс. о Троице	no match	probability was too low
+Посл.Ив.Гр.	no match	probability was too low
+Посл.Ив.Гр. в Кир.-Бел.мон. (Адр.)	no match	probability was too low
+Посл.Ив.Гр.Полубен. (Адр.)	no match	probability was too low
+Посл.Иос.Вол. к Б.В.Кутузову	no match	probability was too low
+Посл.Карпова М.Гр. II	no match	probability was too low
+Посл.мн.	no match	probability was too low
+Посл.мт.Никиф.	no match	probability was too low
+Посл.Прохору Сарскому	no match	probability was too low
+Посл.рукоп.	no match	probability was too low
+Посл.Симона	no match	probability was too low
+Посл.Ст.А.Гл.	no match	probability was too low
+Посл.Ст.Яворского	no match	probability was too low
+Посл.Фотия	no match	probability was too low
+Посл.Шах.Пож.	no match	probability was too low
+Послание двор.недругу	no match	probability was too low
+Послание Ив.Грозного, 21 авг.1580 г.	no match	probability was too low
+Послание Ив.Грозного, 4 окт.1571 г.	no match	probability was too low
+Послуж. сп. Орд.	Послужн.сп.Орд.
+Посол.Мыш.	no match	probability was too low
+Посольств. д. в. к. Моск.	no match	probability was too low
+Посольство Басильчикова	no match	probability was too low
+Посольство Новосильцева	no match	probability was too low
+Посольство Потемкина	no match	probability was too low
+Посольство Ромодан.	no match	probability was too low
+Посольство Тиханова	no match	probability was too low
+Посошков. О скуд. и бог. (П.)	no match	probability was too low
+Посс. (Ф.Б.)	no match	probability was too low
+Пост. кн. Вас. Вел.	no match	probability was too low
+Поуч. вс. крест.	no match	probability was too low
+Поуч. из Погод. сбор.	no match	probability was too low
+Поуч. исп.	no match	probability was too low
+Поуч. Конст. Болг.	no match	probability was too low
+Поуч. митр. Дан.	no match	probability was too low
+Поуч. Митр. Фот.	no match	probability was too low
+Поуч. митр. Фот.	no match	probability was too low
+Поуч. мон.	no match	probability was too low
+Поуч. Серап. Вл.	no match	probability was too low
+Поуч.вс.христ.	no match	probability was too low
+Поуч.Лет.	no match	probability was too low
+Поуч.Луки Жидяты	no match	probability was too low
+Поуч.мт.Петра	no match	probability was too low
+Поуч.Петра митр.	no match	probability was too low
+Пох. и пут.журн.	no match	probability was too low
+Пох.жур.	no match	probability was too low
+Пох.Ив.гост.сына	no match	probability was too low
+Пох.юрн.	no match	probability was too low
+Похв. Богор.	no match	probability was too low
+Похв. Онуфр. Мин. чет. июн.	no match	probability was too low
+Похв. сл. грамм.	Похв.сл.грам.
+Похв.сл.Кир. и Мефод.	no match	probability was too low
+Похл?бованье, похл?бство. Лекс. Берынды	no match	probability was too low
+Походн.журн.	no match	probability was too low
+ПП1	no match	probability was too low
+ПП2	no match	probability was too low
+ПП3	no match	probability was too low
+Пр. Уст. я.	no match	probability was too low
+Пр.Ар.К.	no match	probability was too low
+Пр.Жив. и см.	no match	probability was too low
+Пр.Каб.Ярыж.	no match	probability was too low
+Пр.Рус.(пр.)	Пр.Рус.
+Пр.Тайн.	no match	probability was too low
+Пр.Уа.	no match	probability was too low
+Пр.Уб.	no match	probability was too low
+Пр.Ун.	no match	probability was too low
+Пр.хм.	no match	probability was too low
+Прав.митроп.	no match	probability was too low
+Правая гр.	no match	probability was too low
+Правая гр.Гер.	no match	probability was too low
+Правда воли мон.	no match	probability was too low
+Правда Русская (пр.)	no match	probability was too low
+Правила грам.	no match	probability was too low
+Правила света	no match	probability was too low
+Пред.крюк.стих.	no match	probability was too low
+Пред.ур.	no match	probability was too low
+Предисл. Сим. Послов.	no match	probability was too low
+Предисл.осмогл.пен.1	no match	probability was too low
+Прен.	no match	probability was too low
+Прен. кор. Вальд.	no match	probability was too low
+Прен.кор.Вальд.	no match	probability was too low
+Прение	no match	probability was too low
+Прение ж. с.	no match	probability was too low
+Прение кор. Вальд.	no match	probability was too low
+Прение с отст.	no match	probability was too low
+Прения ж. с.	no match	probability was too low
+Прибавл.твор.св.отц. II	no match	probability was too low
+Приклады компл.	no match	probability was too low
+Притч. св. Варл.	no match	probability was too low
+Притч. Сол. III, 15	no match	probability was too low
+Притч. Сол., XIV. 35	no match	probability was too low
+Притч. Солом.	no match	probability was too low
+Прих.-р.кн. ...	no match	probability was too low
+Прих.-р.Сузд.	no match	probability was too low
+Прих.-расх.кн. ...	no match	probability was too low
+Прих.кн.Нижегор.	no match	probability was too low
+Приятный и тихи не крикливы. Гражд. об. дет.	no match	probability was too low
+Проект ком.Нов.Ул. V	no match	probability was too low
+Проект прав.сред.р.жителей	no match	probability was too low
+Произв.	no match	probability was too low
+Прол.	no match	probability was too low
+Прол. (ст. печ.)	no match	probability was too low
+Прол. авг.	no match	probability was too low
+Прол. апр.	no match	probability was too low
+Прол. дек.	no match	probability was too low
+Прол. Имп. Публ. б.	no match	probability was too low
+Прол. июл.	no match	probability was too low
+Прол. июл. 31	no match	probability was too low
+Прол. июн.	no match	probability was too low
+Прол. май 30.	no match	probability was too low
+Прол. май 8.	no match	probability was too low
+Прол. март.	no match	probability was too low
+Прол. ноябрь	no match	probability was too low
+Прол. окт.	no match	probability was too low
+Прол. сент.	no match	probability was too low
+Прол. Тр.	no match	probability was too low
+Прол. янв.	no match	probability was too low
+Прол. XV в. Жит.Ант.	no match	probability was too low
+Прол.июл.	no match	probability was too low
+Прол.Тр.	no match	probability was too low
+Пролог (жит.сент.)	no match	probability was too low
+Пролог (И.)	no match	probability was too low
+Пролог (Лобк.)	no match	probability was too low
+Пролог (март.)3	no match	probability was too low
+Пролог (март)4	no match	probability was too low
+Пролог (Н.)	no match	probability was too low
+Пролог (ОЛДП) II	no match	probability was too low
+Пролог (Прич.19)	no match	probability was too low
+Пролог (сент.)1	no match	probability was too low
+Пролог (сент.)2	no match	probability was too low
+Пролог (Срз,)	no match	probability was too low
+Пролог (Срз.)	no match	probability was too low
+Пролог (Срз)	no match	probability was too low
+Пролог (ст. печ.), май	no match	probability was too low
+Пролог (ст. печ.), март	no match	probability was too low
+Пролог (Тр.-Серг.)1	no match	probability was too low
+Пролог (Тр.–Серг.)	no match	probability was too low
+Пролог (троп.сент.)	no match	probability was too low
+Пролог Пск.	no match	probability was too low
+Пролог ст. печ. (июль)	no match	probability was too low
+Пролог XV в.	no match	probability was too low
+Пролог, июл.	no match	probability was too low
+Пролог, окт.	no match	probability was too low
+Пролог. (Срз.)	no match	probability was too low
+Пролог.(Срз.)	no match	probability was too low
+Пролог(март–июнь)	no match	probability was too low
+Пролог1	no match	probability was too low
+Прологе	no match	probability was too low
+Прологе (Срз.)	no match	probability was too low
+Проскинитарий Apс. К.	no match	probability was too low
+Просл. Ник.	no match	probability was too low
+Просьба ст.Мих.	no match	probability was too low
+Проток.Верх.Тайн.Сов. I	no match	probability was too low
+Прох. Жит. Ио. Бог.	no match	probability was too low
+Прох. Жит. Ио. Богосл.	no match	probability was too low
+Прохл. верт. (Флор.)	no match	probability was too low
+Прохор. Жит. Ио. Бог.	no match	probability was too low
+Прохор. жит. Ио. Бог.	no match	probability was too low
+Прохор. Жит. Ио. Богосл.	no match	probability was too low
+Процессы	no match	probability was too low
+Прош.Вас.	no match	probability was too low
+Прошение певч.Вас.	no match	probability was too low
+Пс . СXVІІІ	no match	probability was too low
+пс. СXVІІ, 12. толк.	no match	probability was too low
+Пс. толк.	no match	probability was too low
+Пс. толк. Феодорита	no match	probability was too low
+Пс. толк. Феодорита.	no match	probability was too low
+Пс. ХСІV, 2	no match	probability was too low
+Пс. XLIV, 10	no match	probability was too low
+пс. XXXVII, 1, толк.	no match	probability was too low
+Псал. Мол.	no match	probability was too low
+Псаломн.	no match	probability was too low
+Псалт. (Срз.)	no match	probability was too low
+Псалт. 1296 г.	no match	probability was too low
+Псалт. сим. д. 1280 г.	no match	probability was too low
+Псалт. Симон.	no match	probability was too low
+Псалт. толк. Евг.	no match	probability was too low
+Псалт. толк. Погод.	no match	probability was too low
+Псалт. толк. Феод.	no match	probability was too low
+Псалт. толк. Феодор.	no match	probability was too low
+Псалт. толк. Феодорита	no match	probability was too low
+Псалт. толк. Феодорт.	no match	probability was too low
+Псалт. толк. Феодрт.	no match	probability was too low
+Псалт. толк. XII в. LXXXVII, 4. толк.	no match	probability was too low
+Псалт. Феод.	no match	probability was too low
+Псалт. Феодорит. Пс.	no match	probability was too low
+Псалт. Чуд1	no match	probability was too low
+Псалт., пс.	Псалт.1
+Псалт., пс.	Псалт.2
+Псалт.арх.Амф. I	no match	probability was too low
+Псалт.арх.Амф. II	no match	probability was too low
+Псалт.Сим., д. 1280 г.	no match	probability was too low
+Псалт.толк.Феодорит. пс. VIII	no match	probability was too low
+Псалтырь	no match	probability was too low
+ПСЗ	ПСЗ I
+ПСЗ	ПСЗ II
+ПСЗ	ПСЗ III
+ПСЗ	ПСЗIV
+Пск.	no match	probability was too low
+Пск.2 лет.	no match	probability was too low
+Пск.3 лет.	no match	probability was too low
+Пск.ик.	no match	probability was too low
+Пск.Печ.м.	no match	probability was too low
+Псков. дет.	no match	probability was too low
+Псков. л. (по Погод. сп.)	no match	probability was too low
+Псков. лот.	no match	probability was too low
+Псков. обл. словарь	no match	probability was too low
+Псков. п. кп.	no match	probability was too low
+Псков. суд. грам.	no match	probability was too low
+Псков. судн. гр.	no match	probability was too low
+Псков. судн. грам.	no match	probability was too low
+Псков. I	no match	probability was too low
+Псков. I лет. (Пог.)	no match	probability was too low
+Псков.лет. I	no match	probability was too low
+Псков.лет.І	no match	probability was too low
+Псков.песни	no match	probability was too low
+Псков.разг.II	no match	probability was too low
+Псков.разгов. І, 462; II	Псков.разгов. I
+Псков.суд.гр.1	no match	probability was too low
+Псковлет.	no match	probability was too low
+Псковлет.І	no match	probability was too low
+ПСРЛ т.XIX.Каз.лет.	no match	probability was too low
+Пт. и Фв.	no match	probability was too low
+Птр.	no match	probability was too low
+Птр.мт.	no match	probability was too low
+Птр.Орд.	no match	probability was too low
+публ. б. л.	no match	probability was too low
+Пункты Курбатова	no match	probability was too low
+Пусгоз. сб.1	no match	probability was too low
+Пут. Генн. и Позн.	no match	probability was too low
+Пут. Кит.	no match	probability was too low
+Пут.Хив.Бух.	no match	probability was too low
+Путивл.	no match	probability was too low
+Пч.1	no match	probability was too low
+Пчел.	no match	probability was too low
+Пчел. И. публ.	no match	probability was too low
+Пчел. И. публ. б.	no match	probability was too low
+Пчела	no match	probability was too low
+Пчела.	no match	probability was too low
+Пчнг.ч.	no match	probability was too low
+Пятикн.2	no match	probability was too low
+Р. N	no match	probability was too low
+Р.Д.	no match	probability was too low
+Р.дост.	Р.дост. II
+Р.др.	no match	probability was too low
+Р.Пр.	no match	probability was too low
+Радз. лет.	no match	probability was too low
+Радз. сп.	no match	probability was too low
+Радзив.	no match	probability was too low
+Радзив. лет1	no match	probability was too low
+Радзив.сп.	no match	probability was too low
+Раз.Д.	no match	probability was too low
+Разг.адм. (Зот.)	no match	probability was too low
+Разин. восст., 110.	Разин.восст. IV
+Разин. восст., 113.	Разин.восст. IV
+Разин.восст. I	no match	probability was too low
+Разин.восст. IV	no match	probability was too low
+Разр. ш., оп.	no match	probability was too low
+Разр.кн.1615	no match	probability was too low
+Разр.сп.каз.Ряз.	no match	probability was too low
+Разряд. зал. Фед. Ал.	no match	probability was too low
+Разряд.зап.	no match	probability was too low
+Разрядн.зап.дьякона Луговского	no match	probability was too low
+Разсп.певч.Лешк.	no match	probability was too low
+Расколник. Раздорник. Мятежникъ. Лекс. полоно-словен.	no match	probability was too low
+Расп. наказ. Тобол.	no match	probability was too low
+Расспр. речи	no match	probability was too low
+Рассужд. о грам.	no match	probability was too low
+Рассужд. церкв.-слав. яз.	no match	probability was too low
+Расх. росп. жал., 11.	no match	probability was too low
+Расх.Бог.м.	no match	probability was too low
+Расх.Бог.м., с.245–274	no match	probability was too low
+Расх.Болд.м.	no match	probability was too low
+Расх.Гал.	no match	probability was too low
+Расх.Ип.	no match	probability was too low
+Расх.кн.Адр.	no match	probability was too low
+Расх.кн.Краснохолмск. м-ря	no match	probability was too low
+Расх.Ник.	no match	probability was too low
+РГАДА	no match	probability was too low
+Рдсл.	no match	probability was too low
+Ревел. а. І	no match	probability was too low
+Ревел. а.І	no match	probability was too low
+Ревел.а. І	no match	probability was too low
+Ревел.а.II	no match	probability was too low
+Регламент адмиралт.	no match	probability was too low
+Регламент шхип.	no match	probability was too low
+Регула об лошадях	no match	probability was too low
+Реестр Афан.Холмог.	no match	probability was too low
+Реляц.Миниха	no match	probability was too low
+Рем. д.	no match	probability was too low
+Ремез. леть	no match	probability was too low
+Ремиз. лет.	Рем.лет.
+Рецепт	no match	probability was too low
+Речения иностр.	no match	probability was too low
+Речи посла цесар.	no match	probability was too low
+Речь тонкосл.греч.1	no match	probability was too low
+РИБ	РИБ II
+РИБ	РИБ III, стлб. 161–293
+РИБ	РИБ III, стлб. 295–503
+РИБ	РИБ III, стлб. 875–1000
+РИБ.	no match	probability was too low
+Рим. ими. д.	Рим.д.1
+Рим. ими. д.	Рим.имп.д. III
+Рим. ими. д.	Рим.имп.д. IV
+Рим. ими. д.	Рим.имп.д. IX
+Рим. ими. д.	Рим.имп.д. V
+Рим. ими. д.	Рим.имп.д. VI
+Рим. ими. д.	Рим.имп.д. VII
+Рим. ими. д.	Рим.имп.д. VIII
+Рим. ими. д. И	no match	probability was too low
+Рим. ими. д. I	no match	probability was too low
+Рим. имп. д. IІ	no match	probability was too low
+Рим. VIII, 29	no match	probability was too low
+Рим. XIII, 1	no match	probability was too low
+Римплер	no match	probability was too low
+Римск. имп. д.	no match	probability was too low
+Рит.	no match	probability was too low
+Риторика (А.)	no match	probability was too low
+Риторика1	no match	probability was too low
+Розыск о Чурине	no match	probability was too low
+Розыск. о Шакловит.	no match	probability was too low
+Ром.	no match	probability was too low
+Роман в стих.	no match	probability was too low
+Рос. им. Н. Ром.	no match	probability was too low
+Росп. им. H. Ром.	no match	probability was too low
+Росп. имп. Н. Ром.	no match	probability was too low
+Росп. лошадям	no match	probability was too low
+Росп. учужн. стана	no match	probability was too low
+Росп.Вт.	no match	probability was too low
+Росп.Вят.воев. II	no match	probability was too low
+Росп.жал.польск.ро-там	no match	probability was too low
+Росп.Лаз.	no match	probability was too low
+Росп.Покр.	no match	probability was too low
+Росп.Сузд.	no match	probability was too low
+Росп.Трофм.	no match	probability was too low
+Росписка Подлесова	no match	probability was too low
+Роспись травам	no match	probability was too low
+Ростлет.	no match	probability was too low
+Рспр.	no match	probability was too low
+Рст.П.	no match	probability was too low
+Рст.пр.	no match	probability was too low
+Руб. Мат.	no match	probability was too low
+Руднев.Рассужд.	no match	probability was too low
+Рук. Клим. д.	no match	probability was too low
+Рум. сп.	no match	probability was too low
+Рус. зем.1	no match	probability was too low
+Рус.-бел. св.ІІ	no match	probability was too low
+Рус.-бел.д.	no match	probability was too low
+Рус.-лат.словарь	no match	probability was too low
+Рус.-лив.дог.	no match	probability was too low
+Рус.-монг.отн. II	no match	probability was too low
+Рус.-нем. сл.	no match	probability was too low
+Рус.-нем.словарь2	no match	probability was too low
+Рус.-швед. отн. ІІ	no match	probability was too low
+Рус.-швед. отн.ІІ	no match	probability was too low
+Рус.-швед.д. I	no match	probability was too low
+Рус.-швед.д. II	no match	probability was too low
+Рус.-швед.отн. ІІ	no match	probability was too low
+Рус.-швед.отн. III	no match	probability was too low
+Рус.-швед.отн.ІІ	no match	probability was too low
+Рус.врем. (отр.)	no match	probability was too low
+Рус.дипл. I–X	no match	probability was too low
+Рус.заговоры	no match	probability was too low
+Рус.разгов.	no match	probability was too low
+Русской грамматике” Лудольфа	no match	probability was too low
+Руссужд. церк.-слав. яз.	no match	probability was too low
+РЧБ	no match	probability was too low
+Рыбников	no match	probability was too low
+Рычков.Днев.	no match	probability was too low
+Рычков.Журн. I	no match	probability was too low
+Рычков.Журн. II	no match	probability was too low
+Рядн. нач.	Рядн.зап. II
+Рядная	no match	probability was too low
+Ряз. и. кн.	no match	probability was too low
+Ряз. корм. 1284 г.	no match	probability was too low
+Ряз. Крм.	no match	probability was too low
+Ряз. крм.	no match	probability was too low
+Ряз. крм. Крф.	no match	probability was too low
+Ряз. крм. Фот. ном.	no match	probability was too low
+Ряз. н. кн.	no match	probability was too low
+Ряз. столб., кор.	no match	probability was too low
+Ряз. столб., св.	no match	probability was too low
+Ряз. столб., связки	no match	probability was too low
+Ряз.1597	no match	probability was too low
+Ряз.Мщ.	no match	probability was too low
+Ряз.П.	no match	probability was too low
+Ряз.п.кн. (вып.)	no match	probability was too low
+Ряз.п.кн. II	no match	probability was too low
+Ряз.п.кн.IV	no match	probability was too low
+С л. Епиф. о погреб.	no match	probability was too low
+С л. Илар.	no match	probability was too low
+С л. Ис. Сирина	no match	probability was too low
+С л. мт. Дан.	no match	probability was too low
+С никимъ любопр?тися. Гражд. об. дет.	no match	probability was too low
+С?дмид?нное. Нем.-рус. словарь1	no match	probability was too low
+С.	no match	probability was too low
+С. Медвед. Зал.	no match	probability was too low
+С. Медведев. Зап.	no match	probability was too low
+С.Вр.	no match	probability was too low
+С.Ив. III	no match	probability was too low
+С.Ив. IV	no match	probability was too low
+С.М.	no match	probability was too low
+С.Фед.Ив.	no match	probability was too low
+Сав.Гр.	no match	probability was too low
+Сав.Грудцын Повесть о	no match	probability was too low
+Сав.ж.	no match	probability was too low
+Сав.п.	no match	probability was too low
+Сам. Евр. Обличение	no match	probability was too low
+Сам. Евр. обличение	no match	probability was too low
+Сам.Евр.Обличение	no match	probability was too low
+Самар.сказки	no match	probability was too low
+Самойл.	no match	probability was too low
+Сб. гомил.	no match	probability was too low
+Сб. Кир.-Б. мон.	no match	probability was too low
+Сб. Копенг.	no match	probability was too low
+Сб. митр. грамот	no match	probability was too low
+Сб. поуч.	no match	probability was too low
+Сб. поуч. Финл.	no match	probability was too low
+Сб.1	no match	probability was too low
+Сб.заг.	no match	probability was too low
+Сб.загов.	no match	probability was too low
+Сб.Кир.-Б.м. (П.)	no match	probability was too low
+Сб.Кир.-Б.м.1	no match	probability was too low
+Сб.Кир.–Б.м.2	no match	probability was too low
+Сб.митр.гр.	no match	probability was too low
+Сб.певч.1	no match	probability was too low
+Сб.певч.2	no match	probability was too low
+Сб.посл.Л.Майк.	no match	probability was too low
+Сб.Посл.Паус.	no match	probability was too low
+Сб.Тол.	no match	probability was too low
+Сб.хрон.	no match	probability was too low
+Сбор.	no match	probability was too low
+Сбор. Волог.	no match	probability was too low
+Сбор. Волог. Ак. н.	no match	probability was too low
+Сбор. Кир. Белоз.	no match	probability was too low
+Сбор. Кир.-Белоз.	no match	probability was too low
+Сбор. Копенг.	no match	probability was too low
+Сбор. Новг.	no match	probability was too low
+Сбор. поуч. Ак. Н.	no match	probability was too low
+Сбор. поуч. Погод.	no match	probability was too low
+Сбор. Рум.	no match	probability was too low
+Сбор. Салт.	no match	probability was too low
+Сбор. Салт. Испов. ин	no match	probability was too low
+Сбор. Салт. Мол. исп. патр. Кал.	no match	probability was too low
+Сбор. Салт. Мол. испов. п. Каликст.	no match	probability was too low
+Сбор. Салт. Мол. испов. патр. Кал.	no match	probability was too low
+Сбор. Салт. Молитв. покаян.	no match	probability was too low
+Сбор. Троиц.	no match	probability was too low
+Сбор. Троицк.	no match	probability was too low
+Сбор. Чуд. мон.	no match	probability was too low
+Сбор. XV в.	no match	probability was too low
+Сбор.Волог.	no match	probability was too low
+Сбор.Волог. Ак. н.	no match	probability was too low
+Сбор.Салт.	no match	probability was too low
+Сборн.	Сборн.Оп.Грек.
+Св.жив. и кн.д.	no match	probability was too low
+Свад.	no match	probability was too low
+Свв.Звн.	no match	probability was too low
+Свед. и зам. II	no match	probability was too low
+Свед. и зам. IV	no match	probability was too low
+Свед. и зам.1	no match	probability was too low
+Свед. и зем.	no match	probability was too low
+Свиток инок.	no match	probability was too low
+Сводн.каталог	no match	probability was too low
+СГГД	СГГД I
+СГГД	СГГД II
+СГГД	СГГД III
+СГГД	СГГД V
+Сгефанит1	no match	probability was too low
+Сгов. рядн. зад.	no match	probability was too low
+СГТД	no match	probability was too low
+Сд. мт. Дан. (Жм.)	no match	probability was too low
+Се бо р?че разр?шь бол?зни смр?тныа. Козма Инд.	no match	probability was too low
+Се же воскипим смелством и разторгнем медлость. Ист. Трои1	no match	probability was too low
+Сев.письм.	no match	probability was too low
+Сев.письм.1	no match	probability was too low
+Седмигласное. Нем.-рус. словарь1	no match	probability was too low
+Седмоглавный змии. Нем.-рус. словарь1	no match	probability was too low
+Семена сандалника. Яросл. п. кн.	no match	probability was too low
+Септуагинте	no match	probability was too low
+Серг. Р. Аз.	no match	probability was too low
+Серп. Р. Епиф.2	no match	probability was too low
+Серп.мон.	no match	probability was too low
+Сиафарий. О сивиллах	no match	probability was too low
+Сиб.Б.	no match	probability was too low
+Сиб.лет., с.1–104	no match	probability was too low
+Сиб.лет., с.105–311	no match	probability was too low
+Сиб.лет., с.312–366	no match	probability was too low
+Сиб.лет., с.367–397	no match	probability was too low
+Сиб.Нак.	no match	probability was too low
+Сиб.переп.	no match	probability was too low
+Сивл.	no match	probability was too low
+Сильв.	Сильв. и Ант.вопр.1
+Сильв. сб. (литогр.)	no match	probability was too low
+Сильв. сб., литогр.	no match	probability was too low
+Сильв.Медв.письма	no match	probability was too low
+Сильв.сб.1	no match	probability was too low
+Сильв.сб.2	no match	probability was too low
+Сильв.Сл.	no match	probability was too low
+Сим. Мат.	no match	probability was too low
+Сим. мат.	no match	probability was too low
+Сим. Обих. книгой	no match	probability was too low
+Сим. Обих. книгой.	no match	probability was too low
+Сим. Обоих. книгоп.	no match	probability was too low
+Сим. Перепл. хул.	no match	probability was too low
+Сим. Посл.	no match	probability was too low
+Сим.Мат.	no match	probability was too low
+Сим.Обих.	no match	probability was too low
+Сим.Пол.Верт.	no match	probability was too low
+Сим.Сузд.	no match	probability was too low
+Симв. вер. Влад.	no match	probability was too low
+Симон. Посл. Пат. Печ.	no match	probability was too low
+Симон.ев.	no match	probability was too low
+Симон.Сказ.	no match	probability was too low
+Син. сп.	no match	probability was too low
+Син.Н.П.м.	no match	probability was too low
+Синаксарь	no match	probability was too low
+Синб.	no match	probability was too low
+Синодик Ниж. Печ. м.І	no match	probability was too low
+Синодик Ниж.Печ.м. II	no match	probability was too low
+Сирах. XIII, 3	no match	probability was too low
+Сия панна жива есть. Рим. д.	no match	probability was too low
+Ск. о вар.б.	no match	probability was too low
+Ск. о Гр.О.	no match	probability was too low
+Ск. о Кост.	no match	probability was too low
+Ск. о Мам.поб.	no match	probability was too low
+Ск. о молодце1	no match	probability was too low
+Ск. о Сам.	no match	probability was too low
+Ск. о см.вр.	no match	probability was too low
+Ск. о ц.Ф.И.	no match	probability was too low
+Ск. пчев. паш.	no match	probability was too low
+Ск.А.П.	no match	probability was too low
+Ск.Ал.Нев.	no match	probability was too low
+Ск.Фл.	no match	probability was too low
+Ск.хоз. и раб.	no match	probability was too low
+Сказ. Ав. Палицына	no match	probability was too low
+Сказ. Авр. Палинына1	no match	probability was too low
+Сказ. Авр. Палицина1	no match	probability was too low
+Сказ. Авр. Палицына2	no match	probability was too low
+Сказ. Авр. Палнцына 1	no match	probability was too low
+Сказ. Авр. Палпцына1	no match	probability was too low
+Сказ. Ант. Новг.	no match	probability was too low
+Сказ. Ар. Палицына1	no match	probability was too low
+Сказ. Афрод. д.	no match	probability was too low
+Сказ. Инд. цар.	no match	probability was too low
+Сказ. о б?д. Сбор.	no match	probability was too low
+Сказ. о Дан. пр.	Сказ. о Дон.бою
+Сказ. о Жел.вр.	no match	probability was too low
+Сказ. о землетрясении	no match	probability was too low
+Сказ. о Июде	no match	probability was too low
+Сказ. о киевских богат.	no match	probability was too low
+Сказ. о кн. Владимирск.	no match	probability was too low
+Сказ. о книг. истин. и ложн.	no match	probability was too low
+Сказ. о Мам.поб.	no match	probability was too low
+Сказ. о Петре Волос.воеводе	no match	probability was too low
+Сказ. о св. Соф.	no match	probability was too low
+Сказ. о созд. св. Соф.	no match	probability was too low
+Сказ. об Адаме	no match	probability was too low
+Сказ. об антихр.	no match	probability was too low
+Сказ. об именах	no match	probability was too low
+Сказ. оц. Фед. Ив.	no match	probability was too low
+Сказ. прит. о зм.	no match	probability was too low
+Сказ. св. Соф.	no match	probability was too low
+Сказ.вкратце	no match	probability was too low
+Сказ.Инд.царстве1	no match	probability was too low
+Сказ.Найд.	no match	probability was too low
+Сказ.пов. о Аз.вз.	no match	probability was too low
+Сказ.пов.об Аз.вз.	no match	probability was too low
+Сказ.пчев.паш.	no match	probability was too low
+Сказ.роск.житии	no match	probability was too low
+Сказ.Сиб.	no match	probability was too low
+Сказ.Флор.соб.1	no match	probability was too low
+Сказ.Щил.	no match	probability was too low
+Сказание о Астрахани	no match	probability was too low
+Сказка о мол.	no match	probability was too low
+Сказка о молодце1	no match	probability was too low
+Сказки Аф. I	no match	probability was too low
+Скаска Пунверицкого	no match	probability was too low
+Скр.	no match	probability was too low
+Скрижаль, IV	no match	probability was too low
+Сл. болг. Дюв.	no match	probability was too low
+Сл. Григ. II.	no match	probability was too low
+Сл. Ефр.	no match	probability was too low
+Сл. Ефр. о мил.	no match	probability was too low
+Сл. и д.	no match	probability was too low
+Сл. и д. ІІ	no match	probability was too low
+Сл. и д. I	no match	probability was too low
+Сл. и и д.	no match	probability was too low
+Сл. и лоуч. против языч.	no match	probability was too low
+Сл. и поуч. про тив языч.	no match	probability was too low
+Сл. и поуч. против явыч.	no match	probability was too low
+Сл. и поуч. против языч	no match	probability was too low
+Сл. и поуч. против языч.	no match	probability was too low
+Сл. и поуч. против язычн.	no match	probability was too low
+Сл. и поуч. против, языч.	no match	probability was too low
+Сл. и поуч. против. языч.	no match	probability was too low
+Сл. и поуч.против язычников	no match	probability was too low
+Сл. и. д.	no match	probability was too low
+Сл. Илпол. об антихр.	no match	probability was too low
+Сл. Иппол. об актихр.	no match	probability was too low
+Сл. к нев., строка	no match	probability was too low
+Сл. мг. Дан. (Жм.)	no match	probability was too low
+Сл. моск.	no match	probability was too low
+Сл. на пренес.мощ.Клим.	no match	probability was too low
+Сл. о и. Иг.	no match	probability was too low
+Сл. о купце	no match	probability was too low
+Сл. о п. Мих.	no match	probability was too low
+Сл. о премудр.	no match	probability was too low
+Сл. о расс.любви Ерм.-Ер.	no match	probability was too low
+Сл. о Феодор. купц. Сбор.	no match	probability was too low
+Сл. о. и. Иг.	no match	probability was too low
+Сл. оп. Иг.	no match	probability was too low
+Сл. похв. Ф.	no match	probability was too low
+Сл. похв. Фимы	no match	probability was too low
+Сл. христол., 113.	no match	probability was too low
+Сл.Бор.Глеб.	no match	probability was too low
+Сл.Гр.Син.	no match	probability was too low
+Сл.Дан.Зат.1	no match	probability was too low
+Сл.дело	no match	probability was too low
+Сл.Евс.	no match	probability was too low
+Сл.единогл.Ш.	no match	probability was too low
+Сл.и д.	Сл.ид. II
+Сл.Избр.	no match	probability was too low
+Сл.Иппол. об антихр.1	no match	probability was too low
+Сл.опремудр.	no match	probability was too low
+Сл.охристолюб.купце	no match	probability was too low
+Сл.пог.	no match	probability was too low
+Сл.погиб.Рус.зем.1	no match	probability was too low
+Сл.похв.Кир. и Мефод.	no match	probability was too low
+Сл.прор. о сыне б.	no match	probability was too low
+Сл.Ридлея	no match	probability was too low
+Сл.св.прор.	no match	probability was too low
+Сл.филос.	no match	probability was too low
+Слав. Бестиарий	no match	probability was too low
+Слава рос.	no match	probability was too low
+Слв.А.	no match	probability was too low
+Слв.О.	no match	probability was too low
+Слв.О.Ж.	no match	probability was too low
+Слв.ц.	no match	probability was too low
+Слв.Ш.	no match	probability was too low
+Слов.м.Дан.Ж.	no match	probability was too low
+Словарь геогр.Ворон.	no match	probability was too low
+Словарь перм.пам. I–VI	no match	probability was too low
+Словарь перм.пам.1	no match	probability was too low
+Словарь промысл.лекс.	no match	probability was too low
+Словарь Сл. о п.Иг. II	no match	probability was too low
+Словарь Сл. о п.Иг. III	no match	probability was too low
+Словарь Сл. о п.Иг. IV	no match	probability was too low
+Словарь Сл. о п.Иг. V	no match	probability was too low
+Словарь Сл. о п.Иг. VI	no match	probability was too low
+Словарь. 331.	no match	probability was too low
+Слово Иппол. об антихр.	no match	probability was too low
+Слово кратко.	no match	probability was too low
+Слово м.Дан.	no match	probability was too low
+Слово св.прор. о сыне б.	no match	probability was too low
+СлРЯ XI-XVII вв.	no match	probability was too low
+Служ. Вар л.	no match	probability was too low
+Служ. Кипр. п.	no match	probability was too low
+Служ.1	no match	probability was too low
+Служ.Бор.Гл.	no match	probability was too low
+Служба Бор. Глеб.	no match	probability was too low
+См. Пол. Бес.	no match	probability was too low
+См.3	no match	probability was too low
+Смб.З.	no match	probability was too low
+Смета денежн.дох. No 7	no match	probability was too low
+Смирен чл?к, ириникос анфропос. Речь тонкосл. греч.	no match	probability was too low
+Смл.	no match	probability was too low
+Смт.3	no match	probability was too low
+Смутн.врем., c.1–144	no match	probability was too low
+Смутн.врем., c.145–176	no match	probability was too low
+Смутн.врем., c.177–186	no match	probability was too low
+Смутн.врем., c.187–218	no match	probability was too low
+Смутн.врем., c.219–234	no match	probability was too low
+Смутн.врем., c.235–242	no match	probability was too low
+Смутн.врем., c.245–248	no match	probability was too low
+Смутн.врем., c.249–260	no match	probability was too low
+Смутн.врем., c.261–472	no match	probability was too low
+Смутн.врем., c.473–524	no match	probability was too low
+Смутн.врем., c.525–558	no match	probability was too low
+Смутн.врем., c.559–624	no match	probability was too low
+Смутн.врем., c.625–712	no match	probability was too low
+Смутн.врем., c.713–754	no match	probability was too low
+Смутн.врем., c.755–836	no match	probability was too low
+Смутн.врем., c.837–864	no match	probability was too low
+Собол. кн. Енисейск.	Собол.кн.Енис.
+Соболевский. Из истории	Соболевский.Песни
+Соборн.	no match	probability was too low
+Собр.ак.Ник.	no match	probability was too low
+Собр.Аристова.	no match	probability was too low
+Собр.Бередникова	no match	probability was too low
+Собр.старца	no match	probability was too low
+Соликам.ркп. I	no match	probability was too low
+Соликам.ркп. II	no match	probability was too low
+Солов.вотч.креп.	no match	probability was too low
+Сотн.	Сотн.Ш. IV
+Сотн.	Сотн.Ш. V
+Сотн.	Сотн.Ш. VI
+Сотн.	Сотн.Ш. VII
+Сотн. ІІІ.	no match	probability was too low
+Сото, мира	no match	probability was too low
+Соф. 1 лет.2	no match	probability was too low
+Соф. І лет.1	no match	probability was too low
+Соф. І лет.2	no match	probability was too low
+Соф. ІІ лет.	no match	probability was too low
+Соф. лет.	Соф. I лет.3
+Соф.библ. II	no match	probability was too low
+Соф.библ. III	no match	probability was too low
+Соф.врем. II	no match	probability was too low
+Соф.І лет	no match	probability was too low
+Соф.І лет.1	no match	probability was too low
+Соф.І лет.2	no match	probability was too low
+Соф.ІІ лет.	no match	probability was too low
+Соф.сб.	no match	probability was too low
+Соф.Т.	no match	probability was too low
+Соч.	Соч.Ив.Пер.
+Соч.	Соч.Лих.
+сп. Моск. дух. ак.	no match	probability was too low
+Сп. похв. Фомы	no match	probability was too low
+Сп.единогл.Аг.	no match	probability was too low
+Сп.К.	no match	probability was too low
+Сп.Сиб.з.	no match	probability was too low
+Спафарий.	no match	probability was too low
+Спафарий. Арифмология	no match	probability was too low
+Спис.	no match	probability was too low
+Спрд.	no match	probability was too low
+Спф.К.	no match	probability was too low
+Срг.Нр.	no match	probability was too low
+Срг.Пхв.	no match	probability was too low
+Срг.Р.	no match	probability was too low
+Срг.Р.Д.	no match	probability was too low
+Срз.	Срз. I
+Срз.	Срз. II
+Срз.	Срз. III
+Срз.ІІІ	no match	probability was too low
+Срп.Н.	no match	probability was too low
+Ссыл.	no match	probability was too low
+Ст. сп. рос. по слов.	no match	probability was too low
+Ст. сп. Скобельцына	no match	probability was too low
+Ст.В.	no match	probability was too low
+Ст.Вр.	no match	probability was too low
+Ст.Всл.	no match	probability was too low
+Ст.Зв.	no match	probability was too low
+Ст.Ик. (У.)	no match	probability was too low
+Ст.Млсл.	no match	probability was too low
+Ст.Мхр.	no match	probability was too low
+Ст.П.	no match	probability was too low
+Ст.Похв.Пуст.	no match	probability was too low
+Ст.Раз.	no match	probability was too low
+Ст.сл.	no match	probability was too low
+Ст.сп.Писемского	no match	probability was too low
+Ст.сп.Скоб.	no match	probability was too low
+Ст.Сух.	no match	probability was too low
+Ст.Тюф.	no match	probability was too low
+Ст.Ш. III	no match	probability was too low
+Ст.Ш. IV...VII	no match	probability was too low
+Стар.муж1	no match	probability was too low
+Стар.муж2	no match	probability was too low
+Стат.Полян.	no match	probability was too low
+Статир	no match	probability was too low
+Статьи Шерем.	no match	probability was too low
+Стгл.	no match	probability was too low
+Степанов. Кн. ключей	no match	probability was too low
+Стеф. Новг. п.	no match	probability was too low
+Стих.	Стихирарь Хр.
+Стих.	Стихирарь2
+Стих.	Стихирарь4
+Стих.	Стихирарь5
+Стих.	Стихирарь6
+Стих.	Стихирарь7
+Стихир.	no match	probability was too low
+Стихир. Ак.	no match	probability was too low
+Стихир. Новг. д.	no match	probability was too low
+Стихир. XII в. Ак.н.	no match	probability was too low
+Стихирарь (Рум.)	no match	probability was too low
+Стихоруд.	no match	probability was too low
+Стлп.П.П.	no match	probability was too low
+Сто глав	no match	probability was too low
+Стол. б Шавк.	no match	probability was too low
+Столб.Арх.Оруж.пал.1	no match	probability was too low
+Столб.Ник.П.	no match	probability was too low
+Столб.Сиб.пр.	no match	probability was too low
+Столов. кн. патр. Фил.І	no match	probability was too low
+Столов. обоих. Волокол. м.	no match	probability was too low
+Столов.кн.патр.Фил. II	no match	probability was too low
+Стп.	no match	probability was too low
+Стр. п. кн.	no match	probability was too low
+Стр.Врн.	no match	probability was too low
+Стр.кн.Кадаш.сл.	no match	probability was too low
+Стр.лет.	no match	probability was too low
+Стр.П., с.106–109	no match	probability was too low
+Стр.П., с.110–194	no match	probability was too low
+Стр.Пнз.	no match	probability was too low
+Страхов. Карм.кн.стар.	no match	probability was too low
+Строг.гр.	no match	probability was too low
+Строг.столб.Кабала	no match	probability was too low
+Строгова	no match	probability was too low
+СТТД	no match	probability was too low
+Суб.	no match	probability was too low
+Суб. ?ат.	no match	probability was too low
+Суб. Maт.	Суб.Мат. IV
+Суб. Maт.	Суб.Мат. VI
+Суб. Maт.	Суб.Мат. VII
+Суб. Maт.	Суб.Мат.II
+Суб. Maт.	Суб.Мат.V
+Суб.Мат. ІІІ	no match	probability was too low
+Суд Ив.	no match	probability was too low
+Суд.	no match	probability was too low
+Суд. Ив. І?	no match	probability was too low
+Суд. Ив.І?	no match	probability was too low
+Суд. Мат.	no match	probability was too low
+Суд. VIII. 21	no match	probability was too low
+Суд. XI, 18	no match	probability was too low
+Суд. XV. 8	no match	probability was too low
+Суд.дел.	no match	probability was too low
+Суд.Фед.Ив.1	no match	probability was too low
+Сукон.Дв.	no match	probability was too low
+Супр. р.	no match	probability was too low
+Сущую з гущею воздуряем пропоицу. Праздник каб.	no match	probability was too low
+Схт.	no match	probability was too low
+Схтн.Влд.	no match	probability was too low
+Сч.д.	no match	probability was too low
+Счет. д. Вельск.	no match	probability was too low
+Счет. д. Шерб.	no match	probability was too low
+Счет.д.Акс.	no match	probability was too low
+СXVIII	no match	probability was too low
+Т.арх.	no match	probability was too low
+т.ж.	no match	probability was too low
+Т.К.	no match	probability was too low
+Т.Кн.	no match	probability was too low
+Т.Лит.	no match	probability was too low
+Т.Пал.1477	no match	probability was too low
+Тако мирствуетъ гн?въ ихъ. Д. патр. Никона	no match	probability was too low
+Такт.	no match	probability was too low
+Там же	no match	probability was too low
+там же	no match	probability was too low
+Там же.	no match	probability was too low
+Там кн.	no match	probability was too low
+Там кн. южновеликорус.	no match	probability was too low
+Там. кн. Тихв. к.	no match	probability was too low
+Там. кн. южновеликорус.	no match	probability was too low
+Там. кн.южновеликорус.	no match	probability was too low
+Там.кн.	Там.кн. II
+Там.кн.	Там.кн. III
+Там.кн.	Там.кн.Волог. I
+Там.кн.	Там.кн.Волог. II
+Там.кн.	Там.кн.Волог. III
+Там.кн.	Там.кн.Моск. II
+Там.кн.	Там.кн.Саран.
+Там.кн.	Там.кн.Смол. II
+Там.кн.	Там.кн.Смол. III
+Там.кн. южновеликорус.	no match	probability was too low
+Там.кн.южновеликорус.	no match	probability was too low
+Тамб.арх.	Тамб.арх. XVIII
+Тамб.арх.	Тамб.арх. XX
+Тамб.арх.	Тамб.арх. XXI
+Тамб.арх.	Тамб.арх. XXII
+Тамб.арх.	Тамб.арх. XXIII
+Тамб.арх.	Тамб.арх. XXIV
+Тамб.арх.	Тамб.арх. XXV
+Тат.Разг.	no match	probability was too low
+Татищев.Духовная	no match	probability was too low
+Татищев.Кр.экон.зап.	no match	probability was too low
+Тв.дз.	no match	probability was too low
+Тим.Акинд.	no match	probability was too low
+Тих.рем.	no match	probability was too low
+То наша скаска. Арх. Толстого	no match	probability was too low
+Тов. цен. росп.	no match	probability was too low
+Тов. цен. рост.	no match	probability was too low
+Тов.цен.росп.	no match	probability was too low
+Толк. еванг.	no match	probability was too low
+Толк. ис.	no match	probability was too low
+Толк. лит. Гемана	no match	probability was too low
+Толк. лит. Герм.	Толк.лит.Германа1
+Толк. прор.	no match	probability was too low
+Толк. Псалт. Афан. Алекс	no match	probability was too low
+Толк. Псалт. Евг. д.	no match	probability was too low
+Толк. речей.5	no match	probability was too low
+Толк. речей5	no match	probability was too low
+Толк.речем1	no match	probability was too low
+Толк.речем2	no match	probability was too low
+Толк.речем4	no match	probability was too low
+Толкование: диякониса.	no match	probability was too low
+Толоч.	no match	probability was too low
+Толстого	no match	probability was too low
+Торг. кн. (Савв.)	Торг.кн.1
+Торг. кн., 11.	no match	probability was too low
+Тот же текст	no match	probability was too low
+Тр.Кор.	no match	probability was too low
+Тр.Л.	no match	probability was too low
+Тр.ЯАК.	no match	probability was too low
+Травний Любч.	no match	probability was too low
+Травник (Флор.)	no match	probability was too low
+Травник Бутурлина	no match	probability was too low
+Травник Дюбч.	no match	probability was too low
+Травник Люби.	Травник Любч.1, I
+Травник Люби.	Травник Любч.1, II
+Травник Любя.	no match	probability was too low
+Травниц Любч.	no match	probability was too low
+Традник Любч.	no match	probability was too low
+Требник (Чуд.)	no match	probability was too low
+Требник (Ш.)	no match	probability was too low
+Требник2	no match	probability was too low
+Трж.	no match	probability was too low
+Трж. Вост.	no match	probability was too low
+Трж. Рум.	no match	probability was too low
+Триод.	Триодь
+Триод.	Триодь Моис.К. II
+Триод.	Триодь постн.1
+Триод. пост.	no match	probability was too low
+Триод. цв?т.	no match	probability was too low
+Триод. Цвет.	no match	probability was too low
+Триод. цвет.	no match	probability was too low
+Триод. цветн.	no match	probability was too low
+Триод. Цветн. Воскр.	no match	probability was too low
+Триод.цвет.	no match	probability was too low
+Триодь цв.	Триодь цветн.2
+Триодь цв.	Триодь цветн.3
+Трои вачеги суконные. Д. натр. Никона	no match	probability was too low
+Троиц. л.	no match	probability was too low
+Троиц. лет. Кар.	no match	probability was too low
+Троиц. сбор.	no match	probability was too low
+Троиц. сп.	no match	probability was too low
+Тропник	no match	probability was too low
+Троян.сказ., с.139–147	no match	probability was too low
+Троян.сказ., с.14–69	no match	probability was too low
+Трул.	no match	probability was too low
+Тул.Ж.Дм.	no match	probability was too low
+Тур.	no match	probability was too low
+Тур. (К.)	no match	probability was too low
+Тыс.кн. и дв.тетр.	no match	probability was too low
+Тысячн.кн.	no match	probability was too low
+У л. Ал.	no match	probability was too low
+У Посника Иванова лошаденко. Якут. а.	no match	probability was too low
+У Руслан	no match	probability was too low
+Уб.Бат.	no match	probability was too low
+Увар. лет.	no match	probability was too low
+Увар.корм.	no match	probability was too low
+Увясленъ. Митроносиц. Лекс. полоно-словен.	no match	probability was too low
+Угл.	no match	probability was too low
+Угл.А.	no match	probability was too low
+Угл.П.	no match	probability was too low
+Уж. измена, 11.	no match	probability was too low
+Ужн.С.	no match	probability was too low
+Уз.Арх.	no match	probability was too low
+Ук.кн.	no match	probability was too low
+Ук.Кунст.	no match	probability was too low
+Указ.кн.Зем.пр.	no match	probability was too low
+Укр.гор.Воб.	no match	probability was too low
+Укр.мн.	no match	probability was too low
+Ул. Ал.2	no match	probability was too low
+Ул.Ал.Мих.	no match	probability was too low
+УЛС	no match	probability was too low
+Ульян.Мур.	no match	probability was too low
+Унбегаун	no match	probability was too low
+Унд.	no match	probability was too low
+Унков.	no match	probability was too low
+Упыр.	no match	probability was too low
+Упыр. л.	no match	probability was too low
+Ур.Зал.	no match	probability was too low
+Уруслан, 110.	no match	probability was too low
+Урядник, 110.	no match	probability was too low
+Урядникъ	no match	probability was too low
+Ус.П.	no match	probability was too low
+Ус.Ш.	no match	probability was too low
+Усб. сб.	no match	probability was too low
+Усп. об.	no match	probability was too low
+Усп. с б.	no match	probability was too low
+Усп. сб., 113.	no match	probability was too low
+Усп. сп.	no match	probability was too low
+Уст. корм. Ио. Схол.	no match	probability was too low
+Уст. Крм.	no match	probability was too low
+Уст. крм.	no match	probability was too low
+Уст. крм. Апл.	no match	probability was too low
+Уст. крм. Ио. Схол.	no match	probability was too low
+Уст. крм. Ио. Схол. Вас. Вел	no match	probability was too low
+Уст. крм. Ио. Схол. Вас. Вел.	no match	probability was too low
+Уст. крм. Ио. Схол. Ник.	no match	probability was too low
+Уст. крм. Ио. Схол. Халк.	no match	probability was too low
+Уст. Крмч.	no match	probability was too low
+Уст. мн.	no match	probability was too low
+Уст. мон.	no match	probability was too low
+Уст. мон. д.	no match	probability was too low
+Уст. н.	no match	probability was too low
+Уст. п. 1193 г.	no match	probability was too low
+Уст. ратных д. I	no match	probability was too low
+Уст.Вкл.	no match	probability was too low
+Уст.мон.	no match	probability was too low
+Уст.П.	no match	probability was too low
+Уст.Разд.	no match	probability was too low
+Уст.ратн.дел	no match	probability was too low
+Уст.С.	no match	probability was too low
+Устав воин.	no match	probability was too low
+Устав Иерус.	no match	probability was too low
+Устав рантых д.	Устав ратных д. II
+Устав ратн. строения	no match	probability was too low
+Устав ратныхъ д.	no match	probability was too low
+Устав Св. Ольг.	no match	probability was too low
+Устав Студ.4	no match	probability was too low
+Устав Тип.1	no match	probability was too low
+Уставн. гр. натр. Иова	no match	probability was too low
+Устройн. и отд.кн.яма Вышн.Вол.	no match	probability was too low
+Устюж. корм.	no match	probability was too low
+Учен. ратного строения	no match	probability was too low
+Учен.ратн.	no match	probability was too low
+Ф.Карпов, изд.Дружинина	no match	probability was too low
+Ф.Карпов, изд.Никольского	no match	probability was too low
+Ф.Карпов, рукоп. Тихонравова	no match	probability was too low
+Ф.Карпов.Соч. Максима Грека, ч. III	no match	probability was too low
+Ф.Ск.	no match	probability was too low
+Фдс.Астр.	no match	probability was too low
+Фед.	Фед.Крест.
+Фед. Ал.	no match	probability was too low
+Фед. Печ. (Ер.)	no match	probability was too low
+Феод. Ст. Ост.	no match	probability was too low
+Феод. Студ. епит	no match	probability was too low
+Феод. Студ. Ост	no match	probability was too low
+Феод. Студ. Ост.	no match	probability was too low
+Феод. Студ. Ост. (Варс. корм.)	no match	probability was too low
+Феод.Студ.Поуч.	no match	probability was too low
+Феодорит.	no match	probability was too low
+Феодрт. о Никт.	no match	probability was too low
+Феост.	no match	probability was too low
+Феоф. толк. еп.	Феоф.Толк.ев.1
+Феоф.Толк.ев.1	Феоф.Толк.ев.2
+Фив.	no match	probability was too low
+Физ.Ц.	no match	probability was too low
+Фил.кн.	no match	probability was too low
+Фил.мт.	no match	probability was too low
+Филип. II, 10	no match	probability was too low
+Филипова кря не секал. Пам. Ряз.	no match	probability was too low
+Фирс.	no match	probability was too low
+Фита ? ... Спускная ????. Певч. азб.	no match	probability was too low
+Флавии. Полон. Иерус.	Флавий.Полон.Иерус. II
+Флавий. Полдн. Иерус.	no match	probability was too low
+Флавий. Полог. Иерус.	no match	probability was too low
+Флавий. Полон. ИерусЛ	no match	probability was too low
+Флавий. Полон. Исрус.	no match	probability was too low
+Флор.ек.	no match	probability was too low
+Флор.С.	no match	probability was too low
+Флор.С., с. 102–114	no match	probability was too low
+Флор.С., с. 115–127	no match	probability was too low
+Флор.С., с. 89–101	no match	probability was too low
+Флор.эк.	no match	probability was too low
+Флф.	no match	probability was too low
+Фомка сапожник. Кн. п. Торопец.	no match	probability was too low
+Фр.Ск.	no match	probability was too low
+Франц. и Ренц.	no match	probability was too low
+Фрол Скобеев,3	no match	probability was too low
+Фуфае, не ручивался. Хоз. Мор.	no match	probability was too low
+Х. Афан. Ник.	no match	probability was too low
+Х. Афан. Никитина	no match	probability was too low
+Х. Варе.	no match	probability was too low
+Х. Гр.	no match	probability was too low
+Х. Гр. Короб.	no match	probability was too low
+Х. Грифения	no match	probability was too low
+Х. Дав. иг.	no match	probability was too low
+Х. Зое.	no match	probability was too low
+Х. Кетова	no match	probability was too low
+Х. Котова, ИЗ.	no match	probability was too low
+Х. Котова, ПО.	no match	probability was too low
+Х. Котова1	no match	probability was too low
+Х. Нечаева	no match	probability was too low
+Х. Тр. Короб. (вар.)	no match	probability was too low
+Х.Бел.	no match	probability was too low
+Х.Богор.	no match	probability was too low
+Х.Дан.иг.(Нор.)	no match	probability was too low
+Х.Дан.иг.1	no match	probability was too low
+Х.Дан.иг.2	no match	probability was too low
+Х.Дан.иг.3	no match	probability was too low
+Х.дьяка Тр.Кор.	no match	probability was too low
+Х.Ио.Бог. (Амф.)	no match	probability was too low
+Х.Нечаева Книга	no match	probability was too low
+Х.Флор.соб.	no match	probability was too low
+Хан. ярл., 110.	no match	probability was too low
+Хан.ярл.1	no match	probability was too low
+Хан.ярл.2	no match	probability was too low
+Ханск.ярл.	no match	probability was too low
+Хворосты мисенныя. Кн. расх. кушаньям Адр.	no match	probability was too low
+Хив. д.	no match	probability was too low
+Хинск.служ.	no match	probability was too low
+Хл.б.Мор.	no match	probability was too low
+Хл.п.	no match	probability was too low
+Хлебн. л.	no match	probability was too low
+Хлебн. списку	no match	probability was too low
+Хлын.кн.Р.	no match	probability was too low
+Хован.	no match	probability was too low
+Хож. Богор.	no match	probability was too low
+Хож. Ио. Богосл., сп.	no match	probability was too low
+Хожд. во святую землю	no match	probability was too low
+Хожд. Ио. Богосл.	no match	probability was too low
+Хожд.Грефения	no match	probability was too low
+Хожд.Неч.	no match	probability was too low
+Хожд.Стеф.Новг.	no match	probability was too low
+Хоз. и раб.	no match	probability was too low
+Хоз. Мор. И	no match	probability was too low
+Хоз. Мор. ІІ	no match	probability was too low
+Хоз. Мор.1	no match	probability was too low
+Хоз. Мор.І	no match	probability was too low
+Хоз. Мор.ІІ	no match	probability was too low
+Хоз. Мор.ІI	no match	probability was too low
+Хоз.Мор.І	no match	probability was too low
+Хоз.Мор.ІІ	no match	probability was too low
+Холмог. арх. д.	no match	probability was too low
+Хон.	Хон. Мардария
+Хр. о См.	no match	probability was too low
+Хр. Тр. Короб.	no match	probability was too low
+Хр.1512 г.	no match	probability was too low
+Хрисанф.Опис.Иерус.	no match	probability was too low
+Христ.	no match	probability was too low
+Хрои. Г. Амарт.	Хрон.Г.Амарт.1
+Хрои. Г. Амарт.	Хрон.Г.Амарт.2
+Хрои. Г. Амарт.	Хрон.Г.Амарт.2 II
+Хрон. Г. Амарг.	no match	probability was too low
+Хрон. ГАмарт.	no match	probability was too low
+Хрон. ГГ Амарт.	no match	probability was too low
+Хрон. И. Малал	no match	probability was too low
+Хрон. И. Maлалы	no match	probability was too low
+Хрон. Ио. Малалы	no match	probability was too low
+Хрон.Г. Амарт. (Ув.)	no match	probability was too low
+Хрон.Г.Малалы	Хрон.И.Малалы, II
+Хрон.Г.Малалы	Хрон.И.Малалы, IV
+Хрон.Г.Малалы	Хрон.И.Малалы, IX
+Хрон.Г.Малалы	Хрон.И.Малалы, VI
+Хрон.Г.Малалы	Хрон.И.Малалы, VII
+Хрон.Г.Малалы	Хрон.И.Малалы, VIII
+Хрон.Г.Малалы	Хрон.И.Малалы, X
+Хрон.Г.Малалы	Хрон.И.Малалы, XI
+Хрон.Г.Малалы	Хрон.И.Малалы, XII
+Хрон.Г.Малалы	Хрон.И.Малалы, XIII
+Хрон.Г.Малалы	Хрон.И.Малалы, XIV
+Хрон.Г.Малалы	Хрон.И.Малалы, XV
+Хрон.Г.Малалы	Хрон.И.Малалы, XVI
+Хрон.Г.Малалы	Хрон.И.Малалы, XVII
+Хрон.Г.Малалы	Хрон.И.Малалы, XVIII
+Хрон.Г.Синк.	no match	probability was too low
+Хрон.Г.Синк.1	no match	probability was too low
+Хрон.Георг.Амарт. (Увар.)	no match	probability was too low
+Хроногр.	no match	probability was too low
+Хроногр.	Хроногр. (БАН)
+Хроногр.	Хроногр. (Обз. Поп.) I
+Хроногр.	Хроногр. (Обз. Поп.) II
+Хроногр. 1512г.	no match	probability was too low
+Хроногр. Ак.	no match	probability was too low
+Хроногр. XV в.	no match	probability was too low
+Хроногр.Ак.н.	no match	probability was too low
+Хронограф.	no match	probability was too low
+Хронографа	no match	probability was too low
+ХронХ.Амарт.	no match	probability was too low
+Худ.токарное Плюмиера	no match	probability was too low
+Ц?рь и воинъ, бг?ат и нищь в чину равн?. Требник	no match	probability was too low
+Ц.Дин.	no match	probability was too low
+Ц.Дин. I	no match	probability was too low
+Ц.кз.	no match	probability was too low
+Цар.	no match	probability was too low
+Цар. 3. ІІІ, 4.	no match	probability was too low
+Цар. лет.	no match	probability was too low
+Цар.грам.Оп.Грек. No 27	no match	probability was too low
+Цар.Пол.	no match	probability was too low
+Царск.грам.1571 г. о борьбе с чумой.	no match	probability was too low
+Царство Кит.	no match	probability was too low
+Цветник, 113.	no match	probability was too low
+Цен.П.	no match	probability was too low
+Цены на хлеб	no match	probability was too low
+Церк. Уст.	no match	probability was too low
+Церк. уст.	no match	probability was too low
+Цес.печ.вед.	no match	probability was too low
+Цитата без исходных данных, не позднее	no match	probability was too low
+Цов. о Царьграде	no match	probability was too low
+Ч. о детище	no match	probability was too low
+Ч. Серг. Р, Аз.	no match	probability was too low
+Ч. Серг. Р. Аз	no match	probability was too low
+Ч. Серг. Р. Аз.	no match	probability was too low
+Ч.Николы, II	no match	probability was too low
+Ч.Николы, III	no match	probability was too low
+Ч.Николы, IV	no match	probability was too low
+Ч.Николы, V	no match	probability was too low
+Ч.Серг.Р.Аз.	no match	probability was too low
+Чаша Ив.Вас.	no match	probability was too low
+Чаша мт.Мак.	no match	probability was too low
+Чел. Сав.	no match	probability was too low
+Чел.1631	no match	probability was too low
+Чел.Аврам.	no match	probability was too low
+Чел.Иоасаф.	no match	probability was too low
+Чел.кр.	no match	probability was too low
+Чел.Ник.	no match	probability was too low
+Чел.Прок.	no match	probability was too low
+Чел.Серг.	no match	probability was too low
+Челоб.Вас.	no match	probability was too low
+Челоб.Ив.Пер.	no match	probability was too low
+Челоб.Лаз.	no match	probability was too low
+Челоб.Семен.	no match	probability was too low
+Челобитная Т.Васильева	no match	probability was too low
+Чер. Савв.	no match	probability was too low
+Черд.столб.II	no match	probability was too low
+Черт.	no match	probability was too low
+Четвероев.	no match	probability was too low
+Четвероев. 1144 г.	no match	probability was too low
+Четвероев. 1144 г. (Амф)	no match	probability was too low
+Чех.д.	no match	probability was too low
+Чин. избр. еп.	no match	probability was too low
+Чин. Иоакима2	no match	probability was too low
+Чин. испов. в Новг. Чин.	no match	probability was too low
+Чин. Новг.	no match	probability was too low
+Чин. новг.	no match	probability was too low
+Чин.Иоак.	no match	probability was too low
+Чинов. Холмог.	no match	probability was too low
+Чиновник новг.арх.	no match	probability was too low
+Чис.	no match	probability was too low
+Чис. VІ	no match	probability was too low
+Чис. VIII. 11	no match	probability was too low
+Чис. XV, 3	no match	probability was too low
+Чис. XV. 32	no match	probability was too low
+Чис. XXV	no match	probability was too low
+Чис. XXXIII, 55	no match	probability was too low
+Числ.	no match	probability was too low
+Члоб.Новгород.Розваж.мон.	no match	probability was too low
+Чт. и пам.Иова	no match	probability was too low
+Чуд. Ник. Торж.	no match	probability was too low
+Чуд. Серг. Р. Аз.	no match	probability was too low
+Чуд. сп.	no match	probability was too low
+Чуд.Николы	no match	probability was too low
+Чуд.Прокопия Устюжск.	no match	probability was too low
+Чуд.сб.	no match	probability was too low
+Чудн.цар.	no match	probability was too low
+Чюд.Ник.	no match	probability was too low
+Чюд.Серг.Аз.	no match	probability was too low
+Ш.	no match	probability was too low
+Ш. Авр. Смол.	no match	probability was too low
+Ш. Ант. С.	no match	probability was too low
+Ш. Дан. Пер.	no match	probability was too low
+Ш. Игн. В.	no match	probability was too low
+Ш. Иос. Уст.	no match	probability was too low
+Ш. Павла Обн.	no match	probability was too low
+Ш. Сав. осв.	no match	probability was too low
+Ш. Стеф. Перм. Епиф.	no match	probability was too low
+Ш. Феодос. Нест.	no match	probability was too low
+Шах.крещ.	no match	probability was too low
+Шах.Пр.	no match	probability was too low
+Шаховской.Зап.	no match	probability was too low
+Швк.	no match	probability was too low
+Шест. Ио. екз.	Шестоднев Ио.екз.1, II
+Шест. Ио. екз.	Шестоднев Ио.екз.1, III
+Шест. Ио. екз.	Шестоднев Ио.екз.1, IV
+Шест. Ио. екз.	Шестоднев Ио.екз.1, V
+Шест. Ио. екз.	Шестоднев Ио.екз.1, VI
+Шест. Ио. екз.	Шестоднев Ио.екз.1, VII
+Шестеднев Г. Пизида	no match	probability was too low
+Шестеднев Ио. екз.	no match	probability was too low
+Шестноднев Ио. езк.1	no match	probability was too low
+Шестноднев Ио. екз.1	no match	probability was too low
+Шестоднев Ид. екз.2	no match	probability was too low
+Шестоднев Ио. екз., пролог	no match	probability was too low
+Шестоднев служ.	no match	probability was too low
+Шестоднсв Иок. екз.1	no match	probability was too low
+Шестоцнев. Ио. екз.	no match	probability was too low
+Шишкина. Оп. черт.	no match	probability was too low
+Шишонко.Перм. II	no match	probability was too low
+Шишонко.Перм. IV	no match	probability was too low
+Шк. благочиния	no match	probability was too low
+Шх.	no match	probability was too low
+Щв. Кат.-Ростовского1	no match	probability was too low
+Щепкин	no match	probability was too low
+Экл. XVII, 17	no match	probability was too low
+Экл. XVII, 50	no match	probability was too low
+Эклога	no match	probability was too low
+Эклога (сокр.)	no match	probability was too low
+Эклога (Щ.)	no match	probability was too low
+Эмин.Прикл.Фем.	no match	probability was too low
+Эп.Курб.	no match	probability was too low
+Юд.	no match	probability was too low
+Юдифь, 113.	no match	probability was too low
+Южновеликор. письм.	Южновеликорус.письм.1
+Юн.зерц.	no match	probability was too low
+Юр. ев. д. 1119 г. (Амф.)	no match	probability was too low
+Юр. ев. п.	no match	probability was too low
+Юр. ев. п. 1119 г.	no match	probability was too low
+Юр. Прол.	no match	probability was too low
+Юрнал	no match	probability was too low
+Явка Семен.	no match	probability was too low
+Явл.креста	no match	probability was too low
+Яков Тимофеевич, многол?тно здравствуй. Разин. восст.	no match	probability was too low
+Якут. а., карт.	no match	probability was too low
+Яр. сп.	Яр.П.
+Ярл. Узб.	no match	probability was too low
+Ярл.Атюл.	no match	probability was too low
+Ярл.Тайд.Иоан.	no match	probability was too low
+Яросл. ж. кн.	no match	probability was too low
+Яросл. и. кн.	no match	probability was too low
+Яросл.столб.	no match	probability was too low
+Ярюсл. п. кн.	no match	probability was too low
+AИ	no match	probability was too low
+Aпo- кал.	no match	probability was too low
+AСВР	no match	probability was too low
+AСBP	no match	probability was too low
+ACBP	no match	probability was too low
+AMГ	no match	probability was too low
+Apc.Cyx.Ст.сп.	no match	probability was too low
+Apx.Стр.	no match	probability was too low
+BМЧ	no match	probability was too low
+Bocт.	no match	probability was too low
+Boct.	no match	probability was too low
+Eфр. корм.	no match	probability was too low
+Emundo. Лекс. словен.лат.	no match	probability was too low
+Gr. Naz.	no match	probability was too low
+Herb.	no match	probability was too low
+ibid.	no match	probability was too low
+Kн.pacx.Kиp.м.	no match	probability was too low
+Koзмa Инд.	no match	probability was too low
+Lnd.	no match	probability was too low
+Lud.	no match	probability was too low
+Lud.1	no match	probability was too low
+Mин. сент.	no match	probability was too low
+Mус.-Пушк. сб.	no match	probability was too low
+Mikl. Lex.	no match	probability was too low
+Monumenta linguae slavicae	no match	probability was too low
+Ocтp. ев.	no match	probability was too low
+P. Джемс. Словарь	no match	probability was too low
+P. Джемс.Словарь	no match	probability was too low
+PG	no match	probability was too low
+RB	no match	probability was too low
+S?. Stp.	no match	probability was too low
+SJS	no match	probability was too low
+Sl. jaz. starosl.	no match	probability was too low
+SLS	no match	probability was too low
+SLS I, 111	no match	probability was too low
+SLS.	no match	probability was too low
+Tам же	no match	probability was too low
+Taм же	no match	probability was too low
+X. Варс.	no match	probability was too low
+X. Вас. Гаг.	no match	probability was too low
+X. Вас. Познякова	no match	probability was too low
+X. Грефения	no match	probability was too low
+X. Зос.	no match	probability was too low
+X. Ио. Бог.	no match	probability was too low
+X. Ио. Бог. (Амф.)	no match	probability was too low
+X. Ионы Мал.	no match	probability was too low
+X. Котова	no match	probability was too low
+X. Котова1	no match	probability was too low
+X. Стеф. Новг.	no match	probability was too low
+X. Тр. Короб.	no match	probability was too low
+X. Тр. Короб. (вар.)	no match	probability was too low
+X.Котова	no match	probability was too low
