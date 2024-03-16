@@ -1,4 +1,4 @@
-# Dictionary-of-the-Russian-language-of-XI-XVII-centuries
+# Dictionary of the Russian language of XI-XVII centuries
 
 Гитхаб онлайн-версии [Словаря русского языка XI–XVII веков](https://)
 
