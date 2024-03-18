@@ -59,6 +59,10 @@ docker-compose down && docker-compose build --no-cache && docker-compose up -d
 Сайт по адресу: http://127.0.0.1:15555
 
 
+**Upd:**
+
+Добавлено разное форматирование текста на странице со словарными статьями.
+
 
 
 
