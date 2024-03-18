@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %}</title>
+    <link rel="stylesheet" type="text/css" href="../static/bootstrap-5.0.0-beta1-dist/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md">
+        <a class="navbar-brand" href="#">Словарь русского языка XI–XVII веков </a>
+        <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#main-navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="main-navigation">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Главная</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/search1">Поиск по словарю</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/source_search">Поиск по источникам</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/full_list">Заголовочные формы</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/e_main_page">ENG</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+
+<div style="font-family:'Dosis'">
+
+       {% block content %} {% endblock %}
+
+</div>
+</body>
+</html>

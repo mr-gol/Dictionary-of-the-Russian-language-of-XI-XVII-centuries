@@ -1,0 +1,16 @@
+{% extends 'e_base.html' %}
+
+{% block title %}
+
+    word entry
+
+{% endblock %}
+
+{% block content %}
+<div class="px-6" style="margin: 20px;">
+{%for line in word%}
+<p>{{line}}</p>
+{%endfor%}
+
+{% endblock %}
+</div>

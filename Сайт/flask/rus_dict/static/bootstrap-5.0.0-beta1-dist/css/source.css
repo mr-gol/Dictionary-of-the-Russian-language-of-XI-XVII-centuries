@@ -1,0 +1,263 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    background:#a65238;
+}
+.nav-link,
+.navbar-brand {
+    color: #d4ceb0;
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: #e8e3c7;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.text-white1 {
+	color: #d4ceb0;
+	margin-left: 1em;
+}
+
+.text-white2 {
+	color: #d4ceb0;
+	background: #b85b3f;
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+}
+
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 72px);
+  padding-bottom: 7rem;
+  background: linear-gradient(45deg, #b85b3f, #a65238);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  color: #d4ceb0;
+}
+header.masthead .masthead-content {
+  z-index: 1;
+  position: relative;
+}
+header.masthead .masthead-content .masthead-heading {
+  font-size: 4rem;
+  color: #e8e3c7;
+}
+header.masthead .masthead-content .masthead-subheading {
+  font-size: 2rem;
+  color: #e8e3c7;
+}
+
+body {
+    background-color: #e8e3c7;
+}
+
+.text-center {
+  text-align: center !important;
+}
+.my-5 {
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+}
+
+.px-6 {
+    color: #a65238;
+}
+
+.multiselect {
+  width: 100%;
+}
+
+.container-fluid{
+  width: 100%;
+
+}
+.selectBox {
+  position: relative;
+}
+
+.selectBox select {
+  width: 100%;
+}
+
+.overSelect {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#mySelectOptions {
+  display: none;
+  border: 0.5px #7c7c7c solid;
+  background-color: #ffffff;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+
+#mySelectOptions label {
+  display: block;
+  font-weight: normal;
+  display: block;
+  white-space: nowrap;
+  min-height: 1.2em;
+  background-color: #ffffff00;
+  padding: 0 2.25rem 0 .75rem;
+  /* padding: .375rem 2.25rem .375rem .75rem; */
+}
+
+#mySelectOptions label:hover {
+  background-color: #1e90ff;
+}
+
+.multiselect2 {
+  width: 100%;
+}
+
+.selectBox2 {
+  position: relative;
+}
+
+.selectBox2 select {
+  width: 100%;
+}
+
+.overSelect2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#mySelectOptions2 {
+  display: none;
+  border: 0.5px #7c7c7c solid;
+  background-color: #ffffff;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+
+#mySelectOptions2 label {
+  display: block;
+  font-weight: normal;
+  display: block;
+  white-space: nowrap;
+  min-height: 1.2em;
+  background-color: #ffffff00;
+  padding: 0 2.25rem 0 .75rem;
+  /* padding: .375rem 2.25rem .375rem .75rem; */
+}
+
+#mySelectOptions2 label:hover {
+  background-color: #1e90ff;
+}
+
+.multiselect3 {
+  width: 100%;
+}
+
+.selectBox3 {
+  position: relative;
+}
+
+.selectBox3 select {
+  width: 100%;
+}
+
+.overSelect3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#mySelectOptions3 {
+  display: none;
+  border: 0.5px #7c7c7c solid;
+  background-color: #ffffff;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+
+#mySelectOptions3 label {
+  display: block;
+  font-weight: normal;
+  display: block;
+  white-space: nowrap;
+  min-height: 1.2em;
+  background-color: #ffffff00;
+  padding: 0 2.25rem 0 .75rem;
+  /* padding: .375rem 2.25rem .375rem .75rem; */
+}
+
+#mySelectOptions3 label:hover {
+  background-color: #1e90ff;
+}
+
+.multiselect4 {
+  width: 100%;
+}
+
+.selectBox4 {
+  position: relative;
+}
+
+.selectBox4 select {
+  width: 100%;
+}
+
+.overSelect4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#mySelectOptions4 {
+  display: none;
+  border: 0.5px #7c7c7c solid;
+  background-color: #ffffff;
+  max-height: 150px;
+  overflow-y: scroll;
+}
+
+#mySelectOptions4 label {
+  display: block;
+  font-weight: normal;
+  display: block;
+  white-space: nowrap;
+  min-height: 1.2em;
+  background-color: #ffffff00;
+  padding: 0 2.25rem 0 .75rem;
+  /* padding: .375rem 2.25rem .375rem .75rem; */
+}
+
+#mySelectOptions4 label:hover {
+  background-color: #1e90ff;
+}
+
+.button {
+  background-color: #a65238;
+  text-align: left;
+  position: absolute;
+  height: 50px;
+  left: 2.5%;
+  bottom: 5%;
+  width: 200px;
+  margin-left: -10px;
+  border-color: #555 transparent transparent transparent;
+  border-radius: 8px;
+}
