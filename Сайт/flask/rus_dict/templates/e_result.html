@@ -1,0 +1,25 @@
+{% extends 'e_base.html' %}
+
+{% block title %}
+
+    result
+
+{% endblock %}
+
+{% block content %}
+<div >
+<div id="main">
+    <div class="px-6" style="margin: 20px;">
+     {{words_list|length}} entries were found:
+    </div>
+</div>
+<br/>
+
+{% for i in range(0, words_list|length) %}
+<div id="up"><b>
+    <a href="e_result/{{ words_list[i] }}" style="color: #577EA3; font-family:'Rockwell'; margin: 30px; font-weight: 400;">{{ i+1}}. {{ words_list[i] }}</a></b></div>
+</div>
+    {% endfor %}
+
+
+{% endblock %}

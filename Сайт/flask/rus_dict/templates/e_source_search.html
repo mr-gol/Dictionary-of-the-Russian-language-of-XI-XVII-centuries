@@ -1,0 +1,97 @@
+{% extends 'e_base.html' %}
+
+{% block title %}
+
+    source search
+
+{% endblock %}
+
+{% block content %}
+<div style="margin: 20px;">
+<form method=POST action="{{ url_for('search_txt') }}">
+<div class="container-fluid">
+  <label class="col-md-4 control-label" for="source_name" style="font-weight:bold">Title</label>
+  <div class="col-md-4">
+  <input id="source_name" name="source_name" type="text" class="form-control input-md">
+
+  </div>
+</div>
+
+<div class="container" style="margin: 20px">
+        <div class="column">
+            <div class="container-fluid">
+              <div class="form-group col-sm-8" style="margin: 20px">
+                <label for="myMultiselect2" style="font-weight:bold; margin-left: -50px">Source type</label>
+                <div id="myMultiselect2" class="multiselect2" style="margin-left: -50px">
+                  <div id="mySelectLabel2" class="selectBox2" onclick="toggleCheckboxArea2()">
+                    <!--<select class="form-select">
+                        <option>Nothing is selected</option>
+                    </select> -->
+                    <div class="overSelect2"></div>
+                  </div>
+                  <div id="mySelectOptions2">
+                    <label for="thirteen"><input name="source_translate" type="checkbox" id="thirteen" onchange="checkboxStatusChange2()" value=1 /> translated&nbsp;&nbsp;&nbsp;</label>
+                    <label for="fourteen"><input name="source_non_translate" type="checkbox" id="fourteen" onchange="checkboxStatusChange2()" value=0 /> not translated</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <div class="form-group col-sm-8">
+                <label for="myMultiselect4" style="font-weight:bold">Source genre</label>
+                <div id="myMultiselect4" class="multiselect4">
+                  <div id="mySelectLabel4" class="selectBox4" onclick="toggleCheckboxArea4()">
+                    <!--<select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select> -->
+                    <div class="overSelect4"></div>
+                  </div>
+                  <div id="mySelectOptions4">
+                    <label for="ab"><input name="source_genre" type="checkbox" id="ab" onchange="checkboxStatusChange4()" value="Bib" /> The Bible and Apocrypha&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ac"><input name="source_genre" type="checkbox" id="ac" onchange="checkboxStatusChange4()" value="Bog" /> Theology&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ad"><input name="source_genre" type="checkbox" id="ad" onchange="checkboxStatusChange4()" value="Gomilet" /> Homiletics&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ae"><input name="source_genre" type="checkbox" id="ae" onchange="checkboxStatusChange4()" value="Agiogr" /> Hagiography&nbsp;&nbsp;&nbsp;</label>
+                    <label for="af"><input name="source_genre" type="checkbox" id="af" onchange="checkboxStatusChange4()" value=Pov" /> Novellas and belles-lettres&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ag"><input name="source_genre" type="checkbox" id="ag" onchange="checkboxStatusChange4()" value="Litur" /> Liturgics&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ah"><input name="source_genre" type="checkbox" id="ah" onchange="checkboxStatusChange4()" value="Epi" /> Epistolography&nbsp;&nbsp;&nbsp;</label>
+                    <label for="aj"><input name="source_genre" type="checkbox" id="aj" onchange="checkboxStatusChange4()" value="Letop" /> Chronicle (Letopis)&nbsp;&nbsp;&nbsp;</label>
+                    <label for="ak"><input name="source_genre" type="checkbox" id="ak" onchange="checkboxStatusChange4()" value="Hron" /> Chronicle and chronography&nbsp;&nbsp;&nbsp;</label>
+                    <label for="al"><input name="source_genre" type="checkbox" id="al" onchange="checkboxStatusChange4()" value="Docum" /> Documents&nbsp;&nbsp;&nbsp;</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+    <div class="container-fluid" style="margin-left: -30px">
+              <div class="form-group col-sm-8">
+                <label for="myMultiselect3" style="font-weight:bold">Language of the original</label>
+                <div id="myMultiselect3" class="multiselect3">
+                    <!-- <div id="mySelectLabel3" class="selectBox3" onclick="toggleCheckboxArea3()"> -->
+
+                      <div id="mySelectLabel3" class="selectBox3">
+                          <!-- <select class="form-select"> -->
+                    <!--  <select class="form-select">
+                      <option>The source is not translated</option>
+                    </select>-->
+                    <div class="overSelect3"></div>
+                  </div>
+                  <div id="mySelectOptions3">
+                    <label for="fiteen"><input name="source_language" type="checkbox" id="fiteen" onchange="checkboxStatusChange3()" value="0" /> Greek &nbsp;&nbsp;</label>
+                    <label for="sixteen"><input name="source_language" type="checkbox" id="sixteen" onchange="checkboxStatusChange3()" value="1" /> Latin&nbsp;&nbsp;</label>
+                    <label for="seventeen"><input name="source_language" type="checkbox" id="seventeen" onchange="checkboxStatusChange3()" value="2" /> German&nbsp;&nbsp;</label>
+                    <label for="eighteen"><input name="source_language" type="checkbox" id="eighteen" onchange="checkboxStatusChange3()" value="19" /> Polish&nbsp;&nbsp;</label>
+                    <label for="nineteen"><input name="source_language" type="checkbox" id="nineteen" onchange="checkboxStatusChange3()" value="3" /> Czech&nbsp;&nbsp;</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+</div>
+    <button type="submit" class="botr">Search</button>
+    </form>
+
+</div>
+
+
+{% endblock %}

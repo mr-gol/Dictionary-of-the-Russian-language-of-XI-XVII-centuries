@@ -1,0 +1,48 @@
+{% extends 'e_base.html' %}
+
+{% block title %}
+
+    full list
+
+{% endblock %}
+
+{% block content %}
+<form method=POST>
+        <f method=POST action="{{ url_for('search_wrd') }}">
+
+    <a class="active"><button type="submit" class="botr" value="а*" id="Word mask" name="mask">А</button></a>
+            <a class="active"><a href="result"><button type="submit" class="botr" value="б*" id="Word mask" name="mask">Б</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="в*" id="Word mask" name="mask">В</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="г*" id="Word mask" name="mask">Г</button><span class="sr-only">(current)</span></a></a>
+<a class="active"><a href="result"><button type="submit" class="botr" value="д*" id="Word mask" name="mask">Д</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="Е*" id="Word mask" name="mask">Е</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="Ё*" id="Word mask" name="mask">Ё</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="ж*" id="Word mask" name="mask">Ж</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="з*" id="Word mask" name="mask">З</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="и*" id="Word mask" name="mask">И</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="к*" id="Word mask" name="mask">К</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="л*" id="Word mask" name="mask">Л</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="м*" id="Word mask" name="mask">М</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="н*" id="Word mask" name="mask">Н</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="о*" id="Word mask" name="mask">О</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="п*" id="Word mask" name="mask">П</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="р*" id="Word mask" name="mask">Р</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="с*" id="Word mask" name="mask">С</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="т*" id="Word mask" name="mask">Т</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="у*" id="Word mask" name="mask">У</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="ф*" id="Word mask" name="mask">Ф</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="х*" id="Word mask" name="mask">Х</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="ц*" id="Word mask" name="mask">Ц</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="ч*" id="Word mask" name="mask">Ч</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="Ш*" id="Word mask" name="mask">Ш</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="Щ*" id="Word mask" name="mask">Щ</button><span class="sr-only">(current)</span></a></a>
+            <a class="active"><a href="result"><button type="submit" class="botr" value="ю*" id="Word mask" name="mask">Ю</button><span class="sr-only">(current)</span></a></a>
+    <a class="active"><a href="result"><button type="submit" class="botr" value="я*" id="Word mask" name="mask">Я</button><span class="sr-only">(current)</span></a></a>
+
+
+            </f>
+    </form>
+</div>
+</div>
+
+{% endblock %}
