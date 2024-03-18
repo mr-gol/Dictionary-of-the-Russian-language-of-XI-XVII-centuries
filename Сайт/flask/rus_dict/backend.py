@@ -15,6 +15,7 @@ def search_query(search_tables, conditions): #ищет заголовочные 
     #print(sql_string)
     cursor.execute(sql_string)
     res = cursor.fetchall()
+
     words = []  # список всех найденных head слов
     for word in res:
         words.append(str(word[0]))
