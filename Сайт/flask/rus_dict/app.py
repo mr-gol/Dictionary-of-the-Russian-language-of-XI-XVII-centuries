@@ -3,7 +3,6 @@ from flask import Flask, redirect, url_for, request, render_template
 from backend import join_search_tables, join_search_conditions, search_query, load_page, resource_genre
 import sqlite3 as sqlite
 import os
-from flask_paginate import Pagination, get_page_parameter
 
 
 app = Flask(__name__)
@@ -119,10 +118,7 @@ def search_txt():
             else:
                 if p_value[0] != '':
                     query.append([parameter, p_value])
-                #break
-            #except sqlite3.OperationalError:
-            #except Exception:
-                #return render_template('error.html')
+
 
         print(f"query: {query}")
         # если есть еще условия кроме жанра
