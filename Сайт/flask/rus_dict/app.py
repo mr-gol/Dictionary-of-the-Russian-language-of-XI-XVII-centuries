@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
-from flask import Flask, redirect, url_for, request, render_template
+from flask import Flask, redirect, url_for, request, render_template, send_from_directory
 from backend import join_search_tables, join_search_conditions, search_query, load_page, resource_genre
 import sqlite3 as sqlite
 import os
 
-
 app = Flask(__name__)
+
+@app.route ('/favicon.ico')
+def favicon():
+         return send_from_directory("static/images/favicon.png")
 
 def names():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
