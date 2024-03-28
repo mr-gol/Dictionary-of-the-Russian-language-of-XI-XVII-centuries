@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+    full list
+
+{% endblock %}
+
+{% block content %}
+
+
+    <form method=POST>
+        <f method=POST action="{{ url_for('search_wrd') }}">
+            <div class="grid-container">
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="а*" id="Word_mask1" name="mask">А</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="б*" id="Word_mask2" name="mask">Б</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="в*" id="Word_mask3" name="mask">В</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="г*" id="Word_mask4" name="mask">Г</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="д*" id="Word_mask5" name="mask">Д</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Е*" id="Word_mask6" name="mask">Е</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Ѣ*" id="Word_mask7" name="mask">Ѣ</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="ж*" id="Word_mask8" name="mask">Ж</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="з*" id="Word_mask9" name="mask">З</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Ѕ*" id="Word_mask10" name="mask">Ѕ</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="и*" id="Word_mask11" name="mask">И</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="к*" id="Word_mask11" name="mask">К</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="л*" id="Word_mask12" name="mask">Л</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="м*" id="Word_mask13" name="mask">М</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="н*" id="Word_mask14" name="mask">Н</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="о*" id="Word_mask15" name="mask">О</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="п*" id="Word_mask16" name="mask">П</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="р*" id="Word_mask17" name="mask">Р</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="с*" id="Word_mask18" name="mask">С</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="т*" id="Word_mask19" name="mask">Т</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="у*" id="Word_mask20" name="mask">У</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Ѫ*" id="Word_mask20" name="mask">Ѫ</button><span class="sr-only">(current)</span></a></a></div>
+
+                <!--<div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="ф*" id="Word_mask21" name="mask">Ф</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="х*" id="Word_mask22" name="mask">Х</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="ц*" id="Word_mask23" name="mask">Ц</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="ч*" id="Word_mask24" name="mask">Ч</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Ш*" id="Word_mask25" name="mask">Ш</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="Щ*" id="Word_mask26" name="mask">Щ</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="ю*" id="Word_mask27" name="mask">Ю</button><span class="sr-only">(current)</span></a></a></div>
+                <div class="grid-item"><a class="active"><a href="result"><button type="submit" class="botr" value="я*" id="Word_mask28" name="mask">Я</button><span class="sr-only">(current)</span></a></a></div>-->
+            </div>
+        </f>
+    </form>
+
+
+{% endblock %}

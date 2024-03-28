@@ -1,0 +1,319 @@
+{% extends 'base.html' %}
+
+{% block title %}
+
+    search1
+
+{% endblock %}
+
+{% block content %}
+
+<div class="px-6" style="margin: 20px;">
+<form method=POST>
+    <div class="column">
+        <f method=POST action="{{ url_for('search_wrd') }}">
+            <br>
+            <div class="popup" onclick="InfoPopup()">
+                <!--<span class="popuptext" id="myPopup"><font size="5" color="#577EA3">Информация:</font></span>
+                <br>
+                <br>-->
+              <span class="popuptext" id="myPopup"><font size="4" color="#577EA3">{{_('В данной версии поиска Вы можете заполнить только одно из следующих трех полей. В случае, если Вы попробуете, к примеру, совершить поиск, заполнив поля "Поиск по заголовочному слову" и "Поиск по маске", Ваш поиск не увенчается успехом.') }}</font></span>
+            </div>
+            <br>
+
+
+            <div class="container-fluid" style="margin-left: -30px">
+                  <label class="col-md-4 control-label" for="Title word" style="font-weight:bold">{{_('Поиск по заголовочному слову') }}</label>
+                  <div class="col-md-5">
+                  <input id="Title word" name="head" type="text" class="form-control input-md">
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-5 control-label" for="Word mask" style="font-weight:bold;">{{_('Поиск по маске') }}</label>
+              <div class="col-md-5">
+              <input id="Word mask" name="mask" type="text" placeholder="{{ _('\'_\' - любой символ; \'*\' - любое количество любых символов') }}" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-5 control-label" for="Word form" style="font-weight:bold">{{_('Поиск по форме') }}</label>
+              <div class="col-md-5">
+              <input id="Word form" name="form" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-5 control-label" for="example_quote" style="font-weight:bold">{{_('Поиск по примерам')}}</label>
+              <div class="col-md-5">
+              <input id="example_quote" name="example_quote" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-5 control-label" for="idiom" style="font-weight:bold">{{_('Поиск по зоне фразеологии')}}</label>
+              <div class="col-md-5">
+              <input id="idiom" name="idiom" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-4 control-label" for="definition" style="font-weight:bold">{{_('Поиск по элементам толкования')}}</label>
+              <div class="col-md-4">
+              <input id="definition" name="definition" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+             <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-4 control-label" for="gloss" style="font-weight:bold">{{_('Поиск по глоссам')}}</label>
+              <div class="col-md-4">
+              <input id="gloss" name="gloss" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+            <br>
+            <br>
+
+            <div class="container-fluid" style="margin-left: -30px">
+              <label class="col-md-4 control-label" for="etymology" style="font-weight:bold">{{_('Поиск по этимологии')}}</label>
+              <div class="col-md-4">
+              <input id="etymology" name="etymology" type="text" class="form-control input-md">
+
+              </div>
+            </div>
+        </f>
+    </div>
+    <br>
+            <br>
+
+        <div class="column" style="margin-left: -10px">
+    <!-- Select Basic -->
+              <div class="container-fluid">
+                <label for="pos" class="multiselect" style="font-weight:bold">{{_('Часть речи')}}</label>
+                <div id="pos" class="multiselect">
+                  <div id="mySelectLabel" class="selectBox" onclick="toggleCheckboxArea()">
+                    <!-- <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+                    <div class="overSelect"></div>
+                  </div>
+                  <div id="mySelectOptions">
+                    <label for="three"><input name="pos" type="checkbox" id="three" onchange="checkboxStatusChange()" value="NOUN" /> {{_('существительное')}}&nbsp;&nbsp;</label>
+                    <label for="four"><input name="pos" type="checkbox" id="four" onchange="checkboxStatusChange()" value="ADJ" /> {{_('прилагательное')}}&nbsp;&nbsp;</label>
+                    <label for="five"><input name="pos" type="checkbox" id="five" onchange="checkboxStatusChange()" value="VERB" /> {{_('глагол')}}&nbsp;&nbsp;</label>
+                    <label for="six"><input name="pos" type="checkbox" id="six" onchange="checkboxStatusChange()" value="ADV" /> {{_('наречие')}}&nbsp;&nbsp;</label>
+                    <label for="eight"><input name="pos" type="checkbox" id="eight" onchange="checkboxStatusChange()" value="number" /> {{_('числительное')}}&nbsp;&nbsp;</label>
+                      <!--
+                       <label for="seven"><input type="checkbox" id="seven" onchange="checkboxStatusChange()" value="С" /> союз</label>
+                    <label for="nine"><input type="checkbox" id="nine" onchange="checkboxStatusChange()" value="Ч" /> частица</label>
+                    <label for="ten"><input type="checkbox" id="ten" onchange="checkboxStatusChange()" value="Межд" /> междометие</label>
+                    <label for="eleven"><input type="checkbox" id="eleven" onchange="checkboxStatusChange()" value="Мест" /> местоимение</label>
+                    <label for="twelve"><input type="checkbox" id="twelve" onchange="checkboxStatusChange()" value="Предл" /> предлог</label>
+                       -->
+
+                  </div>
+                </div>
+              </div>
+            <br>
+
+            <div class="container-fluid">
+                <label for="myMultiselect5" class="multiselect5" style="font-weight:bold">{{_('Число')}}</label>
+                <div id="myMultiselect5" class="multiselect5">
+                  <div id="mySelectLabel5" class="selectBox5" onclick="toggleCheckboxArea5()">
+                    <!-- <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+                    <div class="overSelect5"></div>
+                  </div>
+                  <div id="mySelectOptions5">
+                    <label for="sg"><input name="number" type="checkbox" id="sg" onchange="checkboxStatusChange5()" value="sg" /> {{_('единственное')}}&nbsp;&nbsp;</label>
+                    <label for="pl"><input name="number" type="checkbox" id="pl" onchange="checkboxStatusChange5()" value="pl" /> {{_('множественное')}}&nbsp;&nbsp;</label>
+                      <label for="dual"><input name="number" type="checkbox" id="dual" onchange="checkboxStatusChange5()" value="dual" /> {{_('двойственное')}}</label>
+                  </div>
+                </div>
+            </div>
+            <br>
+
+            <div class="container-fluid">
+                <label for="myMultiselect6" class="multiselect6" style="font-weight:bold" >{{_('Род')}}</label>
+                <div id="myMultiselect6" class="multiselect6">
+                  <div id="mySelectLabel6" class="selectBox6" onclick="toggleCheckboxArea6()">
+                    <!-- <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+                    <div class="overSelect6"></div>
+                  </div>
+                  <div id="mySelectOptions6">
+                    <label for="f"><input name="gender" type="checkbox" id="f" onchange="checkboxStatusChange6()" value="ж" /> {{_('женский')}}&nbsp;&nbsp;</label>
+                    <label for="m"><input name="gender" type="checkbox" id="m" onchange="checkboxStatusChange6()" value="м" /> {{_('мужской')}}&nbsp;&nbsp;</label>
+                    <label for="g"><input name="gender" type="checkbox" id="g" onchange="checkboxStatusChange6()" value="с" /> {{_('средний')}}</label>
+                  </div>
+                </div>
+            </div>
+            <br>
+
+            <div class="container-fluid">
+                <label for="myMultiselect7" class="multiselect6" style="font-weight:bold">{{_('Степень')}}</label>
+                <div id="myMultiselect7" class="multiselect7">
+                  <div id="mySelectLabel7" class="selectBox7" onclick="toggleCheckboxArea7()">
+                    <!-- <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+                    <div class="overSelect7"></div>
+                  </div>
+                  <div id="mySelectOptions7">
+                    <label for="comp"><input name="degree" type="checkbox" id="comp" onchange="checkboxStatusChange7()" value="comp" /> {{_('сравнительная')}}</label>
+                      <!--
+                       <label for="super"><input type="checkbox" id="super" onchange="checkboxStatusChange7()" value="прев" /> превосходная</label>
+                    <label for="pos"><input type="checkbox" id="pos" onchange="checkboxStatusChange7()" value="пол" /> положительная</label>
+                       -->
+
+                  </div>
+                </div>
+            </div>
+            <br>
+
+
+            <div class="container-fluid" >
+                <label for="myMultiselect8" class="multiselect8" style="font-weight:bold">{{_('Вид')}}</label>
+                <div id="myMultiselect8" class="multiselect8">
+                  <div id="mySelectLabel8" class="selectBox8" onclick="toggleCheckboxArea8()">
+                    <!--<select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+
+                    <div class="overSelect8"></div>
+                  </div>
+                  <div id="mySelectOptions8">
+                    <label for="sh"><input name="aspect" type="checkbox" id="sh" onchange="checkboxStatusChange8()" value="сов." /> {{_('совершенный')}} &nbsp;&nbsp;</label>
+                    <label for="lg"><input name="aspect" type="checkbox" id="lg" onchange="checkboxStatusChange8()" value="несов." /> {{_('несовершенный')}}</label>
+                  </div>
+                </div>
+            </div>
+            <br>
+
+<!--
+             <div class="container-fluid">
+                <label for="myMultiselect9" class="multiselect9" style="font-weight:bold">Краткая форма</label>
+                <div id="myMultiselect9" class="multiselect9">
+                  <div id="mySelectLabel9" class="selectBox9" onclick="toggleCheckboxArea9()">
+                     <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+
+                    <div class="overSelect9"></div>
+                  </div>
+                  <div id="mySelectOptions9">
+                    <label for="y"><input type="checkbox" id="y" onchange="checkboxStatusChange9()" value="да" /> да &nbsp;&nbsp;</label>
+                    <label for="n"><input type="checkbox" id="n" onchange="checkboxStatusChange9()" value="нет" /> нет</label>
+                  </div>
+                </div>
+            </div>
+            <br>
+ -->
+
+
+
+
+            <div class="container-fluid">
+                <label for="myMultiselect0" class="multiselect0" style="font-weight:bold"> {{_('Тип парадигмы')}}</label>
+                <div id="myMultiselect0" class="multiselect0">
+                  <div id="mySelectLabel0" class="selectBox0" onclick="toggleCheckboxArea0()">
+                    <!-- <select class="form-select">
+                      <option>Nothing is selected</option>
+                    </select>
+                    -->
+                    <div class="overSelect0"></div>
+                  </div>
+                  <div id="mySelectOptions0">
+                    <label for="one"><input name="iType" type="checkbox" id="one" onchange="checkboxStatusChange0()" value="нескл." /> {{_('нескл.')}} &nbsp; &nbsp;</label>
+
+                    <label for="two"><input name="iType" type="checkbox" id="two" onchange="checkboxStatusChange0()" value="неизм." /> {{_('неизм.')}}    </label>
+                  </div>
+                </div>
+            </div>
+
+
+
+    </div>
+
+<br>
+
+            <div class="column" style="margin-left: -30px">
+            <div class="container-fluid" style="margin-left: -10px">
+              <div class="form-group col-sm-8">
+                  <label class="col-md-4 control-label" for="example_date_start_y" style="font-weight:bold">{{_('Дата написания (период в годах)')}} </label>
+                      <div class="col-md-4">
+                      {{_('Не раньше:')}} <input id="example_date_start_y" name="example_date_start_y" type="number" class="form-control input-md 1">
+                          <br>
+                          {{_('Не позже:')}} <input id="example_date_end_y" name="example_date_end_y" type="number" class="form-control input-md 2">
+                      </div>
+              </div>
+            </div>
+                <br>
+
+
+            <div class="container-fluid" style="margin: 5px;">
+              <div class="form-group col-sm-8">
+                <label for="example_date_start_c" style="font-weight:bold">{{_('Дата написания в веках не раньше:')}} </label>
+                    <select name="example_date_start_c" id="example_date_start_c">
+                        <option></option>
+                      <option value=11>XI</option>
+                      <option value=12>XII</option>
+                      <option value=13>XIII</option>
+                      <option value=14>XIV</option>
+                      <option value=15>XV</option>
+                      <option value=16>XVI</option>
+                      <option value=17>XVII</option>
+                    </select>
+              </div>
+            </div>
+                <br>
+
+
+            <div class="container-fluid" style="margin: 5px;">
+              <div class="form-group col-sm-8">
+                <label for="example_date_end_c" style="font-weight:bold">{{_('Дата написания в веках не позже:')}} </label>
+                    <select name="example_date_end_c" id="example_date_end_c">
+                        <option></option>
+                      <option value=11>XI</option>
+                      <option value=12>XII</option>
+                      <option value=13>XIII</option>
+                      <option value=14>XIV</option>
+                      <option value=15>XV</option>
+                      <option value=16>XVI</option>
+                      <option value=17>XVII</option>
+                        <option value=18>XVIII</option>
+                    </select>
+              </div>
+            </div>
+            </div>
+            <button type="submit" class="botr">{{_('Искать')}}</button>
+            </form>
+</div>
+
+
+
+{% endblock %}

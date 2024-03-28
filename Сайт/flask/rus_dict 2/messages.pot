@@ -1,0 +1,387 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-03-24 21:51+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: templates/base.html:11
+msgid "Словарь русского языка XI–XVII веков "
+msgstr ""
+
+#: templates/base.html:18 templates/main_page.html:18
+msgid "Главная"
+msgstr ""
+
+#: templates/base.html:21 templates/main_page.html:21
+msgid "Поиск по словарю"
+msgstr ""
+
+#: templates/base.html:24 templates/main_page.html:24
+msgid "Поиск по источникам"
+msgstr ""
+
+#: templates/base.html:27 templates/main_page.html:27
+msgid "Заголовочные формы"
+msgstr ""
+
+#: templates/error.html:14
+msgid "Ошибка поиска."
+msgstr ""
+
+#: templates/error.html:17
+msgid "Возможно, Вы ввели не все нужные данные."
+msgstr ""
+
+#: templates/main_page.html:44
+msgid "Словарь русского языка XI–XVII веков"
+msgstr ""
+
+#: templates/main_page.html:45
+msgid ""
+"База данных словаря, переведенная в цифровой формат. Теперь Вы можете "
+"искать информацию из словаря онлайн! "
+msgstr ""
+
+#: templates/main_page.html:49
+msgid "поиск"
+msgstr ""
+
+#: templates/main_page.html:50
+msgid "поиск по источникам "
+msgstr ""
+
+#: templates/main_page.html:56
+msgid "О проекте"
+msgstr ""
+
+#: templates/main_page.html:57
+msgid ""
+"Словарь русского языка XI–XVII вв., создаваемый в Институте русского "
+"языка им. В.В. Виноградова РАН с 1975 г., является универсальным словарем"
+" письменной культуры русского Средневековья. К источникам словаря "
+"принадлежат памятники самого широкого жанрового и хронологического "
+"диапазона: бытовая и деловая письменность, повествовательная литература, "
+"летописи, хожения и путевые заметки, агиография, гимнографические и "
+"богословские сочинения, библейские тексты. Среди них как оригинальные "
+"славянские тексты, так и переводы с греческого, латинского, "
+"древнееврейского, польского, германских языков."
+msgstr ""
+
+#: templates/main_page.html:59
+msgid ""
+"Идея создания исторического словаря русского языка принадлежит А. И. "
+"Соболевскому, положившему в середине – второй половине 1920-х гг. начало "
+"картотеке словаря. В настоящее время работа над словарем продолжается. В "
+"2023 г. вышел из печати 32 выпуск, таким образом, словарь охватывает "
+"слова, начинающиеся на буквы А — У. В дополнение к основным томам "
+"отдельно опубликованы Справочный том (включает историю создания Картотеки"
+" и Словаря, указатель источников и обратный словник выпусков 1–25), "
+"Справочные материалы (включают обновленный указатель источников и словник"
+" 1–31 выпусков) и Дополнения и исправления к первому выпуску (алфавитный "
+"отрезок А–Б)."
+msgstr ""
+
+#: templates/main_page.html:61
+msgid ""
+"Проект дигитализации словаря инициирован редакторами словаря Я. А. "
+"Пеньковой, Р. Н. Кривко и М. И. Чернышевой и ведется в сотрудничестве "
+"группы «Словаря русского языка XI–XVII вв.» ИРЯ РАН и Школы лингвистики "
+"НИУ ВШЭ. Участники проекта: Я. А. Пенькова, Р. Н. Кривко, М. А. "
+"Бобрик-Фремке, М. И. Чернышева, М. О. Новак, З. Е. Оборнева, А. Е. "
+"Соболева, В. К. Скрипка, Н. П. Иордани, Н. А. Кулева, О. Н. Ляшевская, Д."
+" В. Сичинава, Елена Сокур, Валерия Морозова, Анна Запорощенко, Мария "
+"Николаенкова, Яна Шишкина, Филипп Бурлаков, Варвара Васильева, Теодор "
+"Дудий, Елена Зайцева, Ксения Лапшина, Светлана Майорова, Дарья Мороз, "
+"Мария Островская, Ирина Провлоцкая, Мария Родина, Альмира Самигуллина, "
+"Татьяна Симонова, Алина Хургес, Ксения Шерман, Оксана Ковалева, Стефан "
+"Ребриков, Мария Голубцова, Анна Исаева, Иван Широков, Анна Александрова, "
+"Ирина Кочеткова."
+msgstr ""
+
+#: templates/main_page.html:63
+msgid ""
+"При использовании в работе данных словаря просим ссылаться на словарь "
+"следующими способами."
+msgstr ""
+
+#: templates/main_page.html:65
+msgid "Ссылка на полиграфическую версию словаря:"
+msgstr ""
+
+#: templates/main_page.html:67
+msgid "Словарь русского языка XI–XVII вв. Москва, «Наука», 1975–."
+msgstr ""
+
+#: templates/main_page.html:69
+msgid "Ссылка на онлайн-версию словаря:"
+msgstr ""
+
+#: templates/main_page.html:71
+msgid ""
+"Olga Lyashevskaya, Yana Penkova. Revised entries in the multi-volume "
+"edition and TEI encoding: a case of the historical dictionary of Russian."
+" In Proceedings of XIX EURALEX Congress: Lexicography for Inclusion Vol. "
+"II. Komotini, Greece: Democritus University of Thrace, 2021. P. 655-662."
+msgstr ""
+
+#: templates/main_page.html:73
+msgid "Github проекта"
+msgstr ""
+
+#: templates/result.html:12
+msgid "вхождений"
+msgstr ""
+
+#: templates/search1.html:20
+msgid ""
+"В данной версии поиска Вы можете заполнить только одно из следующих трех "
+"полей. В случае, если Вы попробуете, к примеру, совершить поиск, заполнив"
+" поля \"Поиск по заголовочному слову\" и \"Поиск по маске\", Ваш поиск не"
+" увенчается успехом."
+msgstr ""
+
+#: templates/search1.html:26
+msgid "Поиск по заголовочному слову"
+msgstr ""
+
+#: templates/search1.html:35
+msgid "Поиск по маске"
+msgstr ""
+
+#: templates/search1.html:37
+msgid "'_' - любой символ; '*' - любое количество любых символов"
+msgstr ""
+
+#: templates/search1.html:45
+msgid "Поиск по форме"
+msgstr ""
+
+#: templates/search1.html:55
+msgid "Поиск по примерам"
+msgstr ""
+
+#: templates/search1.html:65
+msgid "Поиск по зоне фразеологии"
+msgstr ""
+
+#: templates/search1.html:75
+msgid "Поиск по элементам толкования"
+msgstr ""
+
+#: templates/search1.html:85
+msgid "Поиск по глоссам"
+msgstr ""
+
+#: templates/search1.html:95
+msgid "Поиск по этимологии"
+msgstr ""
+
+#: templates/search1.html:109
+msgid "Часть речи"
+msgstr ""
+
+#: templates/search1.html:119
+msgid "существительное"
+msgstr ""
+
+#: templates/search1.html:120
+msgid "прилагательное"
+msgstr ""
+
+#: templates/search1.html:121
+msgid "глагол"
+msgstr ""
+
+#: templates/search1.html:122
+msgid "наречие"
+msgstr ""
+
+#: templates/search1.html:123
+msgid "числительное"
+msgstr ""
+
+#: templates/search1.html:138
+msgid "Число"
+msgstr ""
+
+#: templates/search1.html:148
+msgid "единственное"
+msgstr ""
+
+#: templates/search1.html:149
+msgid "множественное"
+msgstr ""
+
+#: templates/search1.html:150
+msgid "двойственное"
+msgstr ""
+
+#: templates/search1.html:157
+msgid "Род"
+msgstr ""
+
+#: templates/search1.html:167
+msgid "женский"
+msgstr ""
+
+#: templates/search1.html:168
+msgid "мужской"
+msgstr ""
+
+#: templates/search1.html:169
+msgid "средний"
+msgstr ""
+
+#: templates/search1.html:176
+msgid "Степень"
+msgstr ""
+
+#: templates/search1.html:186
+msgid "сравнительная"
+msgstr ""
+
+#: templates/search1.html:199
+msgid "Вид"
+msgstr ""
+
+#: templates/search1.html:210
+msgid "совершенный"
+msgstr ""
+
+#: templates/search1.html:211
+msgid "несовершенный"
+msgstr ""
+
+#: templates/search1.html:241
+msgid "Тип парадигмы"
+msgstr ""
+
+#: templates/search1.html:251
+msgid "нескл."
+msgstr ""
+
+#: templates/search1.html:253
+msgid "неизм."
+msgstr ""
+
+#: templates/search1.html:267
+msgid "Дата написания (период в годах)"
+msgstr ""
+
+#: templates/search1.html:269
+msgid "Не раньше:"
+msgstr ""
+
+#: templates/search1.html:271
+msgid "Не позже:"
+msgstr ""
+
+#: templates/search1.html:280
+msgid "Дата написания в веках не раньше:"
+msgstr ""
+
+#: templates/search1.html:298
+msgid "Дата написания в веках не позже:"
+msgstr ""
+
+#: templates/search1.html:313 templates/source_search.html:91
+msgid "Искать"
+msgstr ""
+
+#: templates/source_search.html:13
+msgid "Название"
+msgstr ""
+
+#: templates/source_search.html:24
+msgid "Тип источника"
+msgstr ""
+
+#: templates/source_search.html:33
+msgid "переводной"
+msgstr ""
+
+#: templates/source_search.html:34
+msgid "не переводной"
+msgstr ""
+
+#: templates/source_search.html:42
+msgid "Жанр источника"
+msgstr ""
+
+#: templates/source_search.html:51
+msgid "Библия и апокрифы"
+msgstr ""
+
+#: templates/source_search.html:52
+msgid "Богословие"
+msgstr ""
+
+#: templates/source_search.html:53
+msgid "Гомилетика"
+msgstr ""
+
+#: templates/source_search.html:54
+msgid "Агиография"
+msgstr ""
+
+#: templates/source_search.html:55
+msgid "Повести и беллетристика"
+msgstr ""
+
+#: templates/source_search.html:56
+msgid "Литургика"
+msgstr ""
+
+#: templates/source_search.html:57
+msgid "Эпистолография"
+msgstr ""
+
+#: templates/source_search.html:58
+msgid "Летопись"
+msgstr ""
+
+#: templates/source_search.html:59
+msgid "Хроника и хронография"
+msgstr ""
+
+#: templates/source_search.html:60
+msgid "Документы"
+msgstr ""
+
+#: templates/source_search.html:68
+msgid "Язык оригинала переводного источника"
+msgstr ""
+
+#: templates/source_search.html:80
+msgid "греческий "
+msgstr ""
+
+#: templates/source_search.html:81
+msgid "латынь"
+msgstr ""
+
+#: templates/source_search.html:82
+msgid "немецкий"
+msgstr ""
+
+#: templates/source_search.html:83
+msgid "польский"
+msgstr ""
+
+#: templates/source_search.html:84
+msgid "чешский"
+msgstr ""
+

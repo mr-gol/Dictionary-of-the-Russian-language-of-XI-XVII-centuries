@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    result
+{% endblock %}
+
+{% block content %}
+<div >
+
+<div id="main">
+    <div class="px-6" style="margin: 20px;">
+    {{('Всего найдено') if get_locale() == 'ru' else ('') }} {{total_words}} {{_('вхождений')}}:
+    </div>
+</div>
+
+<div class="word-list-container">
+    {% for i in range(0, words_list|length) %}
+    <div class="word-list-item"><b><a href="result/{{ words_list[i] }}" style="color: #577EA3; font-family:'Rockwell'; margin: 30px; font-weight: 400;">{{ words_list[i] }}</a></b></div>
+    {% endfor %}
+</div>
+<!-- Add navigation links for the pages -->
+<div class="pagination-word-list">
+    {% for page in range(1, total_pages + 1) %}
+        {% if page == current_page %}
+            <span class="px-6-current-page">{{ page }}</span>  <!-- The current page number is not a link -->
+        {% else %}
+            <a href="?page={{ page }}" class="px-6-page">{{ page }}</a>  <!-- Other page numbers are links -->
+        {% endif %}
+    {% endfor %}
+</div>
+</div>
+{% endblock %}

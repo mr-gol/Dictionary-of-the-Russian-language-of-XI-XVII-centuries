@@ -1,0 +1,460 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-03-24 21:51+0300\n"
+"PO-Revision-Date: 2024-03-24 22:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.12.1\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: templates/base.html:11
+msgid "Словарь русского языка XI–XVII веков "
+msgstr "Dictionary of the Russian language of the 11th-17th centuries "
+
+#: templates/base.html:18 templates/main_page.html:18
+msgid "Главная"
+msgstr "Main page"
+
+#: templates/base.html:21 templates/main_page.html:21
+msgid "Поиск по словарю"
+msgstr "Word search"
+
+#: templates/base.html:24 templates/main_page.html:24
+msgid "Поиск по источникам"
+msgstr "Search by sources"
+
+#: templates/base.html:27 templates/main_page.html:27
+msgid "Заголовочные формы"
+msgstr "Headwords"
+
+#: templates/error.html:14
+msgid "Ошибка поиска."
+msgstr "Search error."
+
+#: templates/error.html:17
+msgid "Возможно, Вы ввели не все нужные данные."
+msgstr "You may not have selected an important search parameter."
+
+#: templates/main_page.html:44
+msgid "Словарь русского языка XI–XVII веков"
+msgstr "Dictionary of the Russian language of the 11th-17th centuries"
+
+#: templates/main_page.html:45
+msgid ""
+"База данных словаря, переведенная в цифровой формат. Теперь Вы можете "
+"искать информацию из словаря онлайн! "
+msgstr ""
+"The database of the dictionary is now online. Here you can look for the "
+"content you need. "
+
+#: templates/main_page.html:49
+msgid "поиск"
+msgstr "search"
+
+#: templates/main_page.html:50
+msgid "поиск по источникам "
+msgstr "search by sources "
+
+#: templates/main_page.html:56
+msgid "О проекте"
+msgstr "About the project"
+
+#: templates/main_page.html:57
+msgid ""
+"Словарь русского языка XI–XVII вв., создаваемый в Институте русского "
+"языка им. В.В. Виноградова РАН с 1975 г., является универсальным "
+"словарем письменной культуры русского Средневековья. К источникам "
+"словаря принадлежат памятники самого широкого жанрового и "
+"хронологического диапазона: бытовая и деловая письменность, "
+"повествовательная литература, летописи, хожения и путевые заметки, "
+"агиография, гимнографические и богословские сочинения, библейские "
+"тексты. Среди них как оригинальные славянские тексты, так и переводы с "
+"греческого, латинского, древнееврейского, польского, германских языков."
+msgstr ""
+"Dictionary of the Russian language of the 11th–17th centuries, created "
+"at the V.V. Vinogradov Institute of the Russian Language RAS since 1975, "
+"is a universal dictionary of the written culture of the Russian Middle "
+"Ages. The sources of the dictionary include monuments of the widest "
+"genre and chronological range: everyday and business writing, narrative "
+"literature, chronicles, walks and travel notes, hagiography, "
+"hymnographic and theological works, biblical texts, etc. Among them are "
+"both original Slavic texts and translations from Greek, Latin, Hebrew, "
+"Polish, and Germanic languages."
+
+#: templates/main_page.html:59
+msgid ""
+"Идея создания исторического словаря русского языка принадлежит А. И. "
+"Соболевскому, положившему в середине – второй половине 1920-х гг. начало "
+"картотеке словаря. В настоящее время работа над словарем продолжается. В "
+"2023 г. вышел из печати 32 выпуск, таким образом, словарь охватывает "
+"слова, начинающиеся на буквы А — У. В дополнение к основным томам "
+"отдельно опубликованы Справочный том (включает историю создания "
+"Картотеки и Словаря, указатель источников и обратный словник выпусков 1–"
+"25), Справочные материалы (включают обновленный указатель источников и "
+"словник 1–31 выпусков) и Дополнения и исправления к первому выпуску "
+"(алфавитный отрезок А–Б)."
+msgstr ""
+"The idea of creating a historical dictionary of the Russian language "
+"belongs to A. I. Sobolevsky, who founded the Card Catalog of the "
+"Dictionary in the mid-second half of the 1920s. As the years progress, "
+"work on the dictionary continues and in 2023, the 32nd issue was "
+"published. At present, the dictionary covers words beginning with the "
+"letters from A to U. In addition to the main volumes, the following "
+"volumes were published separately: Reference volume, which includes the "
+"history of the creation of the Card Catalog of the Dictionary, an index "
+"of sources and a reverse word index of issues 1–25, Reference Materials, "
+"which include an updated index of sources and a reverse word index of "
+"issues 1–25, and Supplements and Corrections to the 1st issue (letters A "
+"– B)."
+
+#: templates/main_page.html:61
+msgid ""
+"Проект дигитализации словаря инициирован редакторами словаря Я. А. "
+"Пеньковой, Р. Н. Кривко и М. И. Чернышевой и ведется в сотрудничестве "
+"группы «Словаря русского языка XI–XVII вв.» ИРЯ РАН и Школы лингвистики "
+"НИУ ВШЭ. Участники проекта: Я. А. Пенькова, Р. Н. Кривко, М. А. Бобрик-"
+"Фремке, М. И. Чернышева, М. О. Новак, З. Е. Оборнева, А. Е. Соболева, В. "
+"К. Скрипка, Н. П. Иордани, Н. А. Кулева, О. Н. Ляшевская, Д. В. "
+"Сичинава, Елена Сокур, Валерия Морозова, Анна Запорощенко, Мария "
+"Николаенкова, Яна Шишкина, Филипп Бурлаков, Варвара Васильева, Теодор "
+"Дудий, Елена Зайцева, Ксения Лапшина, Светлана Майорова, Дарья Мороз, "
+"Мария Островская, Ирина Провлоцкая, Мария Родина, Альмира Самигуллина, "
+"Татьяна Симонова, Алина Хургес, Ксения Шерман, Оксана Ковалева, Стефан "
+"Ребриков, Мария Голубцова, Анна Исаева, Иван Широков, Анна Александрова, "
+"Ирина Кочеткова."
+msgstr ""
+"The dictionary digitalization project was initiated by the dictionary "
+"editors Yana Pen’kova, Roman Krivko and Margarita Chernysheva and is "
+"being carried out in collaboration of the group “Dictionary of the "
+"Russian Language of the 11th–17th centuries” of V. V. Vinogradov "
+"Institute of the Russian Language RAS and the School of Linguistics of "
+"the National Research University Higher School of Economics. Project "
+"participants: Yana Pen’kova, Roman Krivko, Marina Bobrik-Fremke, "
+"Margarita Chernysheva, Maria Novak, Zinaida Oborneva, Aleksandra "
+"Soboleva, Veronika Skripka, Natalia Iordani, Natalia Kuleva, Olga "
+"Lyashevskaya, Dmitri Sitchinava, Elena Sokur, Valeria Morozova, Anna "
+"Zaporoshchenko, Maria Nikolaenkova, Yana Shishkina, Philip Burlakov, "
+"Varvara Vasilyeva, Theodor Dudiy, Elena Zajtseva, Ksenia Lapshina, "
+"Svetlana Mayorova, Daria Moroz, Maria Ostrovskaya, Irina Provlotskaya, "
+"Maria Rodina, Almira Samigullina, Tatyana Simonova, Alina Hurges, Ksenia "
+"Sherman, Oksana Kovaleva, Stefan Rebrikov, Maria Golubtsova, Anna "
+"Isaeva, Ivan Shirokov, Anna Alexandrova, Irina Kochetkova."
+
+#: templates/main_page.html:63
+msgid ""
+"При использовании в работе данных словаря просим ссылаться на словарь "
+"следующими способами."
+msgstr ""
+"When using dictionary data in your work, please refer to the dictionary "
+"in the following ways."
+
+#: templates/main_page.html:65
+msgid "Ссылка на полиграфическую версию словаря:"
+msgstr "Printed version of the dictionary:"
+
+#: templates/main_page.html:67
+msgid "Словарь русского языка XI–XVII вв. Москва, «Наука», 1975–."
+msgstr ""
+"Slovar’ russkogo jazuka XI–XVII vv. [Dictionary of the Russian language "
+"of the 11th-17th centuries]. Moscow: Nauka, 1975-."
+
+#: templates/main_page.html:69
+msgid "Ссылка на онлайн-версию словаря:"
+msgstr "Online version of the dictionary:"
+
+#: templates/main_page.html:71
+msgid ""
+"Olga Lyashevskaya, Yana Penkova. Revised entries in the multi-volume "
+"edition and TEI encoding: a case of the historical dictionary of "
+"Russian. In Proceedings of XIX EURALEX Congress: Lexicography for "
+"Inclusion Vol. II. Komotini, Greece: Democritus University of Thrace, "
+"2021. P. 655-662."
+msgstr ""
+"Olga Lyashevskaya, Yana Penkova. Revised entries in the multi-volume "
+"edition and TEI encoding: a case of the historical dictionary of "
+"Russian. In Proceedings of XIX EURALEX Congress: Lexicography for "
+"Inclusion Vol. II. Komotini, Greece: Democritus University of Thrace, "
+"2021. P. 655-662."
+
+#: templates/main_page.html:73
+msgid "Github проекта"
+msgstr "Project Github"
+
+#: templates/result.html:12
+msgid "вхождений"
+msgstr "entries found"
+
+#: templates/search1.html:20
+msgid ""
+"В данной версии поиска Вы можете заполнить только одно из следующих трех "
+"полей. В случае, если Вы попробуете, к примеру, совершить поиск, "
+"заполнив поля \"Поиск по заголовочному слову\" и \"Поиск по маске\", Ваш "
+"поиск не увенчается успехом."
+msgstr ""
+"In this version of search you can only use one of the first three boxes. "
+"For example, in case you fill \"Search by word\" and \"Search by mask\", "
+"the search will not be possible."
+
+#: templates/search1.html:26
+msgid "Поиск по заголовочному слову"
+msgstr "Search by headword"
+
+#: templates/search1.html:35
+msgid "Поиск по маске"
+msgstr "Search by mask"
+
+#: templates/search1.html:37
+msgid "'_' - любой символ; '*' - любое количество любых символов"
+msgstr "'_' - any symbol; '*' - any number of symbols"
+
+#: templates/search1.html:45
+msgid "Поиск по форме"
+msgstr "Search by form"
+
+#: templates/search1.html:55
+msgid "Поиск по примерам"
+msgstr "Search by examples"
+
+#: templates/search1.html:65
+msgid "Поиск по зоне фразеологии"
+msgstr "Search by phraseology field"
+
+#: templates/search1.html:75
+msgid "Поиск по элементам толкования"
+msgstr "Search by interpretation elements"
+
+#: templates/search1.html:85
+msgid "Поиск по глоссам"
+msgstr "Search by glosses"
+
+#: templates/search1.html:95
+msgid "Поиск по этимологии"
+msgstr "Search by etymology"
+
+#: templates/search1.html:109
+msgid "Часть речи"
+msgstr "Part of speech"
+
+#: templates/search1.html:119
+msgid "существительное"
+msgstr "noun"
+
+#: templates/search1.html:120
+msgid "прилагательное"
+msgstr "adjective"
+
+#: templates/search1.html:121
+msgid "глагол"
+msgstr "verb"
+
+#: templates/search1.html:122
+msgid "наречие"
+msgstr "adverb"
+
+#: templates/search1.html:123
+msgid "числительное"
+msgstr "numeral"
+
+#: templates/search1.html:138
+msgid "Число"
+msgstr "Number"
+
+#: templates/search1.html:148
+msgid "единственное"
+msgstr "single"
+
+#: templates/search1.html:149
+msgid "множественное"
+msgstr "plural"
+
+#: templates/search1.html:150
+msgid "двойственное"
+msgstr "dual"
+
+#: templates/search1.html:157
+msgid "Род"
+msgstr "Gender"
+
+#: templates/search1.html:167
+msgid "женский"
+msgstr "feminine"
+
+#: templates/search1.html:168
+msgid "мужской"
+msgstr "masculine"
+
+#: templates/search1.html:169
+msgid "средний"
+msgstr "neuter"
+
+#: templates/search1.html:176
+msgid "Степень"
+msgstr "Degree"
+
+#: templates/search1.html:186
+msgid "сравнительная"
+msgstr "comparative"
+
+#: templates/search1.html:199
+msgid "Вид"
+msgstr "Aspect"
+
+#: templates/search1.html:210
+msgid "совершенный"
+msgstr "perfective"
+
+#: templates/search1.html:211
+msgid "несовершенный"
+msgstr "imperfective"
+
+#: templates/search1.html:241
+msgid "Тип парадигмы"
+msgstr "Paradigm type"
+
+#: templates/search1.html:251
+msgid "нескл."
+msgstr "uninflected"
+
+#: templates/search1.html:253
+msgid "неизм."
+msgstr "inflexible"
+
+#: templates/search1.html:267
+msgid "Дата написания (период в годах)"
+msgstr "Date of writing (period in years)"
+
+#: templates/search1.html:269
+msgid "Не раньше:"
+msgstr "Not earlier than:"
+
+#: templates/search1.html:271
+msgid "Не позже:"
+msgstr "Not later than:"
+
+#: templates/search1.html:280
+msgid "Дата написания в веках не раньше:"
+msgstr "Date of writing in centuries (not earlier than):"
+
+#: templates/search1.html:298
+msgid "Дата написания в веках не позже:"
+msgstr "Date of writing in centuries (not later than):"
+
+#: templates/search1.html:313 templates/source_search.html:91
+msgid "Искать"
+msgstr "Search"
+
+#: templates/source_search.html:13
+msgid "Название"
+msgstr "Title"
+
+#: templates/source_search.html:24
+msgid "Тип источника"
+msgstr "Source type"
+
+#: templates/source_search.html:33
+msgid "переводной"
+msgstr "translated"
+
+#: templates/source_search.html:34
+msgid "не переводной"
+msgstr "not translated"
+
+#: templates/source_search.html:42
+msgid "Жанр источника"
+msgstr "Source genre"
+
+#: templates/source_search.html:51
+msgid "Библия и апокрифы"
+msgstr "The Bible and Apocrypha"
+
+#: templates/source_search.html:52
+msgid "Богословие"
+msgstr "Theology"
+
+#: templates/source_search.html:53
+msgid "Гомилетика"
+msgstr "Homiletics"
+
+#: templates/source_search.html:54
+msgid "Агиография"
+msgstr "Hagiography"
+
+#: templates/source_search.html:55
+msgid "Повести и беллетристика"
+msgstr "Novellas and belles-lettres"
+
+#: templates/source_search.html:56
+msgid "Литургика"
+msgstr "Liturgics"
+
+#: templates/source_search.html:57
+msgid "Эпистолография"
+msgstr "Epistolography"
+
+#: templates/source_search.html:58
+msgid "Летопись"
+msgstr "Chronicle (Letopis)"
+
+#: templates/source_search.html:59
+msgid "Хроника и хронография"
+msgstr "Chronicle and chronography"
+
+#: templates/source_search.html:60
+msgid "Документы"
+msgstr "Documents"
+
+#: templates/source_search.html:68
+msgid "Язык оригинала переводного источника"
+msgstr "Language of the original"
+
+#: templates/source_search.html:80
+msgid "греческий "
+msgstr "Greek"
+
+#: templates/source_search.html:81
+msgid "латынь"
+msgstr "Latin"
+
+#: templates/source_search.html:82
+msgid "немецкий"
+msgstr "German"
+
+#: templates/source_search.html:83
+msgid "польский"
+msgstr "Polish"
+
+#: templates/source_search.html:84
+msgid "чешский"
+msgstr "Czech"
+
+#~ msgid "ENG"
+#~ msgstr "RUS"
+
+#~ msgid "RUS"
+#~ msgstr "ENG"
+
+#~ msgid ""
+#~ "Основная задача проекта - онлайн-версия продолжающегося издания "
+#~ "словаря русского языка XI–XVII веков. Проект дигитализации словаря "
+#~ "инициирован редакторами словаря Я. А. Пеньковой, Р. Н. Кривко, М. И. "
+#~ "Чернышевой и ведется в сотрудничестве с ИРЯ РАН (Я. А. Пенькова, М. "
+#~ "О. Новак, З. Оборнева и др.)."
+#~ msgstr ""
+#~ "The main point of this project is making an online version of the "
+#~ "ongoing dictionary of Russian languge of XI–XVII centuries. This "
+#~ "project was initialised by the dictionary's editors Ya. А. Penkova, "
+#~ "R. N. Krivko, М. I. Chernysheva and is being worked on in cooperation "
+#~ "with V.V. Vinogradov Russian Language Institute of the Russian "
+#~ "Academy of Sciences."
