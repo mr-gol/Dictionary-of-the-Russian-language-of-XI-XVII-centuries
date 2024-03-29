@@ -1,6 +1,8 @@
 **Директории**
 
 * База данных оказалась слишком большой, чтобы загрузить ее на гитхаб, поэтому ту ее версию, с которой разрабатывался и редактировался сайт, можно скачать по ссылке на диск: https://drive.google.com/file/d/1fdNCaqjJHIxtGACeOjAB69BHI0nLmtFP/view?usp=sharing
+
+* Дополненная БД (включающая данные 28-31 томов) лежит здесь: https://drive.google.com/file/d/1e99MpwG5K8fGykRN5vKsdYerNxN6qcLO/view?usp=sharing 
   
 Файл Dictionary_Final.db стоит добавить в папку flask/rus_dict/Database. В дальнейшем дополненной версией базы можно просто заметить этот файл в папке. 
 
